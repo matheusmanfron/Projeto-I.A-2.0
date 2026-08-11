@@ -74,3 +74,7 @@ O dono do comércio não vai estar 100% disponível para atender os clientes, en
 | 3 | Definir dados de teste e treino |
 | 4 | Aplicar                         |
 | 5 | Entrega Final                   |
+
+## 👾​ Uso de I.A
+
+O uso da I.A foi feito para pesquisar empresas que já possuem uma ferramenta semelhante á que vou desenvolver, listar limitações no meu projeto e para reformatar o README.MD
