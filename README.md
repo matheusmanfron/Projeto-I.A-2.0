@@ -82,7 +82,7 @@ Pois o uso de uma I.A treinada com diversos dados, pode ter uma porcentagem de a
 ---
 
 # Análise sobre solução baseado em regras
-* As regras seriam, analisar as chances dos gols e o número de gols feitos nas ultimas partidas, realizar uma média, compara-las entre os dois times, e o que tem a maior méida ganhará a comparação
+* As regras seriam, analisar as chances dos gols, número de gols feitos nas ultimas partidas, porcentagem de posse de bola, passes certos, roubos de bola, divididas ganhas, realizar uma média, compara-las entre os dois times, e o que tem a maior méida ganhará a comparação.
 
 ---
 
