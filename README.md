@@ -72,6 +72,23 @@ Pois o uso de uma I.A treinada com diversos dados, pode ter uma porcentagem de a
 
 ---
 
+---
+
+## Justificativa consolidada
+* A abordagem escolhida para meu projeto é o método machine learning, por ser uma área que eu possuo mais familiaridade, e por trabalhar com mais volume de dados.
+
+---
+
+---
+
+# Análise sobre solução baseado em regras
+* As regras seriam, analisar as chances dos gols e o número de gols feitos nas ultimas partidas, realizar uma média, compara-las entre os dois times, e o que tem a maior méida ganhará a comparação
+
+---
+
+
+---
+
 ## 🤖 Abordagens consideradas
 
 | Abordagem | Como funcionaria | Vantagens | Desvantagens | Viabilidade |
