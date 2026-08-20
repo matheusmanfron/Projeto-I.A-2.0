@@ -70,8 +70,17 @@ Pois o uso de uma I.A treinada com diversos dados, pode ter uma porcentagem de a
   
 * TheSportsDB: Base de dados aberta mantida pela comunidade. Oferece uma API JSON gratuita ideal para obter metadados de ligas, históricos de partidas, detalhes de times e elencos em futebol, basquete, e outros esportes.
 
-  
+---
 
+## 🤖 Abordagens consideradas
+
+| Abordagem | Como funcionaria | Vantagens | Desvantagens | Viabilidade |
+| --- | --- | --- | --- | --- |
+| **Machine Learning (Classificação/Previsão)** | Modelo treinado com dados históricos de partidas, como vitórias, empates, derrotas, gols, finalizações, escanteios e desempenho recente. A partir dos dados das equipes, o modelo calcularia as probabilidades de vitória, empate e derrota, além de outras estatísticas. | Aprende padrões dos dados; trabalha com diversas variáveis; pode atingir boa precisão com uma base histórica adequada; permite gerar diferentes previsões estatísticas. | Necessita de uma base de dados grande e confiável; resultados podem ser afetados por dados incompletos; risco de overfitting; o futebol possui fatores imprevisíveis. | **Alta** — é a abordagem mais alinhada ao projeto e pode ser implementada gradualmente com Python e bibliotecas de Machine Learning. |
+| **Lógica Fuzzy** | Utilizaria variáveis como força do ataque, força da defesa, fase atual e desempenho como mandante, classificadas em níveis como “baixo”, “médio” e “alto”. Regras fuzzy combinariam essas informações para estimar a força de cada equipe e auxiliar na previsão da partida. | Lida bem com informações imprecisas; regras são interpretáveis; permite representar conceitos como “time em boa fase”; pode complementar o modelo preditivo. | A definição das regras pode ser subjetiva; pode apresentar menor capacidade preditiva que Machine Learning quando há muitos dados; exige ajustes para evitar resultados inconsistentes. | **Média/Alta** — é viável como complemento ao Machine Learning, principalmente para incorporar fatores subjetivos do desempenho das equipes. |
+
+---
+  
 ---
 
 ## 📋 Backlog inicial
