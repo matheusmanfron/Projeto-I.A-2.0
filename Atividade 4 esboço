@@ -1,0 +1,13 @@
+---
+
+# Origem da base 
+* footbal-data.org, site que disponibiliza gratuitamente dados das partidas de futebol de diversos times via API
+
+---
+
+---
+
+# Dicionario de dados
+* Variaveis na tabela = data	competicao	mandante	visitante	gols_mandante	gols_visitante	status	resultado_do_time	
+
+---
