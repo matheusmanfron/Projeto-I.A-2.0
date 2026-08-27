@@ -48,6 +48,9 @@ Focada em futebol (principais ligas da Europa) e esportes americanos (NBA, NFL, 
 
 Uma das plataformas mais conhecidas do segmento. Ela permite que o usuário crie modelos preditivos personalizados baseados nos dados que considera mais importantes (como eficiência defensiva ou saldo de pontos), oferecendo previsões para NBA, futebol europeu, basquete universitário e NFL.
 
+### SportMonks
+
+* Um site que permite consultar partidas e estatísticas de determinados times de futebol, tudo via API
 ---
 
 ## ⚠️ Limitações iniciais
@@ -66,9 +69,8 @@ Pois o uso de uma I.A treinada com diversos dados, pode ter uma porcentagem de a
 
 ## 📚 Fontes de dados
 
-* StatsBomb Open Data: A StatsBomb disponibiliza gratuitamente em seu repositório no GitHub dados históricos ricos e detalhados de eventos (passes, chutes, pressão) de campeonatos específicos.
-  
-* TheSportsDB: Base de dados aberta mantida pela comunidade. Oferece uma API JSON gratuita ideal para obter metadados de ligas, históricos de partidas, detalhes de times e elencos em futebol, basquete, e outros esportes.
+### SportsMonks
+Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados que satisfazem o treinamento do modelo, porém, se limita apenas para os times da liga escocesa masculina.
 
 ---
 
