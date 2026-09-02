@@ -1,0 +1,7 @@
+# Credenciais e respostas locais
+.env
+partida_*.json
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
