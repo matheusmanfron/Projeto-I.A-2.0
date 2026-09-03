@@ -8,6 +8,18 @@ Existe no mercado, muitas ferramentas de automação usando I.A, uma delas é o 
 
 ---
 
+---
+
+## ❗​Atualizações
+
+Listarei as alterações que fiz ao decorre das semanas para a entrega da AP1 final =
+  *Nova consulta na API para consultar novos dados para preencher as estatísticas faltantes
+  *Criação de scripts Python para auxiliar na padronização dos dados e na métrica dos mesmo
+  *Escrita do documento exigido na atividade 5
+  *Script python para gerar gráfico comparativo entre as duas equipes
+
+---
+
 ## 🔗 Relação do projeto e uma aplicação de I.A
 
 Acredito que uma I.A desenvolvida para ter a capacidade de prever um resultado de uma partida de futebol com base em dados e estatísticas de partidas anteriores, é o método que mais se aproxima ao realismo de uma previsão.
@@ -114,4 +126,6 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
 
 ## 👾​ Uso de I.A
 
-O uso da I.A foi feito para pesquisar empresas que já possuem uma ferramenta semelhante á que vou desenvolver, listar limitações no meu projeto e para reformatar o README.MD
+O uso da I.A foi feito para pesquisar empresas que já possuem uma ferramenta semelhante á que vou desenvolver, listar limitações no meu projeto e para reformatar o README.MD.
+
+Atualização: Uso da IA para gerar os scripts python sob revisão minha, auxilio na escrita do documento final e na criação dos slide da apresentação.
