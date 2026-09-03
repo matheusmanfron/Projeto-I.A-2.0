@@ -17,9 +17,8 @@ Listarei as alterações que fiz ao decorre das semanas para a entrega da AP1 fi
   *Criação de scripts Python para auxiliar na padronização dos dados e na métrica dos mesmo
   *Escrita do documento exigido na atividade 5
   *Script python para gerar gráfico comparativo entre as duas equipes
-  *Para ter acesso aos scripts python, acesse a pasta ScriptsPython
-  *O documento de relatório será colocado aqui na repositório
-  *Já os slides enviarei a parte
+  *Para ter acesso aos scripts python e ao gráfico comparativo, acesse a pasta ScriptsPython
+  *Os slides e o relatório será enviado separado do repositório pela plataforma Aula.
 
 ---
 
