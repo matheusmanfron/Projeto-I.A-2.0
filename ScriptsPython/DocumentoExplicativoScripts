@@ -1,0 +1,8 @@
+##Documento de desenvolvimento de scripts
+
+Os scripts gerados em python tem a função de, exportar uma base de dados atualizada e padronizada para CSV e gerar um gráfico
+a partir da média de certas estatísticas da base de dados.
+
+O script TesteEstatisticas.py, tem o intuito apenas como esboço para calcular estatísticas.
+
+Os CSVs que serão apresentados na quinta são os com sufixo padronizado.
