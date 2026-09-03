@@ -9,15 +9,7 @@
 
     #Dados faltantes = 
                         | Coluna                    | Valores ausentes | Proporção |
-                        | ------------------------- | ---------------: | --------: |
-                        | resultado                 |                2 |       10% |
-                        | Escanteios                |                2 |       10% |
-                        | Posse de bola (%)         |                2 |       10% |
-                        | Gols                      |                2 |       10% |
-                        | Assistências              |                4 |       20% |
                         | Cartões vermelhos         |               17 |       85% |
-                        | Cartões amarelos          |                2 |       10% |
-                        | Dribles bem-sucedidos (%) |                2 |       10% |
 
     #Dados duplicados = Sem dados duplicados
 
@@ -36,11 +28,11 @@
 2 - Tabela diagnostico = 
         | Problema encontrado                        | Onde aparece                                  | Gravidade | Ação de tratamento proposta                                                                       | Quando será tratado             |
         | ------------------------------------------ | --------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------- | ------------------------------- |
-        | Partidas não concluídas                    | Registros com `state_id = 10`                 | Alta      | Atualizar os dados após as partidas ou remover esses registros do treinamento                     | Encontro 8                      |
-        | Resultados ausentes                        | Coluna `resultado`, 2 registros               | Alta      | Não utilizar registros sem resultado como exemplos de treinamento                                 | Encontro 8                      |
-        | Estatísticas ausentes                      | Duas partidas de 22/08/2026                   | Alta      | Buscar novamente os dados ou excluir temporariamente os registros                                 | Encontro 8                      |
-        | Assistências ausentes                      | `Assistências`, 4 registros                   | Média     | Verificar a API e, se não for possível recuperar, avaliar a remoção da variável                   | Encontro 8                      |
-        | Resultado textual não padronizado          | Coluna `resultado`                            | Alta      | Converter para Vitória, Empate e Derrota pela perspectiva do time da linha                        | Encontro 8                      |
+        | Partidas não concluídas                    | Registros com `state_id = 10`                 | Alta      | Atualizar os dados após as partidas ou remover esses registros do treinamento                     | Resolvido                   |
+        | Resultados ausentes                        | Coluna `resultado`, 2 registros               | Alta      | Não utilizar registros sem resultado como exemplos de treinamento                                 | Resolvido                    |
+        | Estatísticas ausentes                      | Duas partidas de 22/08/2026                   | Alta      | Buscar novamente os dados ou excluir temporariamente os registros                                 | Resolvido                      |
+        | Assistências ausentes                      | `Assistências`, 4 registros                   | Média     | Verificar a API e, se não for possível recuperar, avaliar a remoção da variável                   | Resolvido parcialmente                     |
+        | Resultado textual não padronizado          | Coluna `resultado`                            | Alta      | Converter para Vitória, Empate e Derrota pela perspectiva do time da linha                        | Resolvido de outra forma                      |
         | Repetição de `fixture_id`                  | Partida `19700214`                            | Baixa     | Utilizar `fixture_id + team_id` como chave composta                                               | Na consolidação                 |
         | Data possivelmente armazenada como texto   | Coluna `data`                                 | Média     | Converter para o tipo `datetime`                                                                  | Encontro 8                      |
         | Duas temporadas na mesma base              | Coluna `season_id`                            | Média     | Manter a informação e realizar divisão cronológica dos dados                                      | Antes do treinamento            |
