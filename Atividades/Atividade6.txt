@@ -1,0 +1,24 @@
+Autoanálise do projeto FutAnalytics
+
+Após a apresentação da AP1, aqui escrevo os pontos positivos e negativos do meu projeto, na minha opinião
+
+Pontos positivos:
+	Escolha da fonte de dados: Como fonte de dados para conseguir o meu dataset, usei o site SportMonks, que disponibiliza uma API gratuita para consultar
+	dados de times de diversas ligas esportivas, mesmo a versão gratuita (A que uso no momento) limitando a busca para apenas 2 ligas esportivas de 	futebol, no meu caso escolhi a liga escocesa, tem uma base de dados boa para começar no desenvolvimento, relativamente simples de usar, e o com 	atualizações constantes, ou seja, não são dados datados, e sim condizente com a temporada atual que os times estão.
+	
+	Ferramentas Python: Outro ponto que no meu ver, se destaca no meu projeto, são os scripts em python que desenvolvi para meu auxiliar a padronizar os   	dados e fazer uma análise geral do dataset atual e transformar em um resultado visual para o espectador observar com clareza os dados que irei 	trabalhar nesse projeto, confesso que gerei esses códigos com I.A, mas já tinha conhecimento das bibliotecas pandas e sckit-learn por conta do estágio 	e cursos de análise de dados e machine learning que fiz.
+
+Pontos negativos:
+	Organização: Conforme o projeto foi crescendo, comecei a incrementar mais coisas e adicionar as etapas da atividade, não me atentei á organização do  	repositório, então muitas coisas ficaram misturadas e sem coerência com os demais tópicos, por isso que antes de qualquer alteração no projeto, irei  	reorganizar as pastas e arquivos para que  tudo fique em ordem e de fácil entendimento para futuras avaliações. Além da falta de arquivos notebooks no
+	projeto, também será adicionado com o devido cuidado.
+
+	Base de dados extremamente pequena: Como peguei somente os dados de 2 times da Escócia, e ainda por cima os maiores e mais fortes do país, gerando um   	problema de viés, o conteúdo em si dentro do dataset, é insuficiente para dar continuidade na etapa de treinamento do modelo de I.A, como solução, 	irei pegar dados de todos os times que compõe a liga atualmente (12 no total) e aumentarei seu número de registros, de 10 partidas por time, para 100, 
+	tendo um expressivo aumento de 20 registros para 1200 (ainda sim uma base pequena, mas maleável).
+
+Backlog do projeto:
+	[/] Organização do repositório
+	[] Criação dos notebooks no Google Colab
+	[] Aumento da base de dados
+	[] Padronização dos dados
+	[] Treinamento do modelo de I.A
+	[] Teste do modelo
