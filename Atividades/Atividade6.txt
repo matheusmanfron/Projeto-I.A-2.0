@@ -1,24 +1,21 @@
 Autoanálise do projeto FutAnalytics
 
-Após a apresentação da AP1, aqui escrevo os pontos positivos e negativos do meu projeto, na minha opinião
+Após a apresentação da AP1, apresento os pontos positivos e negativos do meu projeto:
 
 Pontos positivos:
-	Escolha da fonte de dados: Como fonte de dados para conseguir o meu dataset, usei o site SportMonks, que disponibiliza uma API gratuita para consultar
-	dados de times de diversas ligas esportivas, mesmo a versão gratuita (A que uso no momento) limitando a busca para apenas 2 ligas esportivas de 	futebol, no meu caso escolhi a liga escocesa, tem uma base de dados boa para começar no desenvolvimento, relativamente simples de usar, e o com 	atualizações constantes, ou seja, não são dados datados, e sim condizente com a temporada atual que os times estão.
+	Escolha da fonte de dados: Como fonte de dados para obter o dataset, utilizei o site SportMonks, que disponibiliza uma API gratuita para consultar dados de equipes de diversas ligas esportivas. Embora a versão gratuita (que utilizo no momento) limite a busca a apenas duas ligas de futebol — no meu caso, escolhi a liga escocesa —, a plataforma oferece uma base de dados adequada para o início do desenvolvimento. É relativamente simples de usar e conta com atualizações constantes, garantindo dados condizentes com a temporada atual dos times.
 	
-	Ferramentas Python: Outro ponto que no meu ver, se destaca no meu projeto, são os scripts em python que desenvolvi para meu auxiliar a padronizar os   	dados e fazer uma análise geral do dataset atual e transformar em um resultado visual para o espectador observar com clareza os dados que irei 	trabalhar nesse projeto, confesso que gerei esses códigos com I.A, mas já tinha conhecimento das bibliotecas pandas e sckit-learn por conta do estágio 	e cursos de análise de dados e machine learning que fiz.
+	Ferramentas Python: Outro ponto de destaque são os scripts em Python desenvolvidos para me auxiliar na padronização dos dados e na análise geral do dataset, transformando os resultados em representações visuais claras. Embora tenha gerado esses códigos com o auxílio de IA, eu já possuía conhecimento prévio das bibliotecas pandas e scikit-learn devido ao estágio e a cursos de análise de dados e machine learning.
 
 Pontos negativos:
-	Organização: Conforme o projeto foi crescendo, comecei a incrementar mais coisas e adicionar as etapas da atividade, não me atentei á organização do  	repositório, então muitas coisas ficaram misturadas e sem coerência com os demais tópicos, por isso que antes de qualquer alteração no projeto, irei  	reorganizar as pastas e arquivos para que  tudo fique em ordem e de fácil entendimento para futuras avaliações. Além da falta de arquivos notebooks no
-	projeto, também será adicionado com o devido cuidado.
+	Organização: Conforme o projeto cresceu com a inclusão de novas etapas, não me atentei à organização do repositório. Como resultado, diversos arquivos ficaram desordenados. Antes de realizar qualquer alteração estrutural, reorganizarei as pastas e arquivos para garantir fácil entendimento nas próximas avaliações, além de incluir os arquivos de notebooks que faltam.
 
-	Base de dados extremamente pequena: Como peguei somente os dados de 2 times da Escócia, e ainda por cima os maiores e mais fortes do país, gerando um   	problema de viés, o conteúdo em si dentro do dataset, é insuficiente para dar continuidade na etapa de treinamento do modelo de I.A, como solução, 	irei pegar dados de todos os times que compõe a liga atualmente (12 no total) e aumentarei seu número de registros, de 10 partidas por time, para 100, 
-	tendo um expressivo aumento de 20 registros para 1200 (ainda sim uma base pequena, mas maleável).
+	Base de dados reduzida: Como utilizei apenas dados de dois times da Escócia — justamente os maiores do país —, surgiu um problema de viés e uma quantidade insuficiente de dados para o treinamento do modelo de IA. Como solução, coletarei dados de todos os 12 times da liga e expandirei o histórico de 10 para 100 partidas por equipe, elevando o volume de 20 para 1.200 registros (uma base ainda enxuta, porém funcional).
 
 Backlog do projeto:
 	[/] Organização do repositório
-	[] Criação dos notebooks no Google Colab
-	[] Aumento da base de dados
-	[] Padronização dos dados
-	[] Treinamento do modelo de I.A
-	[] Teste do modelo
+	[ ] Criação dos notebooks no Google Colab
+	[ ] Aumento da base de dados
+	[ ] Padronização dos dados
+	[ ] Treinamento do modelo de IA
+	[ ] Testes do modelo
