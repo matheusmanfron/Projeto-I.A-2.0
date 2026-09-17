@@ -1,0 +1,52 @@
+Definição do pipeline
+
+1 Pipeline definida = 
+
+  | Etapa do pipeline         | O que acontece no meu projeto                                                                                                                                                                                                                                            | Ferramenta / biblioteca                                                                                      | Já feito?                                                                                                                                     | Encontro |
+  | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+  | **Entrada / coleta**      | São consultadas partidas de futebol pela API SportMonks. Os dados retornam originalmente em JSON e são selecionadas informações como times, data, placar, estatísticas e resultado. Depois, os registros são exportados para arquivos CSV.                               | SportMonks API, Python, `requests`, `json`, `pandas`                                                         | **Sim.** A consulta e a exportação inicial para CSV já foram implementadas.A ampliação da quantidade de partidas e de times ainda é necessário| 1–5      |
+  | **Limpeza e preparação**  | Serão tratados valores ausentes, partidas sem estatísticas, duplicidades, tipos incorretos e diferenças de representação. As partidas serão ordenadas por time e data. Também serão criadas médias históricas, usando somente partidas anteriores para evitar vazamento. | Python e `pandas`                                                                                            | **Parcialmente.** O diagnóstico da base já foi realizado, mas os tratamentos e a criação das médias históricas ainda precisam ser concluídos. | 8        |
+  | **Separação X e y**       | Em `X` ficarão as variáveis usadas na previsão, como médias anteriores de gols, posse, escanteios, assistências, cartões e desempenho recente. Em `y` ficará a coluna `resultado`, na qual 0 representa derrota, 1 empate e 2 vitória.                                   | Python e `pandas`                                                                                            | **Parcialmente.** A label já foi definida, mas a lista final de features e as médias históricas ainda precisam ser implementadas.             | 7        |
+  | **Divisão treino/teste**  | Os registros serão ordenados cronologicamente. As partidas mais antigas serão usadas no treinamento e as mais recentes no teste, simulando a situação real de aprender com o passado para prever o futuro. A proposta inicial é usar 80% para treino e 20% para teste.   | `pandas` e `scikit-learn`                                                                                    | **Não.** O critério foi definido, mas a divisão ainda precisa ser aplicada à base preparada.                                                  | 7        |
+  | **Treinamento do modelo** | O modelo aprenderá padrões entre o desempenho anterior dos times e o resultado das partidas. Serão comparados um modelo de referência e modelos de classificação, como regressão logística, árvore de decisão e Random Forest.                                           | `scikit-learn` e `DecisionTreeClassifier`                                                                    | **Não.** Será realizado depois da preparação e divisão dos dados.                                                                             | 9        |
+  | **Avaliação**             | As previsões serão comparadas com os resultados reais. Serão analisadas acurácia, precisão, recall, F1-score macro e matriz de confusão, verificando também o desempenho em cada classe.                                                                                 | `scikit-learn.metrics` e `matplotlib`                                                                        | **Não.** Depende do treinamento dos modelos.                                                                                                  | 10       |
+  | **Saída / comunicação**   | O sistema apresentará a previsão de derrota, empate ou vitória para o time analisado. Quando o modelo permitir, também serão exibidas as probabilidades de cada resultado, além de gráficos e uma interpretação simples do desempenho do modelo.                         | Python, `pandas` e `matplotlib`                                                                              | **Não.** O formato foi planejado, mas ainda precisa ser implementado e apresentado.                                                           | AP2      |
+
+2 Entrada, processamento e saída de dados =
+
+  Entrada: A fonte principal dos dados vem da API SportMonks em formato JSON, informando o nome da equipe, seu id, id da partida,
+  time adversário, local da partida, gols, posse de bola, escanteios, assitências, cartões amarelos e vermelhos, dribles e
+  o resultado da partida. Em seguida, esses dados são exportados para um arquivo CSV.
+
+  Processamento: Essa etapa será composta por: Consulta à API -> conversão do JSON para CSV -> Remoção, padronização e tratamento
+  de dados ausentes -> conversão do tipos das colunas -> cálculo de média das partidas anteriores -> separação 
+  entre features e labels -> divisão entre treino e teste -> treinamento do modelo -> Avaliação das previsões.
+
+  Saída: 0 para derrota, 1 para empate e 2 para vitório, porém uma saída mais amigável para o usuário seria:
+  Previsão: vitória do time analisado
+  Probabilidade de vitória: 57%
+  Probabilidade de empate: 25%
+  Probabilidade de derrota: 18%
+
+3 Tipo de aprendizado justificado = 
+
+  O projeto utiliza aprendizado supervisionado porque cada partida histórica possui dados de entrada e um resultado conhecido. A
+  variável de saída é em três classes: derrota, empate e vitória. Portanto, o problema é caracterizado como classificação multiclasse.
+  O modelo aprenderá relações entre o desempenho histórico dos times e os resultados observados para realizar previsões sobre partidas
+  futuras.
+
+4 Features e labels
+  
+  Features: Média de gols marcados, gols, sofridos, posse de bola, escanteios, assitências, percentual de vitórias, empates e derrotas recentes,
+  quantidade de partidas sem sofrer gols, desempenho como mandante ou visitante, média equivalente do adversário.
+
+  Labels: Será o resultado final esperado após à análise das features.
+
+5 Verificação de vazamento 
+  Se utilizar gols, posse, escanteios, cartões ou outras estatísticas da própria partida para prever o resultado daquela mesma partida, haverá vazamento.
+  Para corrigir isso, cada linha referente a uma partida deverá conter apenas médias calculadas com partidas anteriores.
+
+6 Divisão de dados de treino e teste
+
+  80% de treinamento para partidas mais antigas.
+  20% de teste para partidas mais recentes.
