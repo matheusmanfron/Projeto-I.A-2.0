@@ -139,7 +139,7 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
 ---
 
 ## Backlog
- Link do backlog ->
+ Link do backlog -> <https://github.com/matheusmanfron/Projeto-I.A-2.0/blob/main/Atividades/Atividade7>
 
  ---
 ## 👾​ Uso de I.A
