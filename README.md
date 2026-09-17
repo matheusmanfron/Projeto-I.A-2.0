@@ -118,14 +118,23 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
 
 ## 📋 Backlog inicial
 
-| # | Tarefa                          |
-| - | ------------------------------- |
-| 1 | Escolher o tipo de modelo       |
-| 2 | Baixar a base da dados          |
-| 3 | Definir dados de teste e treino |
-| 4 | Aplicar                         |
-| 5 | Entrega Final                   |
+| # | Tarefa                          | Situação  |
+| - | ------------------------------- | Feita
+| 1 | Escolher o tipo de modelo       | Feita
+| 2 | Baixar a base da dados          | Feita
+| 3 | Definir dados de teste e treino | Não
+| 4 | Aplicar                         | Não
+| 5 | Entrega Final                   | Não
 
+---
+
+---
+## Tipo de aprendizado
+
+   Aprendizado supervisionado, pois como o modelo precisa dar pesos para determinados tipos de dados, é necessário uma
+   supervisão desses dados para execução do modelo.
+
+---
 ## 👾​ Uso de I.A
 
 O uso da I.A foi feito para pesquisar empresas que já possuem uma ferramenta semelhante á que vou desenvolver, listar limitações no meu projeto e para reformatar o README.MD.
