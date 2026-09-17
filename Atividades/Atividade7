@@ -28,6 +28,8 @@ Definição do pipeline
   Probabilidade de empate: 25%
   Probabilidade de derrota: 18%
 
+  Observação = Previamente, decidi descartar os dados de cartões amarelos e vermelhos pois, não são fatores que agregam tanto no resultado da partida
+
 3 Tipo de aprendizado justificado = 
 
   O projeto utiliza aprendizado supervisionado porque cada partida histórica possui dados de entrada e um resultado conhecido. A
