@@ -135,6 +135,13 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
    supervisão desses dados para execução do modelo.
 
 ---
+
+---
+
+## Backlog
+ Link do backlog ->
+
+ ---
 ## 👾​ Uso de I.A
 
 O uso da I.A foi feito para pesquisar empresas que já possuem uma ferramenta semelhante á que vou desenvolver, listar limitações no meu projeto e para reformatar o README.MD.
