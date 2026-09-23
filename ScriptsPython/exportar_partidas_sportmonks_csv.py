@@ -14,7 +14,8 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import urlopen
-
+from datetime import date, timedelta
+from time import sleep
 
 URL_BASE = "https://api.sportmonks.com/v3/football/fixtures/between"
 
@@ -79,41 +80,120 @@ def carregar_env(caminho: Path) -> None:
         os.environ.setdefault(chave, valor)
 
 
-def consultar_api(
-    token: str,
-    team_id: int,
-    inicio: str,
-    fim: str,
-    por_pagina: int,
-) -> list[dict]:
-    """Consulta o endpoint de partidas por intervalo e devolve a lista data."""
-    parametros = {
-        "api_token": token,
-        "order": "desc",
-        "per_page": por_pagina,
-        "include": "participants;statistics;scores",
-    }
-    url = f"{URL_BASE}/{inicio}/{fim}/{team_id}?{urlencode(parametros)}"
-
+def consultar_api(token: str, team_id: int, inicio: str,
+                  fim: str, por_pagina: int, league_id: int) -> tuple[list[dict], int]:
     try:
-        with urlopen(url, timeout=60) as resposta:
-            corpo = json.loads(resposta.read().decode("utf-8"))
-    except HTTPError as erro:
-        detalhe = erro.read().decode("utf-8", errors="replace")[:500]
-        raise RuntimeError(f"Erro HTTP {erro.code}: {detalhe}") from erro
-    except URLError as erro:
-        raise RuntimeError(f"Não foi possível acessar a API: {erro.reason}") from erro
-    except TimeoutError as erro:
-        raise RuntimeError("A consulta demorou demais e foi interrompida.") from erro
-    except json.JSONDecodeError as erro:
-        raise RuntimeError("A API não retornou um JSON válido.") from erro
+        data_inicial = date.fromisoformat(inicio)
+        data_final = date.fromisoformat(fim)
+    except ValueError as erro:
+        raise RuntimeError("As datas devem estar no formato YYYY-MM-DD.")from erro
+    
+    if data_inicial > data_final:
+        raise RuntimeError("A data inicial não pode ser posterior à data final.")
 
-    dados = corpo.get("data")
-    if not isinstance(dados, list):
-        raise RuntimeError("A resposta não contém uma lista no campo 'data'.")
-    return dados
+    todas_partidas = []
+    total_consultas = 0
+    inicio_intervalo = data_inicial
 
+    while inicio_intervalo <= data_final:
+        fim_intervalo = min(
+            inicio_intervalo + timedelta(days=99),
+            data_final,
+        )
 
+        pagina = 1
+
+        while True:
+            parametros = {
+                "api_token": token,
+                "order": "asc",
+                "per_page": min(por_pagina, 50),
+                "page": pagina,
+                "filters": f"fixtureLeagues:{league_id}",
+                "include": "participants;statistics;scores",
+            }
+
+            url = (
+                f"{URL_BASE}/"
+                f"{inicio_intervalo.isoformat()}/"
+                f"{fim_intervalo.isoformat()}/"
+                f"{team_id}?"
+                f"{urlencode(parametros)}"
+            )
+
+            total_consultas += 1
+
+            print(
+                f"Consulta {total_consultas:02D}: "
+                f"{inicio_intervalo} até {fim_intervalo}, "
+                f"página {pagina}"
+            )
+
+            try:
+                with urlopen(url, timeout=60) as respostas:
+                    corpo = json.loads(
+                        respostas.read().decode("utf-8")
+                    )
+            except HTTPError as erro:
+                detalhe = erro.read().decode(
+                    "utf-8",
+                    errors="replace",
+                )[:500]
+
+                raise RuntimeError(
+                    f"Erro HTTP {erro.code}: {detalhe}"
+                ) from erro
+            except URLError as erro:
+                raise RuntimeError(
+                    f"Não foi possível acessar a API: {erro.reason}"
+                ) from erro
+            except TimeoutError as erro:
+                raise RuntimeError(
+                    "A consulta demorou demais e foi interrompida."
+                ) from erro
+            except json.JSONDecodeError as erro:
+                raise RuntimeError(
+                    "A API não retornou um JSON válido"
+                ) from erro
+
+            dados = corpo.get("data")
+
+            if not isinstance(dados, list):
+                raise RuntimeError(
+                    "A resposta não contém uma lista no campo 'data'."
+                )
+            
+            todas_partidas.extend(dados)
+
+            rate_limit = corpo.get("rate_limit") or {}
+
+            if rate_limit:
+                print(
+                    "Consultas restantes:",
+                    rate_limit.get("remaning", "não informado"),
+                )
+
+            paginacao = corpo.get("pagination") or {}
+
+            if not paginacao.get("has_more", False):
+                break
+
+            pagina += 1
+            sleep(0,2)
+
+        partidas_unicas = {
+            partida["id"]: partida
+            for partida in todas_partidas
+            if partida.get("id") is not None
+        }
+
+        partidas_ordenadas = sorted(
+            partidas_unicas.values(),
+            key=lambda partida: partida.get("starting_at", ""),
+        )
+
+        return partidas_ordenadas
+    
 def localizar_participantes(partida: dict, team_id: int) -> tuple[dict, dict]:
     participantes = partida.get("participants") or []
     time = next((p for p in participantes if p.get("id") == team_id), None)
@@ -241,19 +321,31 @@ def main() -> None:
         description="Exporta partidas da Sportmonks no formato CSV do projeto."
     )
     parser.add_argument("team_id", type=int, help="ID do time, como 53 ou 62")
-    parser.add_argument("--inicio", default="2025-08-01", help="Data inicial YYYY-MM-DD")
-    parser.add_argument("--fim", default="2026-08-27", help="Data final YYYY-MM-DD")
+
     parser.add_argument(
-        "--quantidade",
-        type=int,
-        default=10,
-        help="Quantidade de partidas válidas no CSV (padrão: 10)",
+        "--inicio",
+        default="2023-07-01",
+        help="Data inicial no formato YYYY-MM-DD",
     )
+
+    parser.add_argument(
+        "--fim",
+        default="2026-06-30",
+        help="Data final no formato YYYY-MM-DD",
+    )
+
+    parser.add_argument(
+        "--liga-id",
+        type=int,
+        default=501,
+        help="ID da competição, 501 é a Scottish Premiership",
+    )
+
     parser.add_argument(
         "--por-pagina",
         type=int,
-        default=25,
-        help="Quantidade consultada na API para encontrar substitutas (padrão: 25)",
+        default=50,
+        help="Quantidade consultada na API por página (50)",
     )
     parser.add_argument(
         "--incluir-sem-estatisticas",
@@ -276,12 +368,16 @@ def main() -> None:
         )
     if token in {"COLE_SEU_NOVO_TOKEN_AQUI", "SEU_TOKEN", "SECRETO"}:
         parser.error("Substitua o valor de exemplo no .env pelo seu novo token.")
-    if args.quantidade < 1 or args.por_pagina < args.quantidade:
-        parser.error("--por-pagina deve ser maior ou igual a --quantidade.")
-
+    if not 1 <= args.por_pagina <= 50:
+        parser.error("--por-pagina deve estar entre 1 e 50.")
     try:
-        partidas = consultar_api(
-            token, args.team_id, args.inicio, args.fim, args.por_pagina
+        partidas, total_consultas = consultar_api(
+            token=token,
+            team_id=args.team_id,
+            inicio=args.inicio,
+            fim=args.fim,
+            por_pagina=args.por_pagina,
+            league_id=args.liga_id,
         )
 
         selecionadas = []
@@ -307,8 +403,6 @@ def main() -> None:
                 continue
 
             selecionadas.append(linha)
-            if len(selecionadas) == args.quantidade:
-                break
     except (RuntimeError, ValueError) as erro:
         print(f"Erro: {erro}", file=sys.stderr)
         sys.exit(1)
@@ -322,18 +416,15 @@ def main() -> None:
     print(f"Partidas recebidas da API: {len(partidas)}")
     print(f"Partidas gravadas no CSV: {len(selecionadas)}")
     print(f"Arquivo criado: {saida.resolve()}")
+    print(f"\nConsultas realizadas: {total_consultas}")
+    print(f"Partidas únicas recebidas: {len(partidas)}")
+    print(f"Partidas válidas gravadas: {len(selecionadas)}")
+    print(f"Arquivo criado: {saida.resolve()}")
 
     if ignoradas:
         print("\nPartidas ignoradas:")
         for fixture_id, motivo in ignoradas:
             print(f"- {fixture_id}: {motivo}")
-
-    if len(selecionadas) < args.quantidade:
-        print(
-            f"\nAviso: foram encontradas somente {len(selecionadas)} partidas válidas. "
-            "Aumente --por-pagina ou amplie o intervalo de datas."
-        )
-
 
 if __name__ == "__main__":
     main()
