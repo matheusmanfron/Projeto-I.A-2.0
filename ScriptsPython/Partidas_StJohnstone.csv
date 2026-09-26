@@ -1,0 +1,343 @@
+﻿fixture_id,data,partida,time,team_id,local_visitante,adversario,adversario_id,resultado,league_id,season_id,state_id,Escanteios,Posse de bola (%),Gols,Assistências,Cartões vermelhos,Cartões amarelos,Dribles bem-sucedidos (%)
+376847,2014-08-13 18:45:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,1936,5,3,49,0,,,,
+378174,2014-10-31 19:45:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,2,501,1936,5,7,48,,,,,
+378937,2015-01-23 19:45:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,1,501,1936,5,2,51,,,,,
+379063,2015-02-14 12:45:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,1936,5,5,46,,,,,
+376633,2015-05-15 18:45:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,1,501,1936,5,11,53,,,,,
+377585,2015-08-02 11:30:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,1937,5,3,45,3,,,,
+378570,2015-11-27 19:45:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,1,501,1937,5,4,56,,,,,
+378750,2015-12-13 12:30:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,1937,5,3,39,0,,,,
+379207,2016-02-12 19:45:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,0,501,1937,5,5,48,,,,,
+376574,2016-04-22 18:45:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,2,501,1937,5,4,52,,,,,
+376773,2016-05-11 18:30:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,2,501,1937,5,4,47,,,,,
+376838,2016-08-07 11:15:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,1,501,825,5,2,50,,,,,
+377551,2016-08-20 11:15:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,825,5,1,46,,,,,
+377769,2016-09-10 14:00:00,Partick Thistle vs St. Johnstone,St. Johnstone,734,away,Partick Thistle,339,2,501,825,5,3,36,2,,0,1,
+377845,2016-09-17 14:00:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,2,501,825,5,6,41,1,,0,6,
+377938,2016-09-25 14:00:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,1,501,825,5,10,51,1,,0,1,
+377984,2016-10-01 14:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,2,501,825,5,6,,2,,0,1,
+378046,2016-10-15 14:00:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,0,501,825,5,9,57,0,,0,3,
+378098,2016-10-23 11:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,2,501,825,5,1,55,2,,0,1,
+378195,2016-10-26 18:45:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,1,501,825,5,5,36,1,,0,3,
+378236,2016-10-29 14:00:00,St. Johnstone vs Partick Thistle,St. Johnstone,734,home,Partick Thistle,339,0,501,825,5,1,48,1,,0,1,
+378289,2016-11-05 15:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,1,501,825,5,4,46,2,,0,2,
+378361,2016-11-19 15:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,0,501,825,5,7,54,2,,0,3,
+378481,2016-12-03 15:00:00,St. Johnstone vs Inverness CT,St. Johnstone,734,home,Inverness CT,265,2,501,825,5,0,43,3,,0,2,
+378577,2016-12-10 15:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,1,501,825,5,4,42,0,,0,3,
+378626,2016-12-17 15:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,1,501,825,5,11,59,1,,0,1,
+378658,2016-12-23 19:45:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,2,501,825,5,9,56,1,,0,3,
+378763,2016-12-28 19:45:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,1,501,825,5,5,38,1,,0,3,
+378815,2016-12-31 14:00:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,0,501,825,5,13,60,0,,0,2,
+378450,2017-01-25 19:45:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,825,5,8,31,0,,0,2,
+378879,2017-01-28 15:00:00,St. Johnstone vs Hamilton Academical,St. Johnstone,734,home,Hamilton Academical,338,2,501,825,5,1,47,3,,0,1,
+378921,2017-02-01 19:45:00,Partick Thistle vs St. Johnstone,St. Johnstone,734,away,Partick Thistle,339,2,501,825,5,3,45,1,,0,3,
+379017,2017-02-05 12:30:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,825,5,5,34,2,,0,1,
+379059,2017-02-18 15:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,2,501,825,5,11,52,2,,0,0,
+379124,2017-02-25 15:00:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,0,501,825,5,7,56,0,,0,2,
+379193,2017-03-01 19:45:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,825,5,3,70,2,,0,3,
+379247,2017-03-11 15:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,2,501,825,5,3,43,2,,0,1,
+379287,2017-03-18 15:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,2,501,825,5,9,43,2,,0,1,
+379369,2017-04-01 14:00:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,0,501,825,5,3,28,0,,2,1,
+379449,2017-04-05 18:45:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,2,501,825,5,0,50,1,,0,0,
+379459,2017-04-08 14:00:00,Inverness CT vs St. Johnstone,St. Johnstone,734,away,Inverness CT,265,2,501,825,5,1,40,3,,0,1,
+379529,2017-04-15 14:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,0,501,825,5,4,48,1,,0,3,
+376673,2017-04-29 14:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,2,501,825,5,2,42,2,,0,3,
+376728,2017-05-06 14:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,825,5,0,34,1,,0,4,
+234029,2017-05-13 14:00:00,St. Johnstone vs Partick Thistle,St. Johnstone,734,home,Partick Thistle,339,2,501,825,5,4,44,1,,0,3,
+234036,2017-05-17 18:45:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,2,501,825,5,1,44,1,,0,0,
+234044,2017-05-21 11:30:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,825,5,7,47,1,,0,1,
+1871767,2017-08-05 14:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,2,501,7953,5,10,49,2,,0,4,
+1871774,2017-08-12 14:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,2,501,7953,5,7,47,4,,0,1,
+1871780,2017-08-19 14:00:00,St. Johnstone vs Partick Thistle,St. Johnstone,734,home,Partick Thistle,339,2,501,7953,5,3,47,1,,0,0,
+1871781,2017-08-26 14:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,1,501,7953,5,1,29,1,,0,3,
+1871792,2017-09-09 14:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,1,501,7953,5,2,32,1,,0,3,
+1871795,2017-09-16 14:00:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,0,501,7953,5,6,55,2,,0,3,
+1871804,2017-09-23 14:00:00,St. Johnstone vs Hamilton Academical,St. Johnstone,734,home,Hamilton Academical,338,2,501,7953,5,5,45,2,,0,1,
+1871805,2017-09-30 14:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,0,501,7953,5,1,40,0,,0,1,
+1871816,2017-10-13 18:45:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,7953,5,16,42,0,,1,2,
+1871817,2017-10-21 14:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,7953,5,3,53,0,,0,3,
+1871828,2017-10-24 18:45:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,1,501,7953,5,6,47,0,,0,0,
+1871834,2017-10-28 14:00:00,Partick Thistle vs St. Johnstone,St. Johnstone,734,away,Partick Thistle,339,0,501,7953,5,4,49,0,,0,1,
+1871840,2017-11-04 12:30:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,7953,5,4,29,0,,0,2,
+1871843,2017-11-18 15:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,2,501,7953,5,6,40,2,,0,4,
+1871858,2017-12-02 15:00:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,0,501,7953,5,7,48,1,,0,1,
+1871860,2017-12-09 15:00:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,2,501,7953,5,4,42,1,,0,2,
+1871870,2017-12-13 19:45:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,0,501,7953,5,4,41,0,,0,1,
+1871876,2017-12-16 15:00:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,2,501,7953,5,0,35,3,,0,4,
+1871882,2017-12-23 15:00:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,1,501,7953,5,9,42,0,,0,1,
+1871888,2017-12-27 19:45:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,1,501,7953,5,5,46,1,,0,2,
+1871894,2017-12-30 15:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,0,501,7953,5,4,40,0,,1,4,
+1871906,2018-01-27 15:00:00,St. Johnstone vs Partick Thistle,St. Johnstone,734,home,Partick Thistle,339,0,501,7953,5,5,50,1,,0,1,
+1871915,2018-02-03 15:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,7953,5,8,47,0,,1,2,
+1871852,2018-02-06 19:45:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,0,501,7953,5,3,46,0,,0,1,
+1871919,2018-02-18 15:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,1,501,7953,5,7,37,0,,0,5,
+1871930,2018-02-24 15:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,2,501,7953,5,6,52,2,,0,3,
+1871936,2018-02-27 19:45:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,7953,5,7,39,1,,0,3,
+1871897,2018-03-07 19:45:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,0,501,7953,5,3,41,0,,1,2,
+1871937,2018-03-10 15:00:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,2,501,7953,5,5,56,4,,0,3,
+1871948,2018-03-16 19:45:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,1,501,7953,5,5,57,1,,0,5,
+1871912,2018-03-28 18:45:00,St. Johnstone vs Hamilton Academical,St. Johnstone,734,home,Hamilton Academical,338,2,501,7953,5,12,51,1,,0,1,
+1871949,2018-03-31 14:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,0,501,7953,5,4,50,1,,0,2,
+1871960,2018-04-07 14:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,1,501,7953,5,1,49,0,,0,2,
+10320697,2018-04-21 14:00:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,0,501,7953,5,8,53,1,,0,4,
+10320705,2018-04-28 14:00:00,St. Johnstone vs Partick Thistle,St. Johnstone,734,home,Partick Thistle,339,1,501,7953,5,4,48,1,,0,3,
+10320711,2018-05-05 14:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,2,501,7953,5,1,49,5,,0,1,
+10320714,2018-05-08 18:45:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,2,501,7953,5,4,51,2,,0,2,
+10320721,2018-05-12 14:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,1,501,7953,5,4,53,1,,0,2,
+10333189,2018-08-04 14:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,0,501,12963,5,1,46,0,,0,3,
+10333194,2018-08-12 14:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,1,501,12963,5,10,43,1,,0,1,
+10333199,2018-08-25 14:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,2,501,12963,5,8,45,1,,0,0,
+10333207,2018-09-01 14:00:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,2,501,12963,5,2,47,2,,0,1,
+10333215,2018-09-15 14:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,1,501,12963,5,4,71,1,,0,3,
+10333218,2018-09-23 14:00:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,12963,5,4,36,1,,0,3,
+10333227,2018-09-29 14:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,12963,5,2,45,1,,0,0,
+10333229,2018-10-07 14:30:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,12963,5,3,34,0,,1,2,
+10333237,2018-10-20 14:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,2,501,12963,5,8,49,1,,0,0,
+10333244,2018-10-27 14:00:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,2,501,12963,5,9,57,2,,0,2,
+10333249,2018-10-31 19:45:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,2,501,12963,5,2,53,1,,0,2,
+10333257,2018-11-03 15:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,2,501,12963,5,5,49,1,,0,0,
+10333261,2018-11-10 15:00:00,St. Johnstone vs Hamilton Academical,St. Johnstone,734,home,Hamilton Academical,338,2,501,12963,5,2,48,4,,0,1,
+10333269,2018-11-24 15:00:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,1,501,12963,5,3,45,0,,0,0,
+10333282,2018-12-05 19:45:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,1,501,12963,5,4,49,2,,0,3,
+10333283,2018-12-08 15:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,2,501,12963,5,4,39,2,,0,3,
+10333293,2018-12-15 15:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,0,501,12963,5,11,,1,,0,1,
+10333296,2018-12-23 12:15:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,12963,5,3,38,1,,0,3,
+10333301,2018-12-26 14:00:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,2,501,12963,5,6,53,1,,0,1,
+10333310,2018-12-29 15:00:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,2,501,12963,5,6,53,2,,0,1,
+10333317,2019-01-23 19:45:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,2,501,12963,5,2,50,1,,0,3,
+10333320,2019-01-26 15:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,12963,5,3,43,0,,0,3,
+10333275,2019-01-30 19:45:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,12963,5,2,30,0,,0,1,
+10333330,2019-02-03 12:30:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,12963,5,3,35,0,,0,2,
+10333333,2019-02-06 19:45:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,0,501,12963,5,4,57,1,,0,1,
+10333338,2019-02-16 15:00:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,1,501,12963,5,5,40,0,,0,0,
+10333344,2019-02-23 15:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,0,501,12963,5,12,47,0,,0,3,
+10333350,2019-02-27 19:45:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,0,501,12963,5,11,48,1,,0,0,
+10333358,2019-03-09 15:00:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,0,501,12963,5,5,59,1,,0,1,
+10333361,2019-03-27 19:45:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,2,501,12963,5,7,50,1,,0,0,
+10333368,2019-03-30 15:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,0,501,12963,5,6,46,0,,0,1,
+10333373,2019-04-03 18:45:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,2,501,12963,5,6,43,2,,0,1,
+10333383,2019-04-06 14:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,0,501,12963,5,2,44,0,,1,5,
+11853612,2019-04-20 14:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,2,501,12963,5,4,51,2,,0,1,
+11853615,2019-04-27 14:00:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,1,501,12963,5,3,47,1,,0,3,
+11853618,2019-05-04 14:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,1,501,12963,5,6,46,1,,0,0,
+11853620,2019-05-11 14:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,2,501,12963,5,3,41,2,,0,2,
+11853623,2019-05-18 11:30:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,0,501,12963,5,3,58,0,,0,1,
+11879545,2019-08-03 14:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,16222,5,0,22,0,,0,3,50
+11879554,2019-08-10 13:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,1,501,16222,5,2,,2,,0,1,
+11879558,2019-08-24 14:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,1,501,16222,5,5,,2,,0,2,
+11879567,2019-08-31 14:00:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,0,501,16222,5,5,,0,,0,0,
+11879568,2019-09-14 14:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,1,501,16222,5,4,,1,,0,2,
+11879578,2019-09-22 11:15:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,16222,5,2,30,0,,0,1,40
+11879584,2019-09-28 14:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,0,501,16222,5,6,,0,,0,1,
+11879591,2019-10-05 14:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,1,501,16222,5,12,53,2,,0,3,100
+11879597,2019-10-19 14:00:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,0,501,16222,5,1,49,0,,0,3,63
+11879603,2019-10-26 14:00:00,St. Johnstone vs Hamilton Academical,St. Johnstone,734,home,Hamilton Academical,338,2,501,16222,5,10,55,3,,0,0,52
+11879609,2019-10-30 19:45:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,2,501,16222,5,4,41,1,,0,1,28
+11879621,2019-11-09 15:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,0,501,16222,5,4,48,1,,0,1,58
+11879626,2019-11-24 15:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,1,501,16222,5,3,47,1,,2,3,44
+11879631,2019-11-30 15:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,0,501,16222,5,4,58,0,,0,1,60
+11879637,2019-12-04 19:45:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,1,501,16222,5,7,45,0,,0,1,75
+11879648,2019-12-14 15:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,2,501,16222,5,7,32,1,,0,2,64
+11879657,2019-12-21 15:00:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,1,501,16222,5,6,48,0,,0,3,38
+11879659,2019-12-26 15:00:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,2,501,16222,5,4,46,1,,0,2,68
+11879668,2019-12-29 15:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,1,501,16222,5,7,57,1,,0,2,55
+11879673,2020-01-22 19:45:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,0,501,16222,5,6,44,0,,0,1,
+11879680,2020-01-25 15:00:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,2,501,16222,5,6,53,2,,0,2,44
+11879645,2020-01-29 19:45:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,16222,5,6,27,0,,0,2,62
+11879687,2020-02-01 15:00:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,1,501,16222,5,8,38,3,,0,2,42
+11879688,2020-02-05 19:45:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,2,501,16222,5,2,35,1,,0,2,66
+11879699,2020-02-12 19:45:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,2,501,16222,5,4,49,2,,0,0,80
+11879705,2020-02-15 15:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,1,501,16222,5,3,51,1,,0,1,81
+11879710,2020-02-23 13:30:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,1,501,16222,5,5,29,2,,0,1,64
+11879717,2020-03-04 19:45:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,1,501,16222,5,5,46,0,,1,3,20
+11879723,2020-03-07 15:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,2,501,16222,5,5,57,1,,0,1,25
+16475284,2020-08-01 14:00:00,Dundee United vs St. Johnstone,St. Johnstone,734,away,Dundee United,282,1,501,17141,5,3,39,1,,1,4,60
+16475300,2020-08-12 18:45:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,17141,5,2,25,0,,0,2,63
+16475304,2020-08-15 14:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,2,501,17141,5,1,55,2,,0,2,69
+16475289,2020-08-20 18:30:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,0,501,17141,5,5,45,0,,0,2,71
+16475312,2020-08-23 15:30:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,0,501,17141,5,5,46,0,,1,4,45
+16475314,2020-08-29 14:00:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,2,501,17141,5,11,48,1,,0,0,50
+16475321,2020-09-12 14:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,0,501,17141,5,3,59,0,,0,0,57
+16475330,2020-09-19 14:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,0,501,17141,5,9,54,0,,0,2,62
+16475333,2020-09-26 14:00:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,0,501,17141,5,7,50,0,,0,0,42
+16475342,2020-10-04 11:00:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,17141,5,1,31,0,,0,3,50
+16475345,2020-10-17 14:00:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,2,501,17141,5,7,49,5,,0,0,40
+16475353,2020-10-24 14:00:00,St. Johnstone vs Dundee United,St. Johnstone,734,home,Dundee United,282,1,501,17141,5,5,56,0,,0,1,63
+16475365,2020-11-06 19:45:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,2,501,17141,5,4,49,1,,0,2,45
+16475372,2020-11-21 15:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,1,501,17141,5,4,53,1,,0,3,12
+16475358,2020-11-24 19:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,1,501,17141,5,4,36,2,,0,0,40
+16475374,2020-12-06 15:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,1,501,17141,5,1,32,1,,0,5,66
+16475384,2020-12-12 15:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,0,501,17141,5,4,63,1,,0,2,50
+16475390,2020-12-19 15:00:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,0,501,17141,5,3,33,2,,1,2,57
+16475396,2020-12-23 18:00:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,17141,5,2,36,0,,1,3,44
+16475398,2020-12-26 15:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,0,501,17141,5,4,46,1,,1,4,50
+16475407,2020-12-30 15:00:00,St. Johnstone vs Hamilton Academical,St. Johnstone,734,home,Hamilton Academical,338,1,501,17141,5,6,52,2,,0,3,53
+16475414,2021-01-02 15:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,1,501,17141,5,9,43,0,,1,2,50
+16475417,2021-01-12 18:30:00,Dundee United vs St. Johnstone,St. Johnstone,734,away,Dundee United,282,1,501,17141,5,5,50,2,,0,2,50
+16475426,2021-01-16 15:00:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,2,501,17141,5,4,47,1,,0,2,60
+16475438,2021-01-27 18:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,1,501,17141,5,2,42,0,,0,1,37
+16475429,2021-01-30 15:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,2,501,17141,5,12,58,3,3,0,1,48
+16475443,2021-02-03 19:45:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,17141,5,2,34,0,0,0,1,53
+16475448,2021-02-06 15:00:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,2,501,17141,5,7,40,2,1,0,1,61
+16475456,2021-02-14 12:00:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,17141,5,3,37,1,1,0,0,20
+16475477,2021-02-20 15:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,2,501,17141,5,7,51,3,1,0,0,40
+16475457,2021-03-03 18:00:00,Hamilton Academical vs St. Johnstone,St. Johnstone,734,away,Hamilton Academical,338,1,501,17141,5,8,57,1,1,0,3,54
+16475468,2021-03-06 15:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,2,501,17141,5,0,38,1,,0,1,54
+16475474,2021-03-20 15:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,2,501,17141,5,13,56,1,1,0,0,41
+17947850,2021-04-10 14:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,0,501,17141,5,7,44,0,0,0,1,100
+17947854,2021-04-21 18:00:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,1,501,17141,5,4,33,1,0,0,3,58
+17947855,2021-05-01 14:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,2,501,17141,5,2,41,1,,0,2,71
+17947859,2021-05-12 17:30:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,17141,5,1,29,0,0,0,0,62
+17947863,2021-05-15 11:30:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,1,501,17141,5,4,40,0,,0,1,43
+18136884,2021-07-31 14:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,1,501,18369,5,4,55,0,,0,1,40
+18136893,2021-08-08 14:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,1,501,18369,5,8,50,1,0,0,2,40
+18136899,2021-08-22 14:00:00,St. Johnstone vs Dundee United,St. Johnstone,734,home,Dundee United,282,0,501,18369,5,7,51,0,,0,1,60
+18136905,2021-08-29 14:00:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,1,501,18369,5,4,49,0,,0,3,41
+18136910,2021-09-11 11:30:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,18369,5,6,34,1,0,0,3,27
+18136912,2021-09-18 14:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,2,501,18369,5,3,34,1,,0,3,45
+18136921,2021-09-26 14:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,0,501,18369,5,5,40,0,,1,4,60
+18136929,2021-10-02 14:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,2,501,18369,5,3,46,3,3,0,3,22
+18136935,2021-10-16 14:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,0,501,18369,5,12,65,0,0,0,2,61
+18136937,2021-10-23 14:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,18369,5,3,21,0,0,0,5,50
+18136947,2021-10-27 18:45:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,1,501,18369,5,6,27,1,0,0,4,30
+18136950,2021-10-30 14:00:00,Dundee United vs St. Johnstone,St. Johnstone,734,away,Dundee United,282,2,501,18369,5,3,37,1,1,0,1,64
+18136959,2021-11-06 15:00:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,1,501,18369,5,1,44,0,,1,5,33
+18136971,2021-11-27 15:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,0,501,18369,5,1,38,1,0,1,4,53
+18136974,2021-12-01 19:45:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,0,501,18369,5,5,53,0,0,0,1,77
+18136988,2021-12-11 15:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,0,501,18369,5,4,38,0,1,0,3,55
+18136963,2021-12-15 19:45:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,18369,5,3,33,0,0,0,3,16
+18136993,2021-12-18 15:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,0,501,18369,5,4,58,0,0,0,0,36
+18136983,2021-12-22 19:45:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,0,501,18369,5,4,54,1,1,0,3,40
+18137001,2021-12-26 12:30:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,18369,5,3,28,1,3,0,2,22
+18137005,2022-01-18 19:45:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,18369,5,2,45,0,1,0,3,77
+18137018,2022-01-26 19:45:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,1,501,18369,5,8,53,0,,0,1,66
+18137011,2022-02-01 19:45:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,2,501,18369,5,6,41,2,1,0,2,45
+18137031,2022-02-05 15:00:00,St. Johnstone vs Dundee United,St. Johnstone,734,home,Dundee United,282,1,501,18369,5,7,38,0,,1,3,66
+18137037,2022-02-09 19:45:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,0,501,18369,5,5,44,1,0,0,3,20
+18137020,2022-02-15 19:45:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,1,501,18369,5,4,33,1,,0,2,60
+18137043,2022-02-19 15:00:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,2,501,18369,5,6,35,2,2,0,2,85
+18137048,2022-02-26 15:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,0,501,18369,5,8,47,1,1,0,2,52
+18137055,2022-03-02 19:45:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,18369,5,2,44,0,0,0,1,50
+18137057,2022-03-05 15:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,1,501,18369,5,3,40,0,,0,3,66
+18137066,2022-03-19 15:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,2,501,18369,5,3,53,2,2,0,3,33
+18137073,2022-04-02 14:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,2,501,18369,5,1,36,1,,0,2,16
+18137075,2022-04-09 14:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,18369,5,2,19,0,0,0,0,100
+18518011,2022-04-23 14:00:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,1,501,18369,5,7,55,1,1,0,2,50
+18518015,2022-04-30 14:00:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,0,501,18369,5,6,60,0,0,0,1,66
+18518017,2022-05-07 14:00:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,1,501,18369,5,2,48,1,1,0,2,45
+18518020,2022-05-11 18:45:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,2,501,18369,5,6,31,1,1,0,5,60
+18518023,2022-05-15 11:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,0,501,18369,5,6,54,0,0,0,2,41
+18535490,2022-07-30 14:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,0,501,19735,5,3,32,0,0,1,2,44
+18535496,2022-08-06 14:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,2,501,19735,5,6,56,2,0,0,3,60
+18535503,2022-08-13 14:00:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,19735,5,1,29,0,0,0,2,50
+18535510,2022-08-20 14:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,0,501,19735,5,5,45,0,0,0,5,44
+18535513,2022-08-28 14:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,19735,5,4,40,2,0,0,4,33
+18535522,2022-09-03 14:00:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,2,501,19735,5,1,45,3,2,0,2,80
+18535533,2022-09-17 14:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,1,501,19735,5,5,48,0,0,0,3,30
+18535537,2022-10-01 14:00:00,Dundee United vs St. Johnstone,St. Johnstone,734,away,Dundee United,282,2,501,19735,5,0,43,2,2,0,3,57
+18535527,2022-10-05 18:45:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,0,501,19735,5,5,59,1,0,0,3,33
+18535546,2022-10-08 11:30:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,19735,5,2,25,1,1,0,3,50
+18535549,2022-10-15 14:00:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,0,501,19735,5,2,48,0,0,0,3,66
+18535554,2022-10-21 18:30:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,2,501,19735,5,1,42,2,2,0,1,33
+18535564,2022-10-29 14:00:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,2,501,19735,5,3,37,1,0,0,5,36
+18535570,2022-11-06 12:00:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,2,501,19735,5,0,32,2,1,0,2,18
+18535576,2022-11-09 19:45:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,1,501,19735,5,3,56,2,0,1,3,42
+18535581,2022-11-12 15:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,1,501,19735,5,8,50,1,0,0,1,55
+18535588,2022-12-17 15:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,2,501,19735,5,6,62,2,0,0,1,28
+18535589,2022-12-24 12:30:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,19735,5,1,24,1,0,0,1,16
+18535600,2022-12-28 19:45:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,0,501,19735,5,4,36,2,1,0,4,47
+18535606,2023-01-02 15:00:00,St. Johnstone vs Dundee United,St. Johnstone,734,home,Dundee United,282,0,501,19735,5,3,41,0,0,0,3,33
+18537945,2023-01-07 15:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,0,501,19735,5,2,42,0,0,0,3,42
+18537956,2023-01-14 15:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,0,501,19735,5,5,54,2,1,0,1,20
+18537960,2023-01-28 15:00:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,19735,5,3,31,0,,1,3,43
+18537967,2023-02-01 19:45:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,2,501,19735,5,3,42,2,2,0,1,33
+18537973,2023-02-05 12:00:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,19735,5,3,29,1,1,1,2,63
+18537976,2023-02-18 15:00:00,Dundee United vs St. Johnstone,St. Johnstone,734,away,Dundee United,282,2,501,19735,5,6,34,2,1,0,2,53
+18537986,2023-02-25 15:00:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,1,501,19735,5,5,48,1,1,1,1,70
+18537988,2023-03-04 15:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,19735,5,7,42,0,0,0,0,64
+18537996,2023-03-18 15:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,1,501,19735,5,5,51,1,0,0,5,46
+18538003,2023-04-01 14:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,0,501,19735,5,7,34,0,,1,3,50
+18538010,2023-04-08 14:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,0,501,19735,5,7,55,0,0,0,2,75
+18538013,2023-04-15 14:00:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,0,501,19735,5,3,53,0,0,0,1,72
+18538021,2023-04-22 14:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,1,501,19735,5,8,54,1,1,0,2,71
+18825708,2023-05-06 14:00:00,St. Johnstone vs Dundee United,St. Johnstone,734,home,Dundee United,282,2,501,19735,5,9,50,1,1,0,2,20
+18825760,2023-05-13 14:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,0,501,19735,5,6,54,0,,0,0,43
+18825761,2023-05-20 14:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,2,501,19735,5,8,46,1,,0,3,44
+18825766,2023-05-24 18:45:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,1,501,19735,5,4,47,3,,0,0,54
+18825769,2023-05-28 14:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,2,501,19735,5,4,40,2,,0,0,66
+18861940,2023-08-05 14:00:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,0,501,21787,5,6,32,0,0,0,2,100
+18861947,2023-08-12 14:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,0,501,21787,5,7,56,0,0,0,2,100
+18861949,2023-08-26 14:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,1,501,21787,5,1,25,0,,0,3,66
+18861959,2023-09-02 14:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,1,501,21787,5,4,62,2,0,0,3,28
+18861966,2023-09-16 11:30:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,21787,5,3,30,0,0,0,5,100
+18861969,2023-09-23 14:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,0,501,21787,5,4,46,0,0,0,3,100
+18861978,2023-09-30 14:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,1,501,21787,5,5,45,1,1,1,2,57
+18861979,2023-10-08 14:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,1,501,21787,5,3,44,0,,0,2,53
+18861996,2023-10-28 14:00:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,0,501,21787,5,7,54,0,0,0,0,77
+18862858,2023-11-01 19:45:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,2,501,21787,5,5,37,2,1,1,2,100
+18861990,2023-11-07 19:45:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,1,501,21787,5,6,48,2,2,0,1,75
+18862008,2023-11-11 15:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,2,501,21787,5,3,44,1,1,0,4,100
+18862012,2023-11-25 15:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,21787,5,5,39,0,0,0,2,60
+18862020,2023-12-03 12:00:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,21787,5,2,30,1,0,0,2,66
+18862864,2023-12-06 19:45:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,2,501,21787,5,0,56,1,,0,2,50
+18862024,2023-12-09 15:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,1,501,21787,5,2,43,1,0,0,0,100
+18862050,2023-12-16 15:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,2,501,21787,5,5,39,1,,0,2,63
+18862000,2023-12-20 19:45:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,21787,5,2,29,0,0,1,2,62
+18862036,2023-12-23 15:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,0,501,21787,5,1,54,1,0,0,1,100
+18862041,2023-12-27 19:45:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,1,501,21787,5,3,50,0,,0,2,53
+18862031,2024-01-24 19:45:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,1,501,21787,5,1,45,1,1,0,4,55
+18862061,2024-01-27 15:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,1,501,21787,5,0,42,1,0,0,2,100
+18862068,2024-02-03 15:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,2,501,21787,5,4,37,1,1,0,1,100
+18862073,2024-02-07 19:45:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,0,501,21787,5,2,48,0,0,0,4,100
+18862051,2024-02-11 14:00:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,0,501,21787,5,7,41,1,1,0,3,100
+18862080,2024-02-18 12:00:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,21787,5,3,39,0,,0,3,100
+18862086,2024-02-24 15:00:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,0,501,21787,5,6,55,0,,0,2,40
+18862087,2024-02-28 19:45:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,2,501,21787,5,7,46,2,1,0,4,66
+18862097,2024-03-02 15:00:00,St. Johnstone vs Livingston,St. Johnstone,734,home,Livingston,258,1,501,21787,5,2,60,1,1,0,2,100
+18862099,2024-03-16 15:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,21787,5,2,26,1,0,0,3,100
+18862110,2024-03-30 15:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,0,501,21787,5,11,53,1,0,0,5,54
+18862112,2024-04-06 14:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,2,501,21787,5,3,29,2,2,0,2,71
+18862122,2024-04-13 14:00:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,0,501,21787,5,2,54,0,0,0,0,50
+19116472,2024-04-27 14:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,0,501,21787,5,1,49,1,1,0,0,75
+19116497,2024-05-04 14:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,0,501,21787,5,4,35,0,,,2,25
+19116500,2024-05-11 14:00:00,Livingston vs St. Johnstone,St. Johnstone,734,away,Livingston,258,0,501,21787,5,8,42,1,1,,1,57
+19116505,2024-05-15 18:45:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,1,501,21787,5,4,53,1,1,,1,50
+19116507,2024-05-19 14:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,2,501,21787,5,3,35,2,1,,1,50
+19146702,2024-08-05 19:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,0,501,23690,5,12,51,1,,,2,50
+19146704,2024-08-11 14:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,2,501,23690,5,4,59,3,2,0,4,77
+19146710,2024-08-24 14:00:00,Dundee United vs St. Johnstone,St. Johnstone,734,away,Dundee United,282,0,501,23690,5,6,49,0,,1,4,80
+19146720,2024-08-31 14:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,0,501,23690,5,4,61,1,,1,1,40
+19146724,2024-09-14 14:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,0,501,23690,5,7,48,,0,1,4,47
+19146785,2024-09-21 14:00:00,Ross County vs St. Johnstone,St. Johnstone,734,away,Ross County,246,1,501,23690,5,3,48,3,0,,4,43
+19146732,2024-09-28 16:45:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,0,501,23690,5,3,24,,0,,1,42
+19146736,2024-10-06 19:00:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,23690,5,3,36,0,0,0,1,59
+19146744,2024-10-19 14:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,2,501,23690,5,5,68,3,3,0,1,43
+19146746,2024-10-26 14:00:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,2,501,23690,5,3,64,2,1,,2,53
+19146756,2024-10-30 19:45:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,0,501,23690,5,2,69,1,1,,1,33
+19146761,2024-11-02 15:00:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,0,501,23690,5,5,61,1,0,,2,36
+19146767,2024-11-09 15:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,0,501,23690,5,3,66,1,0,,0,53
+19146773,2024-11-23 15:15:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,2,501,23690,5,4,52,1,1,0,2,54
+19146780,2024-12-01 12:00:00,St. Johnstone vs Rangers,St. Johnstone,734,home,Rangers,62,0,501,23690,5,3,39,0,,,2,42
+19146787,2024-12-07 15:00:00,Aberdeen vs St. Johnstone,St. Johnstone,734,away,Aberdeen,273,1,501,23690,5,1,43,1,0,,4,31
+19146798,2024-12-14 15:00:00,St. Johnstone vs St. Mirren,St. Johnstone,734,home,St. Mirren,496,0,501,23690,5,1,65,2,1,,2,35
+19146801,2024-12-22 15:00:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,23690,5,0,51,1,0,,1,35
+19146809,2024-12-26 15:00:00,St. Johnstone vs Dundee United,St. Johnstone,734,home,Dundee United,282,0,501,23690,5,4,51,1,1,0,2,44
+19146811,2024-12-29 15:00:00,Celtic vs St. Johnstone,St. Johnstone,734,away,Celtic,53,0,501,23690,5,2,30,0,0,,1,33
+19146821,2025-01-02 15:00:00,St. Johnstone vs Hibernian,St. Johnstone,734,home,Hibernian,66,1,501,23690,5,4,40,1,0,1,1,61
+19146828,2025-01-05 15:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,0,501,23690,5,3,77,1,0,,1,70
+19146832,2025-01-12 15:00:00,Rangers vs St. Johnstone,St. Johnstone,734,away,Rangers,62,0,501,23690,5,2,36,1,1,,,52
+19146840,2025-01-25 15:00:00,St. Johnstone vs Motherwell,St. Johnstone,734,home,Motherwell,309,2,501,23690,5,7,69,2,2,,1,43
+19146846,2025-02-01 15:00:00,St. Mirren vs St. Johnstone,St. Johnstone,734,away,St. Mirren,496,2,501,23690,5,3,59,1,,,2,30
+19146850,2025-02-15 15:00:00,Kilmarnock vs St. Johnstone,St. Johnstone,734,away,Kilmarnock,180,0,501,23690,5,5,60,1,1,,1,50
+19146858,2025-02-23 12:00:00,St. Johnstone vs Hearts,St. Johnstone,734,home,Hearts,314,0,501,23690,5,3,58,1,1,,0,47
+19146864,2025-02-26 19:45:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,2,501,23690,5,12,67,1,,,2,47
+19146866,2025-03-01 15:00:00,Dundee vs St. Johnstone,St. Johnstone,734,away,Dundee,284,1,501,23690,5,4,59,1,1,,0,80
+19146876,2025-03-15 15:00:00,St. Johnstone vs Aberdeen,St. Johnstone,734,home,Aberdeen,273,1,501,23690,5,1,43,,,,,60
+19146880,2025-03-29 15:00:00,Hibernian vs St. Johnstone,St. Johnstone,734,away,Hibernian,66,0,501,23690,5,2,55,0,0,,3,55
+19146888,2025-04-06 11:00:00,St. Johnstone vs Celtic,St. Johnstone,734,home,Celtic,53,2,501,23690,5,4,20,1,1,,4,78
+19146891,2025-04-12 14:00:00,Dundee United vs St. Johnstone,St. Johnstone,734,away,Dundee United,282,0,501,23690,5,5,56,0,0,,2,60
+19415350,2025-04-26 14:00:00,Motherwell vs St. Johnstone,St. Johnstone,734,away,Motherwell,309,0,501,23690,5,9,55,2,2,,1,55
+19415353,2025-05-03 14:00:00,St. Johnstone vs Kilmarnock,St. Johnstone,734,home,Kilmarnock,180,0,501,23690,5,5,69,0,0,,2,40
+19415356,2025-05-10 14:00:00,St. Johnstone vs Ross County,St. Johnstone,734,home,Ross County,246,2,501,23690,5,4,61,2,2,0,1,64
+19415358,2025-05-14 18:45:00,Hearts vs St. Johnstone,St. Johnstone,734,away,Hearts,314,0,501,23690,5,7,45,1,0,,2,65
+19415362,2025-05-18 14:00:00,St. Johnstone vs Dundee,St. Johnstone,734,home,Dundee,284,0,501,23690,5,1,64,0,0,,3,78

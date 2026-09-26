@@ -1,0 +1,411 @@
+﻿fixture_id,data,partida,time,team_id,local_visitante,adversario,adversario_id,resultado,league_id,season_id,state_id,Escanteios,Posse de bola (%),Gols,Assistências,Cartões vermelhos,Cartões amarelos,Dribles bem-sucedidos (%)
+376847,2014-08-13 18:45:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,1936,5,6,51,3,,,,
+377622,2014-08-23 11:30:00,Inverness CT vs Celtic,Celtic,53,away,Inverness CT,265,0,501,1936,5,4,53,,,,,
+377783,2014-08-31 11:30:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,1,501,1936,5,5,55,,,,,
+377793,2014-09-13 11:45:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,1936,5,4,47,,,,,
+378058,2014-10-18 11:45:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,1936,5,10,62,,,,,
+378291,2014-11-09 12:30:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,1936,5,5,52,,,,,
+378378,2014-12-06 12:45:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,1936,5,10,60,,,,,
+378545,2014-12-21 12:15:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,0,501,1936,5,5,64,1,,,,
+378737,2015-01-05 20:00:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,1936,5,9,62,,,,,
+378811,2015-01-17 12:45:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,2,501,1936,5,6,62,,,,,
+378948,2015-01-24 12:45:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,1936,5,4,75,,,,,
+379063,2015-02-14 12:45:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,1936,5,9,54,,,,,
+379375,2015-04-03 18:45:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,1936,5,5,65,,,,,
+379497,2015-04-11 11:45:00,Inverness CT vs Celtic,Celtic,53,away,Inverness CT,265,1,501,1936,5,9,51,,,,,
+376480,2015-04-26 11:30:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,2,501,1936,5,11,52,,,,,
+376489,2015-05-01 18:45:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,1936,5,6,65,,,,,
+376623,2015-05-10 13:30:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,1936,5,1,47,,,,,
+376633,2015-05-15 18:45:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,1,501,1936,5,7,47,,,,,
+376736,2015-05-24 11:30:00,Celtic vs Inverness CT,Celtic,53,home,Inverness CT,265,2,501,1936,5,5,63,,,,,
+377474,2015-08-01 11:45:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,1937,5,15,58,,,,,
+377715,2015-08-09 11:30:00,Partick Thistle vs Celtic,Celtic,53,away,Partick Thistle,339,2,501,1937,5,5,59,,,,,
+377779,2015-08-12 18:45:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,1,501,1937,5,7,63,2,,,,
+377866,2015-08-22 11:00:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,2,501,1937,5,8,58,3,,,,
+378005,2015-09-12 11:30:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,0,501,1937,5,7,60,,,,,
+378243,2015-10-04 11:30:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,2,501,1937,5,1,56,,,,,
+378264,2015-10-17 11:00:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,1937,5,8,67,,,,,
+378381,2015-10-31 12:30:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,1937,5,12,63,,,,,
+378496,2015-11-08 15:30:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,1937,5,5,65,,,,,
+378622,2015-11-29 12:15:00,Inverness CT vs Celtic,Celtic,53,away,Inverness CT,265,2,501,1937,5,8,51,,,,,
+378750,2015-12-13 12:30:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,1937,5,8,61,3,,,,
+378855,2015-12-27 14:00:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,1,501,1937,5,4,53,,,,,
+379013,2016-01-15 19:45:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,2,501,1937,5,9,57,,,,,
+379329,2016-02-26 19:45:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,1,501,1937,5,9,49,,,,,
+379506,2016-03-19 12:30:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,1937,5,11,59,,,,,
+379643,2016-04-09 11:30:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,1937,5,6,53,,,,,
+376637,2016-04-30 11:30:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,1937,5,8,53,,,,,
+376752,2016-05-08 11:30:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,1937,5,4,52,,,,,
+376773,2016-05-11 18:30:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,0,501,1937,5,2,53,,,,,
+377420,2016-05-15 11:30:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,1937,5,10,55,,,,,
+376848,2016-08-07 13:15:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,825,5,6,52,,,,,
+377551,2016-08-20 11:15:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,825,5,6,54,,,,,
+377759,2016-09-10 11:00:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,825,5,3,58,5,,0,4,
+377875,2016-09-18 14:00:00,Inverness CT vs Celtic,Celtic,53,away,Inverness CT,265,1,501,825,5,11,40,2,,0,2,
+377918,2016-09-24 14:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,825,5,4,70,6,,0,0,
+377962,2016-10-01 11:15:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,2,501,825,5,4,70,1,,0,1,
+378067,2016-10-15 14:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,825,5,9,64,2,,0,2,
+378183,2016-10-26 18:45:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,825,5,7,65,4,,0,2,
+378205,2016-10-29 11:00:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,825,5,3,56,1,,0,3,
+378300,2016-11-05 15:00:00,Celtic vs Inverness CT,Celtic,53,home,Inverness CT,265,2,501,825,5,6,70,3,,0,0,
+378332,2016-11-18 19:45:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,825,5,5,61,1,,0,3,
+378458,2016-12-03 12:15:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,825,5,8,74,4,,0,3,
+378525,2016-12-09 19:45:00,Partick Thistle vs Celtic,Celtic,53,away,Partick Thistle,339,2,501,825,5,5,70,4,,0,0,
+378119,2016-12-13 19:45:00,Celtic vs Hamilton Academical,Celtic,53,home,Hamilton Academical,338,2,501,825,5,12,75,1,,0,1,
+378616,2016-12-17 15:00:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,825,5,4,76,2,,0,1,
+377493,2016-12-20 19:45:00,Celtic vs Partick Thistle,Celtic,53,home,Partick Thistle,339,2,501,825,5,9,67,1,,0,2,
+378691,2016-12-24 12:30:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,2,501,825,5,5,47,3,,1,1,
+378753,2016-12-28 19:45:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,825,5,11,69,2,,0,0,
+378784,2016-12-31 12:15:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,2,501,825,5,11,54,2,,0,3,
+378450,2017-01-25 19:45:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,825,5,7,69,1,,0,1,
+378889,2017-01-29 13:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,825,5,10,66,4,,0,0,
+378943,2017-02-01 19:45:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,825,5,4,68,1,,0,1,
+379017,2017-02-05 12:30:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,825,5,6,66,5,,0,0,
+379049,2017-02-18 15:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,825,5,7,72,2,,0,0,
+379114,2017-02-25 15:00:00,Celtic vs Hamilton Academical,Celtic,53,home,Hamilton Academical,338,2,501,825,5,4,70,2,,0,0,
+379165,2017-03-01 19:45:00,Inverness CT vs Celtic,Celtic,53,away,Inverness CT,265,2,501,825,5,6,73,4,,0,0,
+379264,2017-03-12 12:00:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,1,501,825,5,3,59,1,,0,2,
+379327,2017-03-19 12:30:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,2,501,825,5,9,63,2,,0,3,
+379388,2017-04-02 11:30:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,825,5,2,54,5,,0,3,
+379439,2017-04-05 18:45:00,Celtic vs Partick Thistle,Celtic,53,home,Partick Thistle,339,1,501,825,5,7,68,1,,0,1,
+379469,2017-04-08 14:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,825,5,5,73,3,,0,2,
+379573,2017-04-16 11:30:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,1,501,825,5,2,71,2,,1,1,
+376662,2017-04-29 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,2,501,825,5,5,59,5,,0,2,
+376728,2017-05-06 14:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,825,5,6,66,4,,0,1,
+234027,2017-05-12 18:45:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,825,5,4,41,3,,0,1,
+234038,2017-05-18 18:45:00,Partick Thistle vs Celtic,Celtic,53,away,Partick Thistle,339,2,501,825,5,3,68,5,,0,0,
+234042,2017-05-21 11:30:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,825,5,3,59,2,,0,0,
+1871764,2017-08-05 11:30:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,7953,5,9,70,4,,0,1,
+1871771,2017-08-11 18:45:00,Partick Thistle vs Celtic,Celtic,53,away,Partick Thistle,339,2,501,7953,5,11,69,1,,0,1,
+1871777,2017-08-19 11:30:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,7953,5,5,73,2,,0,0,
+1871781,2017-08-26 14:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,1,501,7953,5,12,71,1,,0,2,
+1871787,2017-09-08 18:45:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,2,501,7953,5,15,70,4,,0,0,
+1871794,2017-09-16 14:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,7953,5,7,72,4,,0,0,
+1871802,2017-09-23 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,2,501,7953,5,11,60,2,,0,1,
+1871806,2017-09-30 14:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,1,501,7953,5,3,61,2,,0,3,
+1871811,2017-10-14 14:00:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,7953,5,5,57,1,,0,0,
+1871823,2017-10-25 18:45:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,7953,5,4,66,3,,0,0,
+1871830,2017-10-28 14:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,1,501,7953,5,9,74,1,,0,2,
+1871840,2017-11-04 12:30:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,7953,5,3,71,4,,0,0,
+1871846,2017-11-18 12:30:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,7953,5,11,68,1,,0,2,
+1871819,2017-11-29 19:45:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,1,501,7953,5,7,66,1,,0,1,
+1871854,2017-12-02 15:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,7953,5,9,,5,,0,1,
+1871861,2017-12-10 12:30:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,1,501,7953,5,2,61,2,,0,2,
+1871865,2017-12-13 19:45:00,Celtic vs Hamilton Academical,Celtic,53,home,Hamilton Academical,338,2,501,7953,5,11,74,3,,0,1,
+1871874,2017-12-17 12:30:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,0,501,7953,5,5,53,0,,0,1,
+1871847,2017-12-20 19:45:00,Celtic vs Partick Thistle,Celtic,53,home,Partick Thistle,339,2,501,7953,5,5,71,2,,0,0,
+1871877,2017-12-23 15:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,7953,5,7,56,3,,0,1,
+1871884,2017-12-26 12:30:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,2,501,7953,5,5,57,2,,0,2,
+1871890,2017-12-30 12:00:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,1,501,7953,5,7,56,0,,0,3,
+1871899,2018-01-23 19:45:00,Partick Thistle vs Celtic,Celtic,53,away,Partick Thistle,339,2,501,7953,5,7,73,2,,0,1,
+1871902,2018-01-27 15:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,7953,5,1,49,1,,0,1,
+1871907,2018-01-30 19:45:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,7953,5,6,64,3,,0,2,
+1871916,2018-02-03 12:30:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,0,501,7953,5,2,72,0,,0,3,
+1871919,2018-02-18 15:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,1,501,7953,5,5,63,0,,0,0,
+1871925,2018-02-25 13:30:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,7953,5,5,55,2,,1,2,
+1871942,2018-03-11 12:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,2,501,7953,5,9,48,3,,1,3,
+1871945,2018-03-18 14:15:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,1,501,7953,5,11,69,0,,0,1,
+1871950,2018-03-31 14:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,7953,5,7,64,3,,0,0,
+1871931,2018-04-04 18:45:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,1,501,7953,5,11,58,0,,0,1,
+1871955,2018-04-08 11:30:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,2,501,7953,5,7,79,2,,0,0,
+10320695,2018-04-21 11:30:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,0,501,7953,5,3,58,1,,0,2,
+10320706,2018-04-29 11:00:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,7953,5,8,57,5,,0,1,
+10320712,2018-05-06 11:15:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,7953,5,3,49,3,,0,1,
+10320717,2018-05-09 18:45:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,1,501,7953,5,10,75,0,,0,0,
+10320722,2018-05-13 11:30:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,0,501,7953,5,8,70,0,,0,3,
+10333191,2018-08-04 14:00:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,2,501,12963,5,12,61,3,,0,1,
+10333197,2018-08-11 11:30:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,0,501,12963,5,4,62,0,,0,2,
+10333204,2018-08-26 14:00:00,Celtic vs Hamilton Academical,Celtic,53,home,Hamilton Academical,338,2,501,12963,5,9,67,1,,0,0,
+10333208,2018-09-02 11:00:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,12963,5,14,57,1,,0,2,
+10333216,2018-09-14 18:45:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,1,501,12963,5,5,60,0,,1,3,
+10333221,2018-09-23 11:30:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,0,501,12963,5,9,58,1,,0,2,
+10333223,2018-09-29 14:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,12963,5,3,60,1,,0,0,
+10333229,2018-10-07 14:30:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,12963,5,12,66,6,,0,0,
+10333235,2018-10-20 14:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,12963,5,5,51,4,,0,1,
+10333252,2018-10-31 19:45:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,2,501,12963,5,7,75,5,,,1,
+10333253,2018-11-03 15:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,12963,5,6,56,5,,0,0,
+10333259,2018-11-11 12:00:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,1,501,12963,5,9,58,0,,0,0,
+10333266,2018-11-24 12:30:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,2,501,12963,5,6,72,3,,0,0,
+10333280,2018-12-05 19:45:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,1,501,12963,5,4,63,1,,0,0,
+10333285,2018-12-08 15:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,12963,5,5,59,5,,,2,
+10333292,2018-12-16 12:30:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,0,501,12963,5,8,57,0,,0,2,
+10333245,2018-12-19 19:45:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,12963,5,5,60,3,,0,0,
+10333295,2018-12-22 15:00:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,12963,5,10,63,3,,0,0,
+10333302,2018-12-26 14:00:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,12963,5,3,67,4,,0,1,
+10333307,2018-12-29 12:30:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,0,501,12963,5,4,47,0,,0,3,
+10333315,2019-01-23 19:45:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,12963,5,8,70,4,,0,1,
+10333322,2019-01-26 15:00:00,Celtic vs Hamilton Academical,Celtic,53,home,Hamilton Academical,338,2,501,12963,5,13,71,3,,0,0,
+10333275,2019-01-30 19:45:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,12963,5,9,70,2,,0,1,
+10333330,2019-02-03 12:30:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,12963,5,7,65,2,,1,1,
+10333335,2019-02-06 19:45:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,12963,5,4,59,2,,0,1,
+10333339,2019-02-17 16:00:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,12963,5,3,59,1,,1,1,
+10333348,2019-02-24 15:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,12963,5,5,55,4,,0,4,
+10333354,2019-02-27 19:45:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,12963,5,5,62,2,,0,2,
+10333357,2019-03-09 15:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,1,501,12963,5,11,61,0,,0,1,
+10333364,2019-03-17 12:30:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,2,501,12963,5,12,63,1,,0,0,
+10333369,2019-03-31 11:00:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,12963,5,10,59,2,,0,3,
+10333376,2019-04-03 18:45:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,12963,5,2,63,2,,0,2,
+10333379,2019-04-06 14:00:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,1,501,12963,5,8,67,0,,0,0,
+11853597,2019-04-21 11:30:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,1,501,12963,5,9,51,0,,0,0,
+11853598,2019-04-27 11:30:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,12963,5,6,58,1,,0,2,
+11853601,2019-05-04 11:30:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,12963,5,10,57,3,,0,3,
+11853606,2019-05-12 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,0,501,12963,5,3,59,0,,0,2,
+11853607,2019-05-19 14:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,12963,5,9,58,2,,0,1,
+11879545,2019-08-03 14:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,16222,5,8,78,7,,0,0,70
+11879552,2019-08-10 11:00:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,16222,5,5,53,5,,0,0,43
+11879556,2019-08-25 14:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,16222,5,7,,3,,0,1,
+11879566,2019-09-01 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,2,501,16222,5,5,41,2,,0,1,45
+11879569,2019-09-14 11:00:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,2,501,16222,5,4,75,1,,0,0,55
+11879574,2019-09-22 12:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,16222,5,5,,3,,0,1,
+11879581,2019-09-28 11:30:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,1,501,16222,5,4,62,1,,0,5,58
+11879588,2019-10-06 11:00:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,0,501,16222,5,7,61,0,,1,2,55
+11879592,2019-10-19 14:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,16222,5,11,61,6,,0,0,51
+11879598,2019-10-27 12:15:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,16222,5,8,71,4,,0,0,53
+11879604,2019-10-30 19:45:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,16222,5,4,72,2,,0,0,58
+11879616,2019-11-10 15:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,16222,5,8,65,2,,0,0,66
+11879622,2019-11-23 15:00:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,2,501,16222,5,9,66,4,,0,1,
+11879633,2019-12-01 12:00:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,16222,5,11,74,4,,0,2,64
+11879635,2019-12-04 19:45:00,Celtic vs Hamilton Academical,Celtic,53,home,Hamilton Academical,338,2,501,16222,5,7,72,2,,0,0,68
+11879647,2019-12-15 15:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,16222,5,5,67,2,,0,1,59
+11879612,2019-12-18 19:45:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,16222,5,7,46,2,,0,2,50
+11879652,2019-12-21 15:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,16222,5,6,71,2,,0,2,64
+11879663,2019-12-26 15:00:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,16222,5,10,62,2,,0,1,70
+11879664,2019-12-29 12:30:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,0,501,16222,5,11,59,1,,0,3,38
+11879672,2020-01-22 19:45:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,16222,5,8,57,3,,0,2,
+11879676,2020-01-25 15:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,16222,5,14,69,3,,0,1,62
+11879645,2020-01-29 19:45:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,16222,5,3,73,3,,0,0,76
+11879682,2020-02-02 12:30:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,2,501,16222,5,15,78,4,,0,2,71
+11879690,2020-02-05 19:45:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,16222,5,2,59,4,,0,0,80
+11879694,2020-02-12 19:45:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,16222,5,10,57,5,,0,1,93
+11879700,2020-02-16 12:00:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,16222,5,3,55,2,,0,2,76
+11879707,2020-02-23 15:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,16222,5,7,75,3,,0,1,66
+11879714,2020-03-04 19:45:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,1,501,16222,5,7,74,2,,0,1,61
+11879719,2020-03-07 15:00:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,16222,5,10,62,5,,0,1,
+16475287,2020-08-02 15:30:00,Celtic vs Hamilton Academical,Celtic,53,home,Hamilton Academical,338,2,501,17141,5,11,80,5,,0,1,50
+16475294,2020-08-09 15:30:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,1,501,17141,5,2,70,1,,0,1,50
+16475311,2020-08-22 16:30:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,2,501,17141,5,10,65,1,,0,2,66
+16475313,2020-08-30 14:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,17141,5,7,66,3,,0,1,42
+16475323,2020-09-12 14:00:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,17141,5,7,57,5,,0,1,55
+16475296,2020-09-16 18:45:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,17141,5,3,77,2,,0,1,50
+16475325,2020-09-19 14:00:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,2,501,17141,5,3,71,3,,0,1,53
+16475332,2020-09-27 14:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,17141,5,6,64,3,,0,0,44
+16475342,2020-10-04 11:00:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,17141,5,11,69,2,,0,2,60
+16475344,2020-10-17 11:30:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,0,501,17141,5,1,56,0,,0,2,72
+16475350,2020-10-25 12:00:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,1,501,17141,5,5,62,3,,0,1,61
+16475361,2020-11-08 12:00:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,17141,5,5,64,4,,0,0,65
+16475367,2020-11-21 15:00:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,1,501,17141,5,8,70,2,,0,0,57
+16475374,2020-12-06 15:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,1,501,17141,5,8,68,1,,0,1,54
+16475379,2020-12-13 15:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,17141,5,10,63,2,,0,0,84
+16475392,2020-12-23 18:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,17141,5,10,67,2,,0,0,72
+16475399,2020-12-26 15:00:00,Hamilton Academical vs Celtic,Celtic,53,away,Hamilton Academical,338,2,501,17141,5,7,74,3,,0,1,52
+16475404,2020-12-30 15:00:00,Celtic vs Dundee United,Celtic,53,home,Dundee United,282,2,501,17141,5,5,73,3,,0,0,65
+16475413,2021-01-02 12:30:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,0,501,17141,5,6,49,0,,1,3,40
+16475415,2021-01-11 19:45:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,1,501,17141,5,3,58,1,,0,1,60
+16475422,2021-01-16 15:00:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,1,501,17141,5,2,57,0,,0,1,59
+16475387,2021-01-20 20:15:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,1,501,17141,5,7,70,2,,1,0,44
+16475434,2021-01-27 19:45:00,Celtic vs Hamilton Academical,Celtic,53,home,Hamilton Academical,338,2,501,17141,5,6,67,2,1,0,0,59
+16475356,2021-01-30 15:00:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,0,501,17141,5,4,63,1,1,0,0,26
+16475441,2021-02-02 19:45:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,17141,5,4,63,4,3,0,0,73
+16475446,2021-02-06 15:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,17141,5,5,60,2,2,0,0,58
+16475432,2021-02-10 20:00:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,17141,5,3,61,4,2,0,1,57
+16475456,2021-02-14 12:00:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,17141,5,9,63,2,2,0,2,44
+16475301,2021-02-17 18:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,17141,5,4,61,1,,0,0,44
+16475479,2021-02-21 19:30:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,0,501,17141,5,9,70,0,0,0,0,58
+16475458,2021-02-27 15:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,17141,5,7,64,1,1,0,0,41
+16475463,2021-03-07 12:00:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,1,501,17141,5,9,65,0,,0,2,63
+16475470,2021-03-21 12:00:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,1,501,17141,5,10,56,1,1,0,3,46
+17947849,2021-04-10 14:00:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,2,501,17141,5,6,59,6,4,0,0,56
+17947852,2021-04-21 18:45:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,1,501,17141,5,10,72,1,1,0,1,68
+17947857,2021-05-02 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,0,501,17141,5,9,39,1,1,1,3,64
+17947859,2021-05-12 17:30:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,17141,5,5,71,4,4,0,0,50
+17947861,2021-05-15 11:30:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,1,501,17141,5,6,65,0,,0,2,53
+18136885,2021-07-31 19:00:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,0,501,18369,5,5,63,1,1,0,0,50
+18136888,2021-08-08 14:00:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,18369,5,11,71,6,5,0,0,63
+18136894,2021-08-21 14:00:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,18369,5,15,74,6,,0,1,83
+18136904,2021-08-29 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,0,501,18369,5,4,63,0,0,0,2,40
+18136906,2021-09-11 14:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,18369,5,7,77,3,2,0,0,14
+18136915,2021-09-19 14:00:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,0,501,18369,5,10,73,0,0,0,2,54
+18136918,2021-09-26 14:00:00,Celtic vs Dundee United,Celtic,53,home,Dundee United,282,1,501,18369,5,9,63,1,1,0,0,55
+18136924,2021-10-03 11:00:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,18369,5,8,61,2,2,0,3,62
+18136932,2021-10-16 14:00:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,18369,5,8,74,2,2,0,1,47
+18136937,2021-10-23 14:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,18369,5,7,79,2,1,0,1,61
+18136943,2021-10-27 18:45:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,2,501,18369,5,8,57,3,3,0,1,55
+18136949,2021-10-30 14:00:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,1,501,18369,5,6,85,0,,0,0,60
+18136955,2021-11-07 12:00:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,2,501,18369,5,13,81,4,3,0,2,60
+18136966,2021-11-28 15:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,18369,5,14,61,2,1,0,2,61
+18136973,2021-12-02 19:45:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,18369,5,13,64,1,1,0,1,40
+18136979,2021-12-05 12:00:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,2,501,18369,5,12,71,3,3,0,1,59
+18136984,2021-12-12 15:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,18369,5,10,71,1,2,0,0,36
+18136964,2021-12-15 19:45:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,18369,5,7,75,2,4,1,3,75
+18136995,2021-12-22 19:45:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,1,501,18369,5,16,83,0,0,0,2,72
+18137001,2021-12-26 12:30:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,18369,5,9,72,3,5,0,1,38
+18137003,2022-01-17 19:45:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,18369,5,8,47,2,4,0,1,54
+18137015,2022-01-26 19:45:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,18369,5,10,57,2,2,0,3,54
+18137021,2022-01-29 15:00:00,Celtic vs Dundee United,Celtic,53,home,Dundee United,282,2,501,18369,5,14,75,1,1,1,2,52
+18137008,2022-02-02 19:45:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,18369,5,10,46,3,2,0,2,29
+18137029,2022-02-06 13:30:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,18369,5,10,70,4,4,0,1,64
+18137032,2022-02-09 19:45:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,18369,5,3,56,3,1,0,1,46
+18137038,2022-02-20 15:00:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,18369,5,11,81,3,1,0,1,45
+18137046,2022-02-27 12:00:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,1,501,18369,5,8,61,0,,0,2,53
+18137050,2022-03-02 19:45:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,18369,5,9,76,2,,0,2,57
+18137058,2022-03-06 12:00:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,2,501,18369,5,8,72,3,1,0,1,42
+18137063,2022-03-19 15:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,18369,5,16,81,4,2,0,0,66
+18137071,2022-04-03 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,2,501,18369,5,4,44,2,0,0,4,52
+18137075,2022-04-09 14:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,18369,5,7,81,7,5,0,0,35
+18517996,2022-04-24 13:30:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,18369,5,11,69,2,1,0,0,20
+18518000,2022-05-01 11:00:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,1,501,18369,5,2,53,1,1,0,3,33
+18518001,2022-05-07 11:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,18369,5,3,64,4,3,0,0,48
+18518004,2022-05-11 18:30:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,1,501,18369,5,9,71,1,,0,1,57
+18518007,2022-05-14 11:15:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,18369,5,15,70,6,3,0,0,35
+18535492,2022-07-31 15:30:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,19735,5,9,68,2,2,0,1,46
+18535498,2022-08-06 14:00:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,19735,5,12,77,3,0,0,2,52
+18535501,2022-08-14 11:00:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,19735,5,8,73,5,2,0,2,50
+18535505,2022-08-21 14:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,19735,5,4,69,2,2,0,0,55
+18535512,2022-08-28 11:00:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,2,501,19735,5,11,75,9,7,0,0,45
+18535517,2022-09-03 11:30:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,19735,5,3,45,4,,,3,32
+18535534,2022-09-18 11:00:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,0,501,19735,5,7,79,0,0,0,2,46
+18535536,2022-10-01 14:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,19735,5,7,73,2,1,1,1,45
+18535546,2022-10-08 11:30:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,19735,5,8,74,2,1,0,3,31
+18535548,2022-10-15 14:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,19735,5,7,57,6,5,0,1,16
+18535553,2022-10-22 11:30:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,19735,5,6,63,4,1,0,1,66
+18535561,2022-10-30 12:00:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,2,501,19735,5,4,76,3,1,0,3,36
+18535566,2022-11-05 15:00:00,Celtic vs Dundee United,Celtic,53,home,Dundee United,282,2,501,19735,5,11,75,4,4,0,1,30
+18535574,2022-11-09 19:45:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,19735,5,10,71,2,2,0,1,54
+18535578,2022-11-12 15:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,19735,5,8,73,2,2,0,1,18
+18535583,2022-12-17 12:30:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,19735,5,7,81,1,1,0,0,62
+18535524,2022-12-21 19:45:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,2,501,19735,5,10,77,2,1,0,2,31
+18535589,2022-12-24 12:30:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,19735,5,9,76,4,4,1,2,46
+18535596,2022-12-28 20:00:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,2,501,19735,5,13,70,4,2,0,0,50
+18535605,2023-01-02 12:30:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,1,501,19735,5,4,60,2,0,0,1,58
+18537946,2023-01-07 15:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,19735,5,4,79,2,1,0,0,61
+18537951,2023-01-18 19:45:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,19735,5,8,76,4,0,0,0,60
+18537957,2023-01-29 16:00:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,2,501,19735,5,3,73,2,1,0,0,55
+18537964,2023-02-01 19:45:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,2,501,19735,5,8,81,3,2,0,1,56
+18537973,2023-02-05 12:00:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,19735,5,4,71,4,2,0,2,42
+18537975,2023-02-18 15:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,19735,5,8,78,4,2,0,0,60
+18537992,2023-03-05 12:00:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,19735,5,6,83,5,2,0,0,35
+18537982,2023-03-08 19:45:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,19735,5,7,70,3,3,0,0,65
+18537994,2023-03-18 15:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,19735,5,15,79,3,1,0,1,58
+18538002,2023-04-02 11:00:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,19735,5,9,75,2,1,0,0,52
+18538006,2023-04-08 11:30:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,19735,5,4,54,3,2,0,4,65
+18538012,2023-04-16 11:00:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,19735,5,5,77,4,2,0,2,50
+18538018,2023-04-22 14:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,1,501,19735,5,13,78,1,1,0,1,54
+18825709,2023-05-07 13:15:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,19735,5,5,71,2,2,0,1,71
+18825746,2023-05-13 11:30:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,0,501,19735,5,5,68,0,0,0,1,48
+18825749,2023-05-20 14:00:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,1,501,19735,5,14,77,2,2,0,0,65
+18825753,2023-05-24 18:45:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,0,501,19735,5,10,69,2,0,1,2,58
+18825755,2023-05-27 11:30:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,19735,5,10,76,5,3,0,1,83
+18861937,2023-08-05 11:30:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,21787,5,4,75,4,3,0,0,30
+18861943,2023-08-13 11:00:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,21787,5,9,67,3,2,0,2,66
+18861949,2023-08-26 14:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,1,501,21787,5,19,75,0,,0,1,50
+18861960,2023-09-03 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,2,501,21787,5,2,50,1,1,0,1,100
+18861961,2023-09-16 14:00:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,21787,5,9,74,3,2,0,0,100
+18861970,2023-09-23 11:30:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,2,501,21787,5,4,54,3,,1,2,100
+18861975,2023-09-30 11:30:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,21787,5,6,70,2,2,0,1,70
+18861980,2023-10-07 14:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,21787,5,11,77,3,2,0,2,75
+18861986,2023-10-22 13:15:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,21787,5,5,58,4,2,0,1,61
+18861991,2023-10-28 14:00:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,1,501,21787,5,6,71,0,,0,2,80
+18862853,2023-11-01 19:45:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,21787,5,12,75,2,1,0,2,75
+18862001,2023-11-04 12:30:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,21787,5,13,78,3,1,0,1,100
+18862003,2023-11-12 14:30:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,21787,5,11,78,6,2,0,0,100
+18862010,2023-11-25 15:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,1,501,21787,5,13,81,1,0,0,1,66
+18862020,2023-12-03 12:00:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,21787,5,12,70,3,2,0,1,100
+18862860,2023-12-06 19:45:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,21787,5,11,61,4,3,0,2,66
+18862022,2023-12-10 12:00:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,0,501,21787,5,9,68,1,0,0,1,100
+18862027,2023-12-16 15:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,0,501,21787,5,18,77,0,0,0,1,71
+18862033,2023-12-23 15:00:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,2,501,21787,5,14,77,2,2,0,0,57
+18862040,2023-12-26 15:00:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,2,501,21787,5,23,74,3,2,0,1,66
+18862045,2023-12-30 12:30:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,21787,5,4,56,2,1,0,7,66
+18862056,2024-01-02 17:00:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,21787,5,12,73,3,3,0,0,100
+18862057,2024-01-27 15:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,21787,5,7,70,1,,0,1,83
+18862063,2024-02-03 12:30:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,1,501,21787,5,12,71,1,1,0,1,71
+18862069,2024-02-07 20:00:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,2,501,21787,5,5,66,2,0,0,2,100
+18862076,2024-02-17 15:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,1,501,21787,5,8,71,1,1,0,0,50
+18862083,2024-02-25 12:00:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,21787,5,4,71,3,3,0,2,100
+18862088,2024-02-28 19:45:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,21787,5,5,76,7,6,0,2,66
+18862094,2024-03-03 12:00:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,0,501,21787,5,7,51,0,0,1,2,100
+18862099,2024-03-16 15:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,21787,5,10,74,3,3,0,0,40
+18862107,2024-03-31 11:00:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,2,501,21787,5,8,76,3,2,0,0,74
+18862115,2024-04-07 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,1,501,21787,5,2,46,3,1,0,4,80
+18862118,2024-04-13 14:00:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,21787,5,11,73,3,2,0,0,100
+19116469,2024-04-28 14:00:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,2,501,21787,5,8,68,2,1,0,1,100
+19116485,2024-05-04 14:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,21787,5,17,60,3,2,,0,100
+19116488,2024-05-11 11:30:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,21787,5,10,68,2,1,0,3,71
+19116492,2024-05-15 18:30:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,21787,5,9,75,5,5,,0,75
+19116494,2024-05-18 11:30:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,21787,5,11,73,3,2,,,57
+19146701,2024-08-04 15:30:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,23690,5,10,82,4,,,0,83
+19146708,2024-08-11 11:30:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,2,501,23690,5,5,75,2,2,,1,53
+19146714,2024-08-25 11:00:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,23690,5,10,76,,,,1,50
+19146715,2024-09-01 11:30:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,23690,5,7,52,,,,4,
+19146722,2024-09-14 14:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,23690,5,5,71,,1,,1,46
+19146732,2024-09-28 16:45:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,2,501,23690,5,13,76,,6,,1,45
+19146737,2024-10-06 11:00:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,23690,5,9,82,2,2,,1,62
+19146739,2024-10-19 14:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,1,501,23690,5,18,73,2,1,,1,33
+19146748,2024-10-27 15:00:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,23690,5,10,78,3,2,0,2,42
+19146752,2024-10-30 19:45:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,23690,5,7,80,2,,,1,50
+19146766,2024-11-10 15:00:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,23690,5,4,66,2,2,,3,47
+19146770,2024-11-23 19:45:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,2,501,23690,5,6,68,4,2,,1,41
+19146775,2024-11-30 15:00:00,Celtic vs Ross County,Celtic,53,home,Ross County,246,2,501,23690,5,19,76,5,4,,0,60
+19146781,2024-12-04 20:00:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,23690,5,10,74,1,1,,1,57
+19146788,2024-12-07 15:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,23690,5,14,75,3,2,,1,43
+19146800,2024-12-22 12:00:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,1,501,23690,5,9,78,,,,1,31
+19146806,2024-12-26 15:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,23690,5,6,84,4,3,,1,20
+19146811,2024-12-29 15:00:00,Celtic vs St. Johnstone,Celtic,53,home,St. Johnstone,734,2,501,23690,5,12,70,4,3,,0,44
+19146820,2025-01-02 15:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,0,501,23690,5,4,61,0,0,,2,33
+19146823,2025-01-05 15:00:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,23690,5,8,76,3,2,,0,74
+19146757,2025-01-08 19:45:00,Celtic vs Dundee United,Celtic,53,home,Dundee United,282,2,501,23690,5,12,76,2,1,,,50
+19146833,2025-01-11 12:30:00,Ross County vs Celtic,Celtic,53,away,Ross County,246,2,501,23690,5,7,78,4,2,,0,53
+19146793,2025-01-14 20:00:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,1,501,23690,5,4,79,3,1,,1,57
+19146844,2025-02-02 15:00:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,23690,5,10,81,3,3,,,38
+19146836,2025-02-05 19:45:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,23690,5,6,80,6,4,,1,53
+19146847,2025-02-15 15:00:00,Celtic vs Dundee United,Celtic,53,home,Dundee United,282,2,501,23690,5,15,76,3,2,,0,38
+19146855,2025-02-22 12:30:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,0,501,23690,5,10,75,1,1,,2,31
+19146859,2025-02-25 20:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,23690,5,4,69,5,4,,1,75
+19146870,2025-03-01 17:30:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,23690,5,3,75,5,4,,0,56
+19146871,2025-03-16 12:30:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,0,501,23690,5,7,72,2,2,,0,37
+19146878,2025-03-29 15:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,23690,5,6,71,3,2,,0,43
+19146888,2025-04-06 11:00:00,St. Johnstone vs Celtic,Celtic,53,away,St. Johnstone,734,0,501,23690,5,11,80,0,0,,2,72
+19146890,2025-04-12 11:30:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,23690,5,10,88,5,4,,,71
+19415300,2025-04-26 11:30:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,2,501,23690,5,8,75,5,4,,,50
+19415338,2025-05-04 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,1,501,23690,5,6,60,1,1,,1,27
+19415339,2025-05-10 14:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,2,501,23690,5,8,76,3,3,,2,47
+19415342,2025-05-14 19:00:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,23690,5,6,69,5,3,0,0,50
+19415345,2025-05-17 11:30:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,1,501,23690,5,14,77,1,1,,0,47
+19428043,2025-08-03 15:30:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,25598,5,12,76,1,1,,2,43
+19428050,2025-08-10 11:30:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,25598,5,6,71,2,2,,3,56
+19428051,2025-08-23 14:00:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,2,501,25598,5,10,78,3,1,,0,60
+19428062,2025-08-31 11:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,1,501,25598,5,1,59,,,,0,46
+19428067,2025-09-14 14:00:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,25598,5,7,76,2,1,,3,56
+19428069,2025-09-27 14:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,1,501,25598,5,7,77,,,,2,33
+19428076,2025-10-05 14:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,25598,5,10,62,3,1,,2,20
+19428081,2025-10-19 11:00:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,0,501,25598,5,12,82,0,0,,2,43
+19428090,2025-10-26 12:00:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,0,501,25598,5,9,65,1,1,,1,50
+19428093,2025-10-29 19:45:00,Celtic vs Falkirk,Celtic,53,home,Falkirk,770,2,501,25598,5,6,60,4,2,,1,36
+19428106,2025-11-09 16:00:00,Celtic vs Kilmarnock,Celtic,53,home,Kilmarnock,180,2,501,25598,5,8,75,4,2,,2,42
+19428116,2025-11-22 20:00:00,St. Mirren vs Celtic,Celtic,53,away,St. Mirren,496,2,501,25598,5,4,73,1,1,,1,46
+19428118,2025-11-30 12:00:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,2,501,25598,5,3,60,2,1,,3,33
+19428124,2025-12-03 19:45:00,Celtic vs Dundee,Celtic,53,home,Dundee,284,2,501,25598,5,6,71,1,,,3,39
+19428129,2025-12-07 15:00:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,0,501,25598,5,5,72,1,1,,1,36
+19428219,2025-12-17 20:00:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,0,501,25598,5,6,73,1,1,,1,39
+19428141,2025-12-21 15:00:00,Celtic vs Aberdeen,Celtic,53,home,Aberdeen,273,2,501,25598,5,8,73,3,3,0,1,67
+19428150,2025-12-27 15:00:00,Livingston vs Celtic,Celtic,53,away,Livingston,258,2,501,25598,5,4,66,4,3,,0,57
+19428157,2025-12-30 20:00:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,0,501,25598,5,3,57,0,0,,4,47
+19428159,2026-01-03 12:30:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,0,501,25598,5,8,66,1,1,,0,58
+19428166,2026-01-10 15:00:00,Celtic vs Dundee United,Celtic,53,home,Dundee United,282,2,501,25598,5,11,78,4,2,,1,69
+19428137,2026-01-14 19:45:00,Falkirk vs Celtic,Celtic,53,away,Falkirk,770,2,501,25598,5,4,57,1,1,,1,56
+19428174,2026-01-25 15:00:00,Hearts vs Celtic,Celtic,53,away,Hearts,314,1,501,25598,5,2,45,2,1,1,6,40
+19428177,2026-02-01 15:00:00,Celtic vs Falkirk,Celtic,53,home,Falkirk,770,2,501,25598,5,9,58,2,2,,0,53
+19428189,2026-02-11 19:45:00,Celtic vs Livingston,Celtic,53,home,Livingston,258,2,501,25598,5,10,79,2,1,,2,69
+19428198,2026-02-15 14:00:00,Kilmarnock vs Celtic,Celtic,53,away,Kilmarnock,180,2,501,25598,5,7,61,3,1,,3,52
+19428202,2026-02-22 15:00:00,Celtic vs Hibernian,Celtic,53,home,Hibernian,66,0,501,25598,5,11,61,1,1,1,2,64
+19428212,2026-03-01 12:00:00,Rangers vs Celtic,Celtic,53,away,Rangers,62,1,501,25598,5,7,55,2,1,,1,46
+19428183,2026-03-04 20:00:00,Aberdeen vs Celtic,Celtic,53,away,Aberdeen,273,2,501,25598,5,6,62,2,2,,2,33
+19428214,2026-03-14 15:00:00,Celtic vs Motherwell,Celtic,53,home,Motherwell,309,2,501,25598,5,2,47,3,0,0,4,40
+19592463,2026-03-22 12:30:00,Dundee United vs Celtic,Celtic,53,away,Dundee United,282,0,501,25598,5,6,74,0,0,,2,45
+19428225,2026-04-05 15:30:00,Dundee vs Celtic,Celtic,53,away,Dundee,284,2,501,25598,5,4,58,2,2,0,2,47
+19428232,2026-04-11 14:00:00,Celtic vs St. Mirren,Celtic,53,home,St. Mirren,496,2,501,25598,5,3,56,1,,,0,21
+19700229,2026-04-25 16:30:00,Celtic vs Falkirk,Celtic,53,home,Falkirk,770,2,501,25598,5,9,55,3,2,,2,64
+19700221,2026-05-03 11:00:00,Hibernian vs Celtic,Celtic,53,away,Hibernian,66,2,501,25598,5,13,81,2,1,0,3,50
+19700214,2026-05-10 11:00:00,Celtic vs Rangers,Celtic,53,home,Rangers,62,2,501,25598,5,1,51,3,2,,6,40
+19700209,2026-05-13 19:00:00,Motherwell vs Celtic,Celtic,53,away,Motherwell,309,2,501,25598,5,3,52,3,1,,3,36
+19700207,2026-05-16 11:30:00,Celtic vs Hearts,Celtic,53,home,Hearts,314,2,501,25598,5,9,67,3,2,,6,50

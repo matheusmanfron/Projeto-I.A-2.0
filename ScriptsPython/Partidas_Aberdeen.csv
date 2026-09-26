@@ -1,0 +1,396 @@
+﻿fixture_id,data,partida,time,team_id,local_visitante,adversario,adversario_id,resultado,league_id,season_id,state_id,Escanteios,Posse de bola (%),Gols,Assistências,Cartões vermelhos,Cartões amarelos,Dribles bem-sucedidos (%)
+377793,2014-09-13 11:45:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,1936,5,4,53,,,,,
+378049,2014-10-17 18:45:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,0,501,1936,5,0,,,,,,
+378112,2014-10-24 18:45:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,1936,5,2,48,,,,,
+378228,2014-11-03 19:45:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,2,501,1936,5,6,56,,,,,
+378291,2014-11-09 12:30:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,1936,5,5,48,,,,,
+378357,2014-11-23 12:45:00,Partick Thistle vs Aberdeen,Aberdeen,273,away,Partick Thistle,339,2,501,1936,5,6,54,,,,,
+378608,2014-12-28 15:00:00,Inverness CT vs Aberdeen,Aberdeen,273,away,Inverness CT,265,2,501,1936,5,4,53,,,,,
+378727,2015-01-04 15:30:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,2,501,1936,5,7,58,,,,,
+378937,2015-01-23 19:45:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,1,501,1936,5,5,49,,,,,
+379117,2015-02-15 15:30:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,2,501,1936,5,11,52,,,,,
+379251,2015-03-13 19:45:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,1936,5,7,54,,,,,
+379324,2015-03-21 12:15:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,1,501,1936,5,10,64,,,,,
+379537,2015-04-12 11:15:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,2,501,1936,5,13,61,2,,,,
+376623,2015-05-10 13:30:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,1936,5,5,53,,,,,
+378005,2015-09-12 11:30:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,2,501,1937,5,2,40,,,,,
+378253,2015-10-16 18:45:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,0,501,1937,5,4,48,,,,,
+378381,2015-10-31 12:30:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,1937,5,1,37,,,,,
+378560,2015-11-22 12:30:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,1,501,1937,5,6,47,,,,,
+378634,2015-12-05 12:30:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,2,501,1937,5,7,59,,,,,
+378697,2015-12-12 12:30:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,1937,5,10,59,,,,,
+379071,2016-01-17 12:15:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,2,501,1937,5,10,54,,,,,
+379081,2016-01-22 19:45:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,2,501,1937,5,12,56,,,,,
+379246,2016-02-15 19:45:00,Inverness CT vs Aberdeen,Aberdeen,273,away,Inverness CT,265,0,501,1937,5,3,55,,,,,
+379631,2016-04-08 18:45:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,1937,5,3,53,,,,,
+376574,2016-04-22 18:45:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,0,501,1937,5,4,48,,,,,
+376752,2016-05-08 11:30:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,1937,5,3,48,,,,,
+376832,2016-05-12 18:45:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,0,501,1937,5,5,55,,,,,
+376838,2016-08-07 11:15:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,1,501,825,5,7,50,,,,,
+377801,2016-09-10 14:00:00,Aberdeen vs Inverness CT,Aberdeen,273,home,Inverness CT,265,1,501,825,5,5,58,1,,0,0,
+377864,2016-09-18 11:00:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,2,501,825,5,5,63,3,,0,4,
+377928,2016-09-25 12:00:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,2,501,825,5,4,43,2,,0,5,
+378004,2016-10-01 14:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,2,501,825,5,6,60,4,,0,0,
+378056,2016-10-15 14:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,2,501,825,5,6,,4,,0,1,
+378140,2016-10-25 18:45:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,0,501,825,5,6,55,0,,0,0,
+378205,2016-10-29 11:00:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,825,5,3,44,0,,0,2,
+378268,2016-11-04 19:45:00,Partick Thistle vs Aberdeen,Aberdeen,273,away,Partick Thistle,339,2,501,825,5,2,56,2,,0,0,
+378351,2016-11-19 15:00:00,Inverness CT vs Aberdeen,Aberdeen,273,away,Inverness CT,265,2,501,825,5,6,56,3,,0,1,
+378439,2016-12-06 19:45:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,825,5,7,55,5,,0,2,
+378577,2016-12-10 15:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,1,501,825,5,6,58,0,,0,1,
+378636,2016-12-17 15:00:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,0,501,825,5,12,60,1,,0,2,
+378647,2016-12-23 19:45:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,2,501,825,5,5,54,3,,0,2,
+378711,2016-12-27 15:00:00,Aberdeen vs Hamilton Academical,Aberdeen,273,home,Hamilton Academical,338,2,501,825,5,16,62,2,,0,2,
+378774,2016-12-30 19:45:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,2,501,825,5,9,57,1,,0,2,
+378836,2017-01-27 19:45:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,2,501,825,5,9,64,3,,0,1,
+378943,2017-02-01 19:45:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,825,5,0,32,0,,0,3,
+378996,2017-02-04 15:00:00,Aberdeen vs Partick Thistle,Aberdeen,273,home,Partick Thistle,339,2,501,825,5,2,58,2,,0,2,
+378129,2017-02-15 19:45:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,825,5,6,56,7,,0,2,
+379070,2017-02-19 13:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,2,501,825,5,4,62,2,,0,2,
+379133,2017-02-25 15:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,2,501,825,5,4,60,1,,0,1,
+379155,2017-02-28 19:45:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,0,501,825,5,21,70,0,,0,1,
+379238,2017-03-11 15:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,825,5,12,64,1,,0,1,
+379276,2017-03-18 12:15:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,825,5,6,60,2,,1,1,
+379339,2017-03-31 18:45:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,2,501,825,5,7,57,7,,0,0,
+379398,2017-04-04 18:45:00,Aberdeen vs Inverness CT,Aberdeen,273,home,Inverness CT,265,2,501,825,5,10,55,1,,0,0,
+379510,2017-04-09 11:30:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,0,501,825,5,7,63,0,,0,3,
+379529,2017-04-15 14:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,2,501,825,5,3,52,2,,0,1,
+376673,2017-04-29 14:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,0,501,825,5,4,58,0,,0,3,
+376767,2017-05-07 14:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,2,501,825,5,3,48,2,,0,2,
+234027,2017-05-12 18:45:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,825,5,10,59,1,,0,2,
+234035,2017-05-17 18:45:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,2,501,825,5,6,54,2,,1,2,
+234043,2017-05-21 11:30:00,Partick Thistle vs Aberdeen,Aberdeen,273,away,Partick Thistle,339,2,501,825,5,2,59,6,,0,2,
+1871763,2017-08-06 14:00:00,Aberdeen vs Hamilton Academical,Aberdeen,273,home,Hamilton Academical,338,2,501,7953,5,4,,2,,0,1,
+1871773,2017-08-12 14:00:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,2,501,7953,5,6,60,2,,0,1,
+1871775,2017-08-19 14:00:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,2,501,7953,5,4,60,2,,0,3,
+1871785,2017-08-26 14:00:00,Partick Thistle vs Aberdeen,Aberdeen,273,away,Partick Thistle,339,2,501,7953,5,9,60,4,,0,0,
+1871788,2017-09-09 14:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,1,501,7953,5,2,55,0,,0,1,
+1871793,2017-09-16 14:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,1,501,7953,5,5,63,1,,0,2,
+1871801,2017-09-24 11:15:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,2,501,7953,5,4,45,1,,0,2,
+1871805,2017-09-30 14:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,2,501,7953,5,8,60,3,,0,2,
+1871813,2017-10-14 14:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,2,501,7953,5,0,46,1,,0,3,
+1871823,2017-10-25 18:45:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,7953,5,3,34,0,,0,4,
+1871829,2017-10-28 14:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,2,501,7953,5,3,51,2,,0,3,
+1871835,2017-11-04 15:00:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,1,501,7953,5,7,52,2,,0,0,
+1871841,2017-11-18 15:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,0,501,7953,5,8,52,0,,0,2,
+1871851,2017-11-26 12:30:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,2,501,7953,5,3,49,3,,0,2,
+1871821,2017-11-29 19:45:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,7953,5,2,46,0,,1,4,
+1871853,2017-12-03 12:30:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,0,501,7953,5,5,56,1,,0,1,
+1871859,2017-12-08 19:45:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,2,501,7953,5,10,52,1,,0,2,
+1871870,2017-12-13 19:45:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,2,501,7953,5,6,59,3,,0,1,
+1871871,2017-12-16 12:30:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,2,501,7953,5,3,50,4,,0,0,
+1871877,2017-12-23 15:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,7953,5,7,44,0,,0,4,
+1871883,2017-12-27 19:45:00,Aberdeen vs Partick Thistle,Aberdeen,273,home,Partick Thistle,339,2,501,7953,5,5,65,1,,0,0,
+1871889,2017-12-30 15:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,1,501,7953,5,10,68,0,,0,0,
+1871900,2018-01-24 19:45:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,7953,5,7,49,0,,0,3,
+1871901,2018-01-27 15:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,7953,5,8,53,3,,0,1,
+1871911,2018-01-31 19:45:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,2,501,7953,5,5,60,4,,0,4,
+1871913,2018-02-03 15:00:00,Aberdeen vs Hamilton Academical,Aberdeen,273,home,Hamilton Academical,338,2,501,7953,5,8,58,3,,0,0,
+1871921,2018-02-17 15:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,0,501,7953,5,2,46,0,,0,5,
+1871925,2018-02-25 13:30:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,7953,5,3,45,0,,1,3,
+1871941,2018-03-10 15:00:00,Partick Thistle vs Aberdeen,Aberdeen,273,away,Partick Thistle,339,1,501,7953,5,2,53,0,,0,0,
+1871943,2018-03-17 15:00:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,2,501,7953,5,11,63,1,,0,1,
+1871949,2018-03-31 14:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,2,501,7953,5,5,50,4,,0,0,
+1871934,2018-04-03 18:45:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,2,501,7953,5,6,54,2,,0,0,
+1871956,2018-04-07 14:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,7953,5,0,56,0,,0,2,
+10320696,2018-04-21 14:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,2,501,7953,5,3,44,2,,0,1,
+10320701,2018-04-27 18:45:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,7953,5,3,47,2,,0,2,
+10320709,2018-05-05 14:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,1,501,7953,5,9,52,0,,0,3,
+10320713,2018-05-08 18:45:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,1,501,7953,5,8,49,1,,0,4,
+10320722,2018-05-13 11:30:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,2,501,7953,5,1,30,1,,0,2,
+10333192,2018-08-05 12:00:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,1,501,12963,5,4,58,1,,0,3,
+10333195,2018-08-11 14:00:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,2,501,12963,5,12,55,1,,0,3,
+10333200,2018-08-25 14:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,1,501,12963,5,5,43,1,,0,5,
+10333209,2018-09-01 14:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,0,501,12963,5,2,46,0,,1,3,
+10333215,2018-09-15 14:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,1,501,12963,5,8,29,1,,0,2,
+10333217,2018-09-22 14:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,12963,5,6,47,1,,0,2,
+10333223,2018-09-29 14:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,12963,5,3,40,0,,0,0,
+10333232,2018-10-06 14:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,2,501,12963,5,3,65,4,,0,0,
+10333240,2018-10-20 14:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,12963,5,4,45,1,,0,6,
+10333250,2018-10-31 19:45:00,Aberdeen vs Hamilton Academical,Aberdeen,273,home,Hamilton Academical,338,2,501,12963,5,8,63,3,,0,0,
+10333254,2018-11-04 12:15:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,2,501,12963,5,4,59,2,,0,1,
+10333260,2018-11-09 19:45:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,2,501,12963,5,4,51,1,,0,0,
+10333270,2018-11-24 15:00:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,0,501,12963,5,6,56,0,,0,1,
+10333277,2018-12-05 19:45:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,2,501,12963,5,1,37,1,,1,2,
+10333283,2018-12-08 15:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,0,501,12963,5,2,61,0,,0,1,
+10333243,2018-12-11 19:45:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,2,501,12963,5,9,65,3,,0,1,
+10333294,2018-12-15 15:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,2,501,12963,5,6,56,2,,0,2,
+10333274,2018-12-18 19:45:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,2,501,12963,5,8,54,5,,0,1,
+10333298,2018-12-22 15:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,12963,5,5,54,2,,0,2,
+10333302,2018-12-26 14:00:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,12963,5,2,33,3,,0,3,
+10333312,2018-12-29 15:00:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,2,501,12963,5,6,55,2,,0,0,
+10333316,2019-01-23 19:45:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,2,501,12963,5,2,52,3,,0,2,
+10333321,2019-01-26 15:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,1,501,12963,5,6,63,0,,0,2,
+10333325,2019-02-02 15:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,2,501,12963,5,3,51,2,,0,2,
+10333336,2019-02-06 19:45:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,0,501,12963,5,10,51,2,,1,2,
+10333341,2019-02-16 15:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,1,501,12963,5,11,68,2,,0,0,
+10333344,2019-02-23 15:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,2,501,12963,5,3,53,2,,0,1,
+10333351,2019-02-27 19:45:00,Aberdeen vs Hamilton Academical,Aberdeen,273,home,Hamilton Academical,338,0,501,12963,5,11,63,0,,0,1,
+10333357,2019-03-09 15:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,1,501,12963,5,3,39,0,,0,1,
+10333365,2019-03-16 15:00:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,1,501,12963,5,4,60,1,,0,0,
+10333371,2019-03-30 15:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,12963,5,5,55,1,,0,4,
+10333374,2019-04-03 18:45:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,12963,5,3,47,3,,0,1,
+10333384,2019-04-06 14:00:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,2,501,12963,5,8,60,2,,0,1,
+11853596,2019-04-20 14:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,2,501,12963,5,3,52,1,,0,4,
+11853600,2019-04-28 14:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,12963,5,1,31,0,,1,3,
+11853601,2019-05-04 11:30:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,12963,5,3,43,0,,0,3,
+11853604,2019-05-10 18:45:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,12963,5,2,48,2,,0,2,
+11853608,2019-05-19 14:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,2,501,12963,5,3,54,2,,0,1,
+11879544,2019-08-04 14:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,16222,5,4,60,3,,0,4,50
+11879555,2019-08-11 14:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,0,501,16222,5,9,,0,,0,2,
+11879559,2019-08-24 14:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,1,501,16222,5,4,,0,,0,1,
+11879562,2019-08-31 14:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,2,501,16222,5,6,,3,,0,2,
+11879568,2019-09-14 14:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,1,501,16222,5,6,,1,,0,0,
+11879576,2019-09-21 14:00:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,2,501,16222,5,3,,2,,0,0,
+11879583,2019-09-28 14:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,16222,5,1,,0,,0,2,
+11879586,2019-10-05 14:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,1,501,16222,5,9,48,1,,2,1,76
+11879596,2019-10-19 14:00:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,2,501,16222,5,5,47,3,,0,2,64
+11879598,2019-10-27 12:15:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,16222,5,2,29,0,,0,1,28
+11879605,2019-10-30 19:45:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,2,501,16222,5,11,63,1,,0,1,50
+11879610,2019-11-02 15:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,16222,5,6,43,3,,0,2,57
+11879620,2019-11-09 15:00:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,2,501,16222,5,7,56,3,,0,1,66
+11879626,2019-11-24 15:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,1,501,16222,5,6,53,1,,0,3,83
+11879628,2019-11-30 15:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,2,501,16222,5,7,48,2,,0,1,75
+11879634,2019-12-04 19:45:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,1,501,16222,5,2,25,2,,0,2,100
+11879641,2019-12-07 15:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,0,501,16222,5,3,51,0,,0,2,54
+11879646,2019-12-14 15:00:00,Aberdeen vs Hamilton Academical,Aberdeen,273,home,Hamilton Academical,338,2,501,16222,5,8,61,1,,0,0,50
+11879652,2019-12-21 15:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,16222,5,1,29,1,,1,1,33
+11879658,2019-12-26 15:00:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,2,501,16222,5,6,48,2,,0,1,50
+11879665,2019-12-29 14:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,1,501,16222,5,5,49,1,,0,3,40
+11879670,2020-01-22 19:45:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,0,501,16222,5,9,62,0,,0,1,68
+11879681,2020-01-26 12:30:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,1,501,16222,5,11,63,0,,0,0,50
+11879686,2020-02-01 15:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,1,501,16222,5,1,28,0,,0,4,66
+11879688,2020-02-05 19:45:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,0,501,16222,5,5,65,0,,0,2,46
+11879695,2020-02-11 19:45:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,2,501,16222,5,8,55,3,,0,1,39
+11879700,2020-02-16 12:00:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,16222,5,5,45,1,,0,2,71
+11879706,2020-02-22 15:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,0,501,16222,5,4,41,1,,1,2,80
+11879713,2020-03-04 19:45:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,1,501,16222,5,1,53,2,,0,5,42
+11879718,2020-03-07 15:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,2,501,16222,5,7,53,3,,0,0,75
+16475286,2020-08-01 11:30:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,0,501,17141,5,2,40,0,,1,1,45
+16475289,2020-08-20 18:30:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,2,501,17141,5,1,55,1,,0,3,53
+16475307,2020-08-23 14:00:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,2,501,17141,5,1,44,2,,0,0,66
+16475318,2020-08-30 15:30:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,2,501,17141,5,4,47,1,,0,1,50
+16475320,2020-09-12 14:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,17141,5,10,49,1,,0,0,50
+16475326,2020-09-20 14:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,0,501,17141,5,4,66,0,,0,3,36
+16475335,2020-09-27 14:00:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,2,501,17141,5,6,55,3,,0,0,47
+16475338,2020-10-02 18:45:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,2,501,17141,5,5,62,2,,0,1,61
+16475343,2020-10-17 14:00:00,Dundee United vs Aberdeen,Aberdeen,273,away,Dundee United,282,1,501,17141,5,10,61,0,,0,2,62
+16475297,2020-10-20 18:00:00,Aberdeen vs Hamilton Academical,Aberdeen,273,home,Hamilton Academical,338,2,501,17141,5,9,53,4,,0,1,50
+16475350,2020-10-25 12:00:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,1,501,17141,5,3,38,3,,0,2,44
+16475362,2020-11-06 19:45:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,2,501,17141,5,3,38,2,,0,0,47
+16475371,2020-11-22 12:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,17141,5,6,29,0,,0,1,40
+16475357,2020-11-25 19:00:00,Hamilton Academical vs Aberdeen,Aberdeen,273,away,Hamilton Academical,338,1,501,17141,5,7,69,1,,0,0,46
+16475378,2020-12-05 15:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,1,501,17141,5,1,48,1,,1,3,50
+16475380,2020-12-12 15:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,2,501,17141,5,4,48,2,,0,1,76
+16475385,2020-12-20 12:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,2,501,17141,5,1,52,2,,0,0,77
+16475395,2020-12-23 18:15:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,1,501,17141,5,7,57,0,,0,1,43
+16475398,2020-12-26 15:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,2,501,17141,5,5,54,2,,0,1,50
+16475410,2021-01-02 15:00:00,Aberdeen vs Dundee United,Aberdeen,273,home,Dundee United,282,1,501,17141,5,5,53,0,,0,1,66
+16475416,2021-01-10 15:00:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,0,501,17141,5,1,20,1,,1,2,72
+16475425,2021-01-16 15:00:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,0,501,17141,5,6,64,1,0,0,0,50
+16475428,2021-01-23 15:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,17141,5,8,61,2,,0,2,58
+16475438,2021-01-27 18:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,1,501,17141,5,6,58,0,,0,1,65
+16475405,2021-01-30 15:00:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,1,501,17141,5,2,47,0,,0,0,80
+16475440,2021-02-02 18:00:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,0,501,17141,5,3,67,0,0,0,2,47
+16475447,2021-02-06 15:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,0,501,17141,5,5,59,0,0,0,0,60
+16475452,2021-02-13 15:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,1,501,17141,5,1,54,0,,0,1,64
+16475301,2021-02-17 18:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,17141,5,6,39,0,,0,2,90
+16475476,2021-02-20 15:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,17141,5,2,50,1,1,0,1,69
+16475458,2021-02-27 15:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,17141,5,4,36,0,0,0,1,44
+16475464,2021-03-06 15:00:00,Aberdeen vs Hamilton Academical,Aberdeen,273,home,Hamilton Academical,338,1,501,17141,5,4,56,0,,0,2,33
+16475469,2021-03-20 15:00:00,Dundee United vs Aberdeen,Aberdeen,273,away,Dundee United,282,0,501,17141,5,10,49,0,0,0,1,44
+17947850,2021-04-10 14:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,2,501,17141,5,5,56,1,1,0,2,66
+17947852,2021-04-21 18:45:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,1,501,17141,5,4,28,1,1,0,0,12
+17947856,2021-05-01 14:00:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,2,501,17141,5,3,45,2,1,0,4,72
+17947858,2021-05-12 18:45:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,0,501,17141,5,5,69,0,0,0,2,55
+17947862,2021-05-15 11:30:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,17141,5,3,45,0,0,0,0,47
+18136886,2021-08-01 14:00:00,Aberdeen vs Dundee United,Aberdeen,273,home,Dundee United,282,2,501,18369,5,5,57,2,2,0,1,23
+18136891,2021-08-08 14:00:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,2,501,18369,5,2,61,2,1,0,0,30
+18136896,2021-08-22 14:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,1,501,18369,5,3,54,1,,0,2,58
+18136900,2021-08-29 14:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,1,501,18369,5,12,72,1,,0,2,58
+18136909,2021-09-11 14:00:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,0,501,18369,5,6,75,0,0,0,3,27
+18136912,2021-09-18 14:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,0,501,18369,5,6,66,0,,0,1,33
+18136923,2021-09-26 11:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,0,501,18369,5,3,48,2,2,1,6,55
+18136924,2021-10-03 11:00:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,18369,5,6,39,1,1,0,0,66
+18136930,2021-10-16 17:00:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,0,501,18369,5,8,67,1,1,0,3,53
+18136936,2021-10-23 14:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,2,501,18369,5,0,44,1,1,0,4,50
+18136946,2021-10-27 18:45:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,1,501,18369,5,2,36,2,2,0,4,36
+18136948,2021-10-30 14:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,18369,5,5,51,2,2,0,2,50
+18136954,2021-11-06 15:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,0,501,18369,5,13,70,0,0,0,3,30
+18136960,2021-11-20 15:00:00,Dundee United vs Aberdeen,Aberdeen,273,away,Dundee United,282,0,501,18369,5,3,62,0,0,1,3,75
+18136966,2021-11-28 15:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,18369,5,3,39,1,0,0,1,33
+18136972,2021-12-01 19:45:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,2,501,18369,5,4,66,2,2,0,0,53
+18136978,2021-12-04 15:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,2,501,18369,5,6,50,4,3,0,0,52
+18136988,2021-12-11 15:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,2,501,18369,5,3,62,1,3,0,3,52
+18136991,2021-12-22 19:45:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,0,501,18369,5,5,52,0,0,0,2,30
+18136996,2021-12-26 15:00:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,2,501,18369,5,9,73,2,4,0,0,61
+18137002,2022-01-18 19:45:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,1,501,18369,5,6,59,1,2,0,4,80
+18137019,2022-01-25 19:45:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,0,501,18369,5,4,68,0,0,0,1,40
+18137012,2022-02-01 19:45:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,1,501,18369,5,5,62,1,1,0,3,58
+18137028,2022-02-05 15:00:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,0,501,18369,5,5,71,1,0,0,4,45
+18137032,2022-02-09 19:45:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,18369,5,1,44,2,2,0,2,33
+18137020,2022-02-15 19:45:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,1,501,18369,5,7,67,1,,0,1,42
+18137042,2022-02-19 15:00:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,1,501,18369,5,3,49,1,1,0,3,41
+18137044,2022-02-26 15:00:00,Aberdeen vs Dundee United,Aberdeen,273,home,Dundee United,282,1,501,18369,5,3,53,1,,0,2,42
+18137052,2022-03-02 19:45:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,18369,5,1,42,0,0,0,1,33
+18137060,2022-03-05 15:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,18369,5,2,36,0,0,0,3,15
+18137062,2022-03-19 15:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,2,501,18369,5,4,59,3,,0,2,30
+18137068,2022-04-02 14:00:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,1,501,18369,5,7,61,2,2,0,1,53
+18137074,2022-04-09 14:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,0,501,18369,5,3,56,0,,0,2,52
+18518010,2022-04-23 14:00:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,0,501,18369,5,12,65,1,,1,5,35
+18518013,2022-04-30 14:00:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,2,501,18369,5,6,57,1,,0,1,62
+18518016,2022-05-07 14:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,1,501,18369,5,4,48,1,1,0,1,87
+18518020,2022-05-11 18:45:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,0,501,18369,5,3,69,0,0,0,2,52
+18518022,2022-05-15 11:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,1,501,18369,5,11,61,0,,0,1,47
+18535492,2022-07-31 15:30:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,19735,5,3,31,0,0,0,2,50
+18535493,2022-08-06 14:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,2,501,19735,5,4,72,4,0,0,1,33
+18535499,2022-08-13 14:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,0,501,19735,5,5,60,2,1,0,1,60
+18535510,2022-08-20 14:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,2,501,19735,5,5,54,1,0,0,0,50
+18535511,2022-08-27 14:00:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,2,501,19735,5,8,57,5,2,0,1,33
+18535521,2022-09-03 14:00:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,1,501,19735,5,13,59,1,1,0,2,36
+18535529,2022-09-17 14:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,0,501,19735,5,2,35,1,1,1,5,56
+18535535,2022-10-01 14:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,19735,5,5,58,4,1,0,1,38
+18535541,2022-10-08 17:00:00,Dundee United vs Aberdeen,Aberdeen,273,away,Dundee United,282,0,501,19735,5,1,65,0,0,0,1,40
+18535547,2022-10-16 14:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,19735,5,4,41,2,2,0,3,50
+18535556,2022-10-22 14:00:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,2,501,19735,5,0,41,2,2,0,2,33
+18535562,2022-10-29 14:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,19735,5,4,31,1,1,0,2,50
+18535565,2022-11-04 19:30:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,2,501,19735,5,5,38,4,2,0,2,41
+18535573,2022-11-08 19:45:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,0,501,19735,5,8,63,1,0,0,3,44
+18535577,2022-11-12 18:00:00,Aberdeen vs Dundee United,Aberdeen,273,home,Dundee United,282,2,501,19735,5,3,46,1,0,0,1,83
+18535583,2022-12-17 12:30:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,19735,5,0,19,0,0,0,1,30
+18535523,2022-12-20 20:00:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,0,501,19735,5,3,32,2,0,0,5,52
+18535594,2022-12-24 12:30:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,0,501,19735,5,5,67,1,1,1,1,14
+18535597,2022-12-28 19:45:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,0,501,19735,5,6,61,1,0,0,2,38
+18535601,2023-01-02 15:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,1,501,19735,5,11,57,0,0,0,0,40
+18537945,2023-01-07 15:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,2,501,19735,5,9,58,2,1,0,0,47
+18537952,2023-01-18 19:45:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,19735,5,8,45,0,0,0,1,21
+18537958,2023-01-28 15:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,0,501,19735,5,9,50,0,0,1,4,41
+18537963,2023-02-01 19:45:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,0,501,19735,5,2,28,1,0,1,4,53
+18537969,2023-02-04 15:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,19735,5,9,60,3,1,0,4,50
+18537975,2023-02-18 15:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,19735,5,0,22,0,0,0,0,55
+18537981,2023-02-25 15:00:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,2,501,19735,5,8,51,1,,0,0,61
+18537987,2023-03-04 18:00:00,Dundee United vs Aberdeen,Aberdeen,273,away,Dundee United,282,2,501,19735,5,5,46,3,2,0,3,64
+18537993,2023-03-18 15:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,19735,5,7,37,3,2,0,3,43
+18538003,2023-04-01 14:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,2,501,19735,5,7,66,1,,1,3,30
+18538005,2023-04-08 14:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,19735,5,5,55,2,2,0,1,39
+18538016,2023-04-14 18:45:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,2,501,19735,5,2,50,1,1,1,2,55
+18538017,2023-04-23 15:30:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,2,501,19735,5,3,25,2,1,0,2,33
+18825710,2023-05-07 14:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,19735,5,6,29,0,0,0,2,71
+18825747,2023-05-13 14:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,1,501,19735,5,3,46,0,,0,2,44
+18825750,2023-05-20 11:30:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,19735,5,2,39,1,1,0,4,26
+18825752,2023-05-24 18:45:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,2,501,19735,5,2,60,3,1,0,0,50
+18825755,2023-05-27 11:30:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,19735,5,2,24,0,0,0,2,77
+18861939,2023-08-05 14:00:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,1,501,21787,5,7,53,0,,0,4,100
+18861943,2023-08-13 11:00:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,21787,5,9,33,1,1,0,0,54
+18861954,2023-08-27 14:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,1,501,21787,5,3,53,2,0,0,2,50
+18861955,2023-09-03 14:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,0,501,21787,5,7,56,0,0,0,2,100
+18861962,2023-09-16 14:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,21787,5,3,47,0,0,0,2,50
+18861967,2023-09-24 14:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,2,501,21787,5,5,49,4,4,0,0,66
+18861976,2023-09-30 14:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,2,501,21787,5,8,29,3,1,0,1,100
+18861979,2023-10-08 14:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,1,501,21787,5,5,56,0,,0,0,54
+18861992,2023-10-29 12:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,0,501,21787,5,3,51,0,0,0,3,100
+18862857,2023-11-01 19:45:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,2,501,21787,5,4,52,4,1,0,1,50
+18862003,2023-11-12 14:30:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,21787,5,0,22,0,0,0,3,100
+18862009,2023-11-26 12:00:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,1,501,21787,5,0,31,1,1,0,4,66
+18862015,2023-12-03 15:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,0,501,21787,5,6,53,0,0,0,2,80
+18862859,2023-12-06 19:45:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,0,501,21787,5,4,64,0,0,0,3,100
+18862021,2023-12-09 15:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,21787,5,3,51,2,1,0,3,55
+18861997,2023-12-20 19:45:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,2,501,21787,5,1,59,2,2,0,0,37
+18862046,2023-12-30 15:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,0,501,21787,5,13,67,0,0,0,1,100
+18862055,2024-01-02 15:00:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,2,501,21787,5,5,47,3,2,0,3,83
+18862031,2024-01-24 19:45:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,1,501,21787,5,4,55,1,0,0,1,69
+18862058,2024-01-27 15:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,21787,5,7,45,0,1,0,2,50
+18861985,2024-01-30 19:45:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,1,501,21787,5,0,53,1,0,0,2,50
+18862063,2024-02-03 12:30:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,1,501,21787,5,1,29,1,1,0,3,16
+18862072,2024-02-06 20:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,21787,5,2,25,1,1,0,2,50
+18862039,2024-02-14 19:45:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,1,501,21787,5,7,60,3,2,0,2,100
+18862075,2024-02-17 15:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,1,501,21787,5,4,44,2,0,0,1,61
+18862082,2024-02-24 15:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,0,501,21787,5,3,48,0,0,0,0,66
+18862087,2024-02-28 19:45:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,0,501,21787,5,11,54,0,0,0,0,42
+18862098,2024-03-02 15:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,0,501,21787,5,2,32,1,0,0,5,100
+18862034,2024-03-13 19:45:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,0,501,21787,5,4,46,0,,0,1,100
+18862103,2024-03-16 15:00:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,2,501,21787,5,6,50,1,,0,2,100
+18862105,2024-03-30 15:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,2,501,21787,5,2,50,2,2,0,2,33
+18862114,2024-04-06 14:00:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,1,501,21787,5,5,56,0,,0,0,100
+18862117,2024-04-13 14:00:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,1,501,21787,5,3,56,0,,1,2,66
+19116470,2024-04-27 14:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,21787,5,10,60,1,1,0,1,62
+19116497,2024-05-04 14:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,2,501,21787,5,7,65,1,,,1,50
+19116502,2024-05-12 14:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,2,501,21787,5,3,42,4,4,,1,100
+19116503,2024-05-15 18:45:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,2,501,21787,5,6,62,5,4,,2,100
+19116508,2024-05-19 14:00:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,1,501,21787,5,7,56,2,2,1,1,75
+19146702,2024-08-05 19:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,2,501,23690,5,7,49,2,,,1,44
+19146703,2024-08-11 14:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,2,501,23690,5,6,48,3,3,,2,9
+19146709,2024-08-25 14:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,23690,5,8,58,2,2,0,3,29
+19146719,2024-08-31 16:45:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,1,501,23690,5,12,65,,,,1,
+19146721,2024-09-14 14:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,23690,5,6,59,,1,,4,56
+19146727,2024-09-28 14:00:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,2,501,23690,5,3,47,2,2,,3,44
+19146733,2024-10-06 14:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,23690,5,2,56,3,2,0,1,47
+19146739,2024-10-19 14:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,1,501,23690,5,2,27,2,2,,5,33
+19146745,2024-10-26 16:30:00,Aberdeen vs Dundee United,Aberdeen,273,home,Dundee United,282,2,501,23690,5,8,70,1,,,1,43
+19146751,2024-10-30 20:00:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,2,501,23690,5,4,37,2,1,,5,38
+19146763,2024-11-09 17:30:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,2,501,23690,5,7,55,4,2,,3,56
+19146774,2024-11-23 16:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,0,501,23690,5,3,72,1,1,0,5,42
+19146759,2024-11-26 19:45:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,1,501,23690,5,6,51,3,2,,1,50
+19146777,2024-12-01 15:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,1,501,23690,5,6,46,1,1,,5,50
+19146781,2024-12-04 20:00:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,23690,5,2,26,0,0,,3,44
+19146787,2024-12-07 15:00:00,Aberdeen vs St. Johnstone,Aberdeen,273,home,St. Johnstone,734,1,501,23690,5,6,57,1,1,,5,42
+19146799,2024-12-21 15:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,0,501,23690,5,5,64,1,1,,3,50
+19146808,2024-12-26 15:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,0,501,23690,5,3,53,0,0,,4,80
+19146812,2024-12-29 17:15:00,Dundee United vs Aberdeen,Aberdeen,273,away,Dundee United,282,0,501,23690,5,1,60,0,0,,3,31
+19146817,2025-01-02 15:00:00,Aberdeen vs Ross County,Aberdeen,273,home,Ross County,246,0,501,23690,5,9,66,1,0,,2,33
+19146827,2025-01-05 14:30:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,0,501,23690,5,8,60,0,0,1,2,50
+19146829,2025-01-12 15:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,1,501,23690,5,4,49,,,,2,33
+19146797,2025-01-15 20:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,23690,5,3,41,0,0,,3,58
+19146835,2025-01-25 15:00:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,0,501,23690,5,6,74,0,0,,2,39
+19146842,2025-02-01 15:00:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,0,501,23690,5,8,62,0,0,,,78
+19146848,2025-02-15 15:00:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,2,501,23690,5,7,49,2,1,,1,59
+19146853,2025-02-22 15:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,23690,5,8,61,1,1,,2,33
+19146859,2025-02-25 20:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,23690,5,3,31,1,1,,0,33
+19146865,2025-03-02 15:00:00,Aberdeen vs Dundee United,Aberdeen,273,home,Dundee United,282,1,501,23690,5,14,73,2,2,,1,57
+19146876,2025-03-15 15:00:00,St. Johnstone vs Aberdeen,Aberdeen,273,away,St. Johnstone,734,1,501,23690,5,6,57,,,,,47
+19146877,2025-03-29 15:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,2,501,23690,5,9,62,4,4,,1,45
+19146887,2025-04-05 14:00:00,Ross County vs Aberdeen,Aberdeen,273,away,Ross County,246,2,501,23690,5,1,47,1,1,,3,45
+19146889,2025-04-13 11:00:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,1,501,23690,5,6,52,2,1,0,1,60
+19415301,2025-04-26 14:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,2,501,23690,5,10,56,1,,,3,53
+19415337,2025-05-03 14:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,0,501,23690,5,11,62,0,0,,2,47
+19415341,2025-05-11 11:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,23690,5,2,30,0,0,,3,43
+19415342,2025-05-14 19:00:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,23690,5,6,31,1,1,1,4,53
+19415346,2025-05-17 11:30:00,Dundee United vs Aberdeen,Aberdeen,273,away,Dundee United,282,0,501,23690,5,13,65,1,1,,2,21
+19428044,2025-08-04 19:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,25598,5,3,52,0,,,2,48
+19428050,2025-08-10 11:30:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,25598,5,1,29,0,0,,2,64
+19428057,2025-08-31 14:00:00,Aberdeen vs Falkirk,Aberdeen,273,home,Falkirk,770,0,501,25598,5,5,38,0,,1,3,45
+19428063,2025-09-13 14:00:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,1,501,25598,5,6,57,,,,4,42
+19428052,2025-09-23 18:45:00,Dundee United vs Aberdeen,Aberdeen,273,away,Dundee United,282,0,501,25598,5,3,57,0,0,,1,75
+19428073,2025-09-27 16:45:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,0,501,25598,5,4,37,0,0,,3,40
+19428075,2025-10-05 14:00:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,2,501,25598,5,11,63,4,2,,1,64
+19428086,2025-10-18 14:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,2,501,25598,5,2,51,1,1,0,4,57
+19428087,2025-10-26 14:30:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,0,501,25598,5,6,54,1,0,,0,44
+19428096,2025-10-29 19:45:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,2,501,25598,5,2,43,1,,,6,75
+19428105,2025-11-09 15:00:00,Aberdeen vs Motherwell,Aberdeen,273,home,Motherwell,309,1,501,25598,5,4,35,1,1,,4,44
+19428111,2025-11-23 15:00:00,Aberdeen vs Hearts,Aberdeen,273,home,Hearts,314,2,501,25598,5,6,40,1,,,3,41
+19428120,2025-11-30 15:00:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,2,501,25598,5,4,44,1,1,,1,62
+19428123,2025-12-03 19:45:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,1,501,25598,5,8,67,3,1,,0,47
+19428130,2025-12-06 15:00:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,2,501,25598,5,4,46,3,1,,1,79
+19428135,2025-12-14 15:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,25598,5,9,68,2,1,,2,21
+19428141,2025-12-21 15:00:00,Celtic vs Aberdeen,Aberdeen,273,away,Celtic,53,0,501,25598,5,4,27,1,1,1,2,73
+19428148,2025-12-27 17:45:00,Aberdeen vs Dundee United,Aberdeen,273,home,Dundee United,282,1,501,25598,5,9,72,1,,,2,50
+19428155,2025-12-30 19:45:00,Hibernian vs Aberdeen,Aberdeen,273,away,Hibernian,66,0,501,25598,5,5,42,0,0,,2,50
+19428161,2026-01-03 15:00:00,Falkirk vs Aberdeen,Aberdeen,273,away,Falkirk,770,0,501,25598,5,4,44,0,0,,4,42
+19590624,2026-01-06 20:00:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,25598,5,4,36,0,0,,2,58
+19428165,2026-01-11 16:30:00,Aberdeen vs Rangers,Aberdeen,273,home,Rangers,62,0,501,25598,5,6,52,0,0,,2,42
+19428171,2026-01-24 15:00:00,Aberdeen vs Livingston,Aberdeen,273,home,Livingston,258,2,501,25598,5,8,61,6,5,1,4,58
+19428180,2026-01-31 15:00:00,Kilmarnock vs Aberdeen,Aberdeen,273,away,Kilmarnock,180,0,501,25598,5,3,45,0,0,1,3,58
+19428199,2026-02-15 14:30:00,Motherwell vs Aberdeen,Aberdeen,273,away,Motherwell,309,0,501,25598,5,2,54,0,0,,6,60
+19428201,2026-02-21 15:00:00,Aberdeen vs Dundee,Aberdeen,273,home,Dundee,284,0,501,25598,5,2,53,2,1,1,3,57
+19428190,2026-02-24 19:45:00,Dundee United vs Aberdeen,Aberdeen,273,away,Dundee United,282,1,501,25598,5,6,57,,,,,16
+19428209,2026-02-28 15:00:00,Hearts vs Aberdeen,Aberdeen,273,away,Hearts,314,0,501,25598,5,4,47,0,0,,5,47
+19428183,2026-03-04 20:00:00,Aberdeen vs Celtic,Aberdeen,273,home,Celtic,53,0,501,25598,5,6,38,1,0,,2,37
+19428213,2026-03-14 15:00:00,Aberdeen vs Falkirk,Aberdeen,273,home,Falkirk,770,1,501,25598,5,4,42,1,0,,1,27
+19428224,2026-03-21 17:45:00,Rangers vs Aberdeen,Aberdeen,273,away,Rangers,62,0,501,25598,5,4,38,1,1,,4,36
+19428230,2026-04-04 14:00:00,St. Mirren vs Aberdeen,Aberdeen,273,away,St. Mirren,496,0,501,25598,5,5,43,0,0,,3,14
+19428231,2026-04-11 14:00:00,Aberdeen vs Hibernian,Aberdeen,273,home,Hibernian,66,2,501,25598,5,3,52,2,,0,2,38
+19700231,2026-04-25 14:00:00,Aberdeen vs Kilmarnock,Aberdeen,273,home,Kilmarnock,180,2,501,25598,5,6,42,1,,,1,57
+19700225,2026-05-01 18:45:00,Livingston vs Aberdeen,Aberdeen,273,away,Livingston,258,1,501,25598,5,3,50,2,1,,1,50
+19700218,2026-05-09 14:00:00,Aberdeen vs Dundee United,Aberdeen,273,home,Dundee United,282,2,501,25598,5,4,51,2,1,0,1,53
+19700213,2026-05-12 18:45:00,Aberdeen vs St. Mirren,Aberdeen,273,home,St. Mirren,496,0,501,25598,5,6,58,0,0,,1,31
+19700204,2026-05-17 13:00:00,Dundee vs Aberdeen,Aberdeen,273,away,Dundee,284,0,501,25598,5,2,44,2,1,,,40

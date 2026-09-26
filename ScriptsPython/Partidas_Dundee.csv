@@ -1,0 +1,279 @@
+﻿fixture_id,data,partida,time,team_id,local_visitante,adversario,adversario_id,resultado,league_id,season_id,state_id,Escanteios,Posse de bola (%),Gols,Assistências,Cartões vermelhos,Cartões amarelos,Dribles bem-sucedidos (%)
+377783,2014-08-31 11:30:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,1,501,1936,5,4,45,,,,,
+377901,2014-09-21 11:15:00,Dundee vs Dundee United,Dundee,284,home,Dundee United,282,0,501,1936,5,3,54,,,,,
+378618,2015-01-01 12:15:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,0,501,1936,5,4,45,,,,,
+379324,2015-03-21 12:15:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,1,501,1936,5,2,36,,,,,
+379466,2015-04-08 18:45:00,Dundee vs Dundee United,Dundee,284,home,Dundee United,282,2,501,1936,5,6,47,,,,,
+376489,2015-05-01 18:45:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,1936,5,2,35,,,,,
+376746,2015-05-24 11:30:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,0,501,1936,5,7,53,,,,,
+377737,2015-08-11 18:45:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,1,501,1937,5,1,54,,,,,
+378570,2015-11-27 19:45:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,1,501,1937,5,4,44,,,,,
+378634,2015-12-05 12:30:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,0,501,1937,5,3,41,,,,,
+378950,2016-01-02 12:30:00,Dundee vs Dundee United,Dundee,284,home,Dundee United,282,2,501,1937,5,9,45,,,,,
+379081,2016-01-22 19:45:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,0,501,1937,5,4,44,,,,,
+379207,2016-02-12 19:45:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,2,501,1937,5,4,52,,,,,
+379557,2016-03-20 12:30:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,1,501,1937,5,7,42,,,,,
+376690,2016-05-02 18:45:00,Dundee vs Dundee United,Dundee,284,home,Dundee United,282,2,501,1937,5,8,52,,,,,
+376859,2016-08-13 11:15:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,0,501,825,5,5,45,,,,,
+377791,2016-09-10 14:00:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,1,501,825,5,3,60,1,,1,3,
+377864,2016-09-18 11:00:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,0,501,825,5,1,37,1,,1,4,
+377896,2016-09-24 14:00:00,Inverness CT vs Dundee,Dundee,284,away,Inverness CT,265,0,501,825,5,9,58,1,,0,3,
+377962,2016-10-01 11:15:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,0,501,825,5,5,30,0,,0,2,
+378034,2016-10-15 14:00:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,0,501,825,5,10,45,0,,0,1,
+378098,2016-10-23 11:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,0,501,825,5,3,45,1,,0,2,
+378173,2016-10-26 18:45:00,Dundee vs Partick Thistle,Dundee,284,home,Partick Thistle,339,0,501,825,5,2,50,0,,0,1,
+378225,2016-10-29 14:00:00,Hamilton Academical vs Dundee,Dundee,284,away,Hamilton Academical,338,2,501,825,5,6,41,1,,0,1,
+378310,2016-11-05 15:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,2,501,825,5,3,49,2,,0,1,
+378373,2016-11-19 15:00:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,825,5,3,23,0,,0,2,
+378417,2016-11-26 15:00:00,Dundee vs Inverness CT,Dundee,284,home,Inverness CT,265,2,501,825,5,3,37,2,,0,3,
+378515,2016-12-03 15:00:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,0,501,825,5,1,41,0,,0,3,
+378556,2016-12-10 15:00:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,1,501,825,5,8,46,0,,0,2,
+378616,2016-12-17 15:00:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,825,5,3,24,1,,0,1,
+378668,2016-12-23 19:45:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,2,501,825,5,3,,3,,0,1,
+378733,2016-12-28 19:45:00,Partick Thistle vs Dundee,Dundee,284,away,Partick Thistle,339,0,501,825,5,1,54,0,,0,2,
+378815,2016-12-31 14:00:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,2,501,825,5,4,40,3,,0,1,
+378836,2017-01-27 19:45:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,0,501,825,5,3,36,0,,0,1,
+378975,2017-02-04 15:00:00,Inverness CT vs Dundee,Dundee,284,away,Inverness CT,265,1,501,825,5,5,45,2,,0,3,
+378955,2017-02-11 15:00:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,1,501,825,5,8,44,1,,0,3,
+379080,2017-02-19 15:15:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,2,501,825,5,5,47,2,,0,1,
+379101,2017-02-25 15:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,2,501,825,5,5,45,5,,0,1,
+379183,2017-03-01 19:45:00,Dundee vs Partick Thistle,Dundee,284,home,Partick Thistle,339,0,501,825,5,3,53,0,,0,0,
+379247,2017-03-11 15:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,0,501,825,5,7,57,0,,0,3,
+379327,2017-03-19 12:30:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,0,501,825,5,3,37,1,,0,4,
+379339,2017-03-31 18:45:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,0,501,825,5,10,43,0,,0,1,
+379411,2017-04-04 18:45:00,Ross County vs Dundee,Dundee,284,away,Ross County,246,0,501,825,5,3,46,1,,1,3,
+379479,2017-04-08 14:00:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,0,501,825,5,0,43,0,,0,1,
+379552,2017-04-15 14:00:00,Dundee vs Hamilton Academical,Dundee,284,home,Hamilton Academical,338,0,501,825,5,7,47,0,,0,0,
+376703,2017-04-29 14:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,2,501,825,5,1,37,3,,0,2,
+376738,2017-05-06 14:00:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,2,501,825,5,4,51,1,,0,1,
+234030,2017-05-13 14:00:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,1,501,825,5,1,52,1,,0,3,
+234037,2017-05-17 18:45:00,Dundee vs Inverness CT,Dundee,284,home,Inverness CT,265,0,501,825,5,11,56,0,,0,0,
+234041,2017-05-20 14:00:00,Hamilton Academical vs Dundee,Dundee,284,away,Hamilton Academical,338,0,501,825,5,3,39,0,,0,1,
+1871765,2017-08-05 14:00:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,0,501,7953,5,15,57,1,,0,1,
+1871769,2017-08-12 14:00:00,Hamilton Academical vs Dundee,Dundee,284,away,Hamilton Academical,338,0,501,7953,5,8,50,0,,0,3,
+1871775,2017-08-19 14:00:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,0,501,7953,5,6,40,1,,0,1,
+1871782,2017-08-27 11:30:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,1,501,7953,5,1,42,1,,0,2,
+1871790,2017-09-09 14:00:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,7953,5,2,41,1,,0,2,
+1871795,2017-09-16 14:00:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,2,501,7953,5,1,45,3,,1,2,
+1871800,2017-09-23 14:00:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,1,501,7953,5,9,54,1,,0,2,
+1871807,2017-09-30 14:00:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,2,501,7953,5,6,44,2,,0,3,
+1871811,2017-10-14 14:00:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,7953,5,4,43,0,,0,3,
+1871820,2017-10-21 14:00:00,Partick Thistle vs Dundee,Dundee,284,away,Partick Thistle,339,0,501,7953,5,1,48,1,,0,2,
+1871824,2017-10-25 18:45:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,0,501,7953,5,3,52,0,,0,3,
+1871831,2017-10-28 14:00:00,Dundee vs Hamilton Academical,Dundee,284,home,Hamilton Academical,338,0,501,7953,5,6,56,1,,0,4,
+1871836,2017-11-04 15:00:00,Hibernian vs Dundee,Dundee,284,away,Hibernian,66,0,501,7953,5,2,48,1,,0,2,
+1871842,2017-11-18 15:00:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,1,501,7953,5,6,,0,,1,1,
+1871848,2017-11-24 19:45:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,2,501,7953,5,2,38,2,,0,2,
+1871857,2017-12-02 15:00:00,Ross County vs Dundee,Dundee,284,away,Ross County,246,2,501,7953,5,7,45,2,,0,3,
+1871859,2017-12-08 19:45:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,0,501,7953,5,7,48,0,,0,3,
+1871866,2017-12-12 19:45:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,0,501,7953,5,6,53,0,,0,0,
+1871872,2017-12-16 15:00:00,Dundee vs Partick Thistle,Dundee,284,home,Partick Thistle,339,2,501,7953,5,4,47,3,,0,1,
+1871880,2017-12-23 15:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,1,501,7953,5,6,48,1,,0,2,
+1871884,2017-12-26 12:30:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,0,501,7953,5,1,43,0,,0,1,
+1871894,2017-12-30 15:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,2,501,7953,5,7,60,2,,0,2,
+1871895,2018-01-24 19:45:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,0,501,7953,5,7,44,0,,0,3,
+1871903,2018-01-27 15:00:00,Hamilton Academical vs Dundee,Dundee,284,away,Hamilton Academical,338,2,501,7953,5,5,57,2,,0,2,
+1871914,2018-02-03 15:00:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,0,501,7953,5,2,55,1,,0,0,
+1871909,2018-02-13 19:45:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,0,501,7953,5,5,58,2,,0,3,
+1871923,2018-02-17 15:00:00,Partick Thistle vs Dundee,Dundee,284,away,Partick Thistle,339,2,501,7953,5,6,48,2,,0,0,
+1871926,2018-02-24 15:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,0,501,7953,5,12,56,0,,0,2,
+1871937,2018-03-10 15:00:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,0,501,7953,5,6,44,0,,0,2,
+1871943,2018-03-17 15:00:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,0,501,7953,5,1,37,0,,0,0,
+1871951,2018-04-01 11:30:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,1,501,7953,5,8,56,1,,0,4,
+1871931,2018-04-04 18:45:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,1,501,7953,5,2,42,0,,0,3,
+1871958,2018-04-07 14:00:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,7953,5,4,49,0,,0,2,
+10320697,2018-04-21 14:00:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,2,501,7953,5,2,47,2,,0,2,
+10320704,2018-04-28 14:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,0,501,7953,5,7,46,1,,0,2,
+10320708,2018-05-05 11:30:00,Dundee vs Hamilton Academical,Dundee,284,home,Hamilton Academical,338,2,501,7953,5,4,49,1,,0,2,
+10320716,2018-05-08 18:45:00,Ross County vs Dundee,Dundee,284,away,Ross County,246,2,501,7953,5,8,44,1,,0,4,
+10320719,2018-05-12 14:00:00,Dundee vs Partick Thistle,Dundee,284,home,Partick Thistle,339,0,501,7953,5,7,50,0,,0,0,
+10333188,2018-08-04 14:00:00,St. Mirren vs Dundee,Dundee,284,away,St. Mirren,496,0,501,12963,5,6,53,1,,0,1,
+10333195,2018-08-11 14:00:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,0,501,12963,5,8,45,0,,0,1,
+10333199,2018-08-25 14:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,0,501,12963,5,6,55,0,,0,0,
+10333206,2018-09-01 14:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,0,501,12963,5,6,45,1,,0,2,
+10333214,2018-09-15 14:00:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,12963,5,5,42,0,,1,4,
+10333220,2018-09-22 14:00:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,0,501,12963,5,3,47,0,,0,2,
+10333224,2018-09-29 14:00:00,Hamilton Academical vs Dundee,Dundee,284,away,Hamilton Academical,338,2,501,12963,5,5,52,2,,0,3,
+10333230,2018-10-06 14:00:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,0,501,12963,5,7,45,1,,0,2,
+10333238,2018-10-20 14:00:00,Livingston vs Dundee,Dundee,284,away,Livingston,258,0,501,12963,5,2,53,0,,0,1,
+10333241,2018-10-23 18:45:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,0,501,12963,5,3,47,0,,0,1,
+10333252,2018-10-31 19:45:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,0,501,12963,5,0,25,0,,,4,
+10333258,2018-11-03 15:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,0,501,12963,5,4,47,0,,0,1,
+10333263,2018-11-10 15:00:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,1,501,12963,5,7,53,1,,0,1,
+10333267,2018-11-24 15:00:00,Hibernian vs Dundee,Dundee,284,away,Hibernian,66,1,501,12963,5,6,,2,,0,1,
+10333278,2018-12-05 19:45:00,Dundee vs Hamilton Academical,Dundee,284,home,Hamilton Academical,338,2,501,12963,5,5,44,4,,0,1,
+10333284,2018-12-09 13:30:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,1,501,12963,5,3,41,1,,1,1,
+10333291,2018-12-15 15:00:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,0,501,12963,5,3,47,1,,0,2,
+10333274,2018-12-18 19:45:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,0,501,12963,5,1,46,1,,0,3,
+10333295,2018-12-22 15:00:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,12963,5,1,37,0,,0,1,
+10333305,2018-12-26 15:00:00,Dundee vs Livingston,Dundee,284,home,Livingston,258,1,501,12963,5,8,49,0,,0,2,
+10333310,2018-12-29 15:00:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,0,501,12963,5,2,47,0,,0,3,
+10333314,2019-01-23 19:45:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,2,501,12963,5,2,42,2,,0,3,
+10333324,2019-01-26 15:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,0,501,12963,5,8,55,0,,0,0,
+10333327,2019-02-02 15:00:00,Hamilton Academical vs Dundee,Dundee,284,away,Hamilton Academical,338,1,501,12963,5,7,44,1,,0,2,
+10333334,2019-02-06 19:45:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,1,501,12963,5,2,44,2,,0,2,
+10333337,2019-02-16 15:00:00,Livingston vs Dundee,Dundee,284,away,Livingston,258,2,501,12963,5,5,59,2,,0,3,
+10333343,2019-02-22 19:45:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,0,501,12963,5,5,55,2,,0,4,
+10333353,2019-02-27 19:45:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,12963,5,1,48,0,,0,2,
+10333355,2019-03-09 15:00:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,0,501,12963,5,8,47,0,,0,3,
+10333364,2019-03-17 12:30:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,0,501,12963,5,5,37,0,,0,1,
+10333367,2019-03-30 15:00:00,St. Mirren vs Dundee,Dundee,284,away,St. Mirren,496,0,501,12963,5,1,51,1,,0,1,
+10333373,2019-04-03 18:45:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,0,501,12963,5,1,57,0,,0,1,
+10333384,2019-04-06 14:00:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,0,501,12963,5,4,40,0,,0,2,
+11853612,2019-04-20 14:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,0,501,12963,5,2,49,0,,0,3,
+11853614,2019-04-27 14:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,0,501,12963,5,4,39,3,,0,3,
+11853616,2019-05-04 14:00:00,Dundee vs Hamilton Academical,Dundee,284,home,Hamilton Academical,338,0,501,12963,5,3,52,0,,0,0,
+11853619,2019-05-11 14:00:00,Livingston vs Dundee,Dundee,284,away,Livingston,258,2,501,12963,5,0,48,1,,0,1,
+11853622,2019-05-18 11:30:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,0,501,12963,5,0,44,2,,1,2,
+18136883,2021-07-31 14:00:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,1,501,18369,5,8,44,2,1,1,2,35
+18136888,2021-08-08 14:00:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,18369,5,3,29,0,0,1,2,25
+18136895,2021-08-22 11:00:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,1,501,18369,5,4,45,2,,0,5,80
+18136903,2021-08-28 14:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,0,501,18369,5,4,60,0,,0,1,35
+18136907,2021-09-11 14:00:00,Dundee vs Livingston,Dundee,284,home,Livingston,258,1,501,18369,5,9,52,0,,0,1,28
+18136913,2021-09-19 11:00:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,0,501,18369,5,3,49,0,,0,2,40
+18136919,2021-09-25 14:00:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,0,501,18369,5,5,34,0,0,0,1,58
+18136929,2021-10-02 14:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,0,501,18369,5,4,54,1,1,0,1,42
+18136930,2021-10-16 17:00:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,2,501,18369,5,3,33,2,2,0,4,50
+18136939,2021-10-23 14:00:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,1,501,18369,5,3,30,1,1,0,5,20
+18136942,2021-10-27 18:45:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,0,501,18369,5,6,49,0,0,0,2,38
+18136953,2021-10-30 14:00:00,St. Mirren vs Dundee,Dundee,284,away,St. Mirren,496,2,501,18369,5,4,39,1,1,0,2,63
+18136955,2021-11-07 12:00:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,0,501,18369,5,2,19,2,2,0,5,40
+18136967,2021-11-27 15:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,2,501,18369,5,5,48,3,2,0,3,64
+18136974,2021-12-01 19:45:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,2,501,18369,5,6,47,1,1,0,0,40
+18136982,2021-12-04 15:00:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,18369,5,4,27,0,0,0,3,0
+18136987,2021-12-11 15:00:00,Ross County vs Dundee,Dundee,284,away,Ross County,246,0,501,18369,5,6,45,2,7,0,3,66
+18136961,2021-12-14 19:45:00,Hibernian vs Dundee,Dundee,284,away,Hibernian,66,0,501,18369,5,2,43,0,2,1,3,43
+18136990,2021-12-18 15:00:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,0,501,18369,5,3,37,0,0,0,4,54
+18136996,2021-12-26 15:00:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,0,501,18369,5,2,27,1,1,0,3,44
+18137006,2022-01-18 19:45:00,Livingston vs Dundee,Dundee,284,away,Livingston,258,0,501,18369,5,9,50,0,0,0,3,41
+18137018,2022-01-26 19:45:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,1,501,18369,5,2,47,0,,0,1,66
+18137009,2022-02-01 19:45:00,Dundee vs Dundee United,Dundee,284,home,Dundee United,282,1,501,18369,5,11,44,0,,0,1,54
+18137026,2022-02-05 15:00:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,0,501,18369,5,7,45,1,1,1,2,72
+18137034,2022-02-09 19:45:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,2,501,18369,5,4,29,2,1,0,3,50
+18137038,2022-02-20 15:00:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,18369,5,2,19,2,2,0,1,66
+18137045,2022-02-26 15:00:00,Dundee vs Livingston,Dundee,284,home,Livingston,258,0,501,18369,5,5,54,0,0,0,2,56
+18137051,2022-03-02 19:45:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,1,501,18369,5,3,43,0,,0,2,40
+18137059,2022-03-05 15:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,1,501,18369,5,3,43,1,0,0,2,36
+18137022,2022-03-09 19:45:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,0,501,18369,5,5,46,0,0,0,0,16
+18137064,2022-03-20 12:00:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,0,501,18369,5,1,30,1,1,0,3,80
+18137068,2022-04-02 14:00:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,1,501,18369,5,2,39,2,1,0,1,33
+18137076,2022-04-09 14:00:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,1,501,18369,5,5,49,2,1,0,2,66
+18518011,2022-04-23 14:00:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,1,501,18369,5,4,45,1,1,0,1,37
+18518013,2022-04-30 14:00:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,0,501,18369,5,6,43,0,,0,1,0
+18518018,2022-05-07 14:00:00,St. Mirren vs Dundee,Dundee,284,away,St. Mirren,496,0,501,18369,5,6,47,0,0,0,1,60
+18518019,2022-05-10 18:45:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,2,501,18369,5,4,40,3,1,0,2,37
+18518024,2022-05-15 11:00:00,Livingston vs Dundee,Dundee,284,away,Livingston,258,0,501,18369,5,8,40,1,1,0,2,53
+18861938,2023-08-05 14:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,1,501,21787,5,7,41,1,1,0,0,55
+18861948,2023-08-12 14:00:00,St. Mirren vs Dundee,Dundee,284,away,St. Mirren,496,0,501,21787,5,3,52,1,1,0,3,100
+18861950,2023-08-27 14:00:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,2,501,21787,5,3,35,1,1,0,1,100
+18861959,2023-09-02 14:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,1,501,21787,5,6,38,2,1,0,1,100
+18861961,2023-09-16 14:00:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,21787,5,1,26,0,0,0,0,60
+18861968,2023-09-23 14:00:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,1,501,21787,5,4,38,2,2,1,1,66
+18861973,2023-09-30 14:00:00,Hibernian vs Dundee,Dundee,284,away,Hibernian,66,1,501,21787,5,1,37,0,,0,4,80
+18861981,2023-10-24 18:45:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,1,501,21787,5,7,54,0,,0,1,75
+18861993,2023-10-28 14:00:00,Livingston vs Dundee,Dundee,284,away,Livingston,258,2,501,21787,5,5,52,2,2,0,0,40
+18862854,2023-11-01 20:30:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,0,501,21787,5,6,32,0,,0,4,40
+18862861,2023-11-05 14:00:00,Dundee vs Livingston,Dundee,284,home,Livingston,258,2,501,21787,5,5,46,1,,0,2,100
+18862004,2023-11-11 15:00:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,2,501,21787,5,7,42,4,1,0,1,75
+18862011,2023-11-25 15:00:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,0,501,21787,5,7,45,1,0,0,2,85
+18862018,2023-12-02 15:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,1,501,21787,5,4,62,3,2,0,2,100
+18862025,2023-12-09 15:00:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,21787,5,7,45,1,0,0,4,60
+18862030,2023-12-16 15:00:00,Ross County vs Dundee,Dundee,284,away,Ross County,246,2,501,21787,5,9,52,1,,0,2,100
+18862040,2023-12-26 15:00:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,0,501,21787,5,1,26,0,0,0,1,63
+18862048,2023-12-30 15:00:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,1,501,21787,5,8,42,2,1,0,2,66
+18861998,2024-01-23 19:45:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,0,501,21787,5,1,33,2,2,0,6,50
+18862060,2024-01-27 15:00:00,Livingston vs Dundee,Dundee,284,away,Livingston,258,2,501,21787,5,3,37,4,3,1,3,27
+18861985,2024-01-30 19:45:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,1,501,21787,5,3,47,1,1,0,3,71
+18862064,2024-02-03 15:00:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,0,501,21787,5,8,42,2,2,0,4,75
+18862074,2024-02-07 20:15:00,St. Mirren vs Dundee,Dundee,284,away,St. Mirren,496,0,501,21787,5,5,49,0,0,0,1,100
+18862051,2024-02-11 14:00:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,2,501,21787,5,13,59,2,1,0,4,100
+18862077,2024-02-17 15:00:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,2,501,21787,5,6,52,2,1,0,2,100
+18862081,2024-02-24 15:00:00,Hibernian vs Dundee,Dundee,284,away,Hibernian,66,0,501,21787,5,2,41,1,0,0,2,25
+18862088,2024-02-28 19:45:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,21787,5,5,24,1,1,1,3,66
+18862093,2024-03-02 15:00:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,1,501,21787,5,4,52,2,0,0,2,66
+18862034,2024-03-13 19:45:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,2,501,21787,5,6,54,1,,0,2,41
+18862110,2024-03-30 15:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,2,501,21787,5,2,47,2,2,0,1,33
+18862111,2024-04-06 14:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,0,501,21787,5,3,47,2,1,0,2,25
+18862117,2024-04-13 14:00:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,1,501,21787,5,5,44,0,,0,3,50
+18862100,2024-04-17 19:00:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,1,501,21787,5,2,34,0,,0,1,27
+19116469,2024-04-28 14:00:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,0,501,21787,5,8,32,1,1,0,0,100
+19116486,2024-05-04 14:00:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,0,501,21787,5,4,58,1,1,,2,22
+19116489,2024-05-11 14:00:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,0,501,21787,5,5,46,0,0,,3,75
+19116491,2024-05-14 18:30:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,21787,5,5,38,2,2,,,60
+19116495,2024-05-18 11:30:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,1,501,21787,5,4,61,1,1,0,1,83
+19146699,2024-08-04 12:30:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,1,501,23690,5,6,63,2,0,,0,36
+19146707,2024-08-10 16:30:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,2,501,23690,5,2,40,3,1,,3,33
+19146711,2024-08-24 14:00:00,Hibernian vs Dundee,Dundee,284,away,Hibernian,66,1,501,23690,5,4,50,2,,,4,55
+19146716,2024-08-31 14:00:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,1,501,23690,5,6,51,2,,,2,60
+19146725,2024-09-14 14:00:00,Ross County vs Dundee,Dundee,284,away,Ross County,246,0,501,23690,5,8,65,,0,,1,26
+19146727,2024-09-28 14:00:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,0,501,23690,5,10,53,1,0,,0,40
+19146734,2024-10-05 14:00:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,0,501,23690,5,2,36,2,2,1,3,57
+19146743,2024-10-19 14:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,2,501,23690,5,4,52,1,,,2,29
+19146746,2024-10-26 14:00:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,0,501,23690,5,2,36,1,1,,3,25
+19146752,2024-10-30 19:45:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,23690,5,2,20,0,,,4,60
+19146830,2024-11-03 15:00:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,2,501,23690,5,7,55,3,2,,2,65
+19146763,2024-11-09 17:30:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,0,501,23690,5,4,45,1,1,,1,38
+19146769,2024-11-23 17:45:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,2,501,23690,5,8,67,4,2,0,3,89
+19146778,2024-11-30 15:00:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,1,501,23690,5,3,42,1,0,,2,33
+19146782,2024-12-04 19:45:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,2,501,23690,5,4,59,4,3,,2,50
+19146790,2024-12-07 15:00:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,0,501,23690,5,4,43,0,0,,3,27
+19146803,2024-12-21 15:00:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,23690,5,3,28,0,0,,2,38
+19146807,2024-12-26 15:00:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,0,501,23690,5,5,65,0,0,,0,20
+19146816,2024-12-29 15:00:00,St. Mirren vs Dundee,Dundee,284,away,St. Mirren,496,2,501,23690,5,9,42,2,2,,2,50
+19146822,2025-01-02 17:30:00,Dundee vs Dundee United,Dundee,284,home,Dundee United,282,0,501,23690,5,6,53,1,0,,1,58
+19146828,2025-01-05 15:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,2,501,23690,5,5,23,3,2,,5,54
+19146758,2025-01-09 20:00:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,1,501,23690,5,3,23,1,1,,0,40
+19146793,2025-01-14 20:00:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,1,501,23690,5,2,21,3,2,,2,50
+19146841,2025-02-01 15:00:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,0,501,23690,5,3,49,0,0,,1,9
+19146836,2025-02-05 19:45:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,23690,5,3,20,0,0,,4,45
+19146848,2025-02-15 15:00:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,0,501,23690,5,8,51,1,1,,2,47
+19146857,2025-02-22 15:00:00,Ross County vs Dundee,Dundee,284,away,Ross County,246,0,501,23690,5,6,47,1,1,,2,36
+19146863,2025-02-26 19:45:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,0,501,23690,5,10,59,1,1,,0,37
+19146866,2025-03-01 15:00:00,Dundee vs St. Johnstone,Dundee,284,home,St. Johnstone,734,1,501,23690,5,4,41,1,1,,2,43
+19146872,2025-03-16 15:00:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,2,501,23690,5,4,39,4,3,0,2,42
+19146879,2025-03-29 17:30:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,0,501,23690,5,7,37,3,2,,1,33
+19146883,2025-04-05 14:00:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,2,501,23690,5,4,38,2,1,,1,22
+19146892,2025-04-13 13:30:00,Hibernian vs Dundee,Dundee,284,away,Hibernian,66,0,501,23690,5,2,47,0,0,,1,50
+19415348,2025-04-26 14:00:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,2,501,23690,5,3,27,1,,,4,43
+19415351,2025-05-03 14:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,0,501,23690,5,7,48,1,0,0,1,55
+19415355,2025-05-10 14:00:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,0,501,23690,5,2,59,2,2,,2,73
+19415357,2025-05-14 18:45:00,Dundee vs Ross County,Dundee,284,home,Ross County,246,1,501,23690,5,10,53,1,1,,3,38
+19415362,2025-05-18 14:00:00,St. Johnstone vs Dundee,Dundee,284,away,St. Johnstone,734,2,501,23690,5,9,36,2,1,,1,39
+19428042,2025-08-03 14:00:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,0,501,25598,5,3,32,1,1,,3,70
+19428049,2025-08-09 16:45:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,1,501,25598,5,4,24,1,1,0,1,0
+19428055,2025-08-23 14:00:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,1,501,25598,5,3,46,,,,3,50
+19428058,2025-08-31 13:00:00,Dundee vs Dundee United,Dundee,284,home,Dundee United,282,0,501,25598,5,3,54,0,0,,0,42
+19428064,2025-09-13 14:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,1,501,25598,5,2,34,1,1,1,1,29
+19428094,2025-09-20 14:00:00,Dundee vs Livingston,Dundee,284,home,Livingston,258,2,501,25598,5,8,41,3,2,,1,52
+19428074,2025-09-27 14:00:00,St. Mirren vs Dundee,Dundee,284,away,St. Mirren,496,0,501,25598,5,5,47,0,0,,2,50
+19428075,2025-10-05 14:00:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,0,501,25598,5,2,37,0,0,,0,31
+19428081,2025-10-19 11:00:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,2,501,25598,5,2,18,2,1,,2,33
+19428089,2025-10-25 14:00:00,Falkirk vs Dundee,Dundee,284,away,Falkirk,770,0,501,25598,5,3,34,1,1,,2,33
+19428101,2025-11-01 15:00:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,0,501,25598,5,2,33,0,0,,2,60
+19428107,2025-11-09 15:00:00,Dundee vs Rangers,Dundee,284,home,Rangers,62,0,501,25598,5,4,46,0,0,,0,43
+19428113,2025-11-22 15:00:00,Hibernian vs Dundee,Dundee,284,away,Hibernian,66,0,501,25598,5,3,43,0,0,,1,44
+19428117,2025-11-29 15:00:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,2,501,25598,5,1,38,3,2,,0,30
+19428124,2025-12-03 19:45:00,Celtic vs Dundee,Dundee,284,away,Celtic,53,0,501,25598,5,0,29,0,,,0,50
+19428130,2025-12-06 15:00:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,0,501,25598,5,6,54,1,1,,2,31
+19428139,2025-12-13 15:00:00,Livingston vs Dundee,Dundee,284,away,Livingston,258,1,501,25598,5,0,35,2,1,0,2,42
+19428145,2025-12-20 15:00:00,Motherwell vs Dundee,Dundee,284,away,Motherwell,309,0,501,25598,5,3,40,0,0,,2,67
+19428149,2025-12-27 15:00:00,Dundee vs Falkirk,Dundee,284,home,Falkirk,770,2,501,25598,5,1,42,1,,1,3,29
+19428153,2025-12-30 19:45:00,Dundee vs Kilmarnock,Dundee,284,home,Kilmarnock,180,2,501,25598,5,7,57,2,1,,2,64
+19428160,2026-01-03 15:00:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,2,501,25598,5,2,45,1,,,1,46
+19428167,2026-01-11 14:00:00,Dundee vs Hearts,Dundee,284,home,Hearts,314,0,501,25598,5,6,53,0,0,0,2,45
+19428176,2026-01-25 15:00:00,Rangers vs Dundee,Dundee,284,away,Rangers,62,0,501,25598,5,1,46,0,0,,1,31
+19428182,2026-01-31 15:00:00,St. Mirren vs Dundee,Dundee,284,away,St. Mirren,496,1,501,25598,5,6,60,,,0,,31
+19428191,2026-02-11 19:45:00,Falkirk vs Dundee,Dundee,284,away,Falkirk,770,0,501,25598,5,4,50,0,,,1,48
+19428195,2026-02-14 15:00:00,Dundee vs Livingston,Dundee,284,home,Livingston,258,1,501,25598,5,10,71,2,2,,2,55
+19428201,2026-02-21 15:00:00,Aberdeen vs Dundee,Dundee,284,away,Aberdeen,273,2,501,25598,5,9,47,3,1,0,2,61
+19428207,2026-02-28 15:00:00,Dundee vs Hibernian,Dundee,284,home,Hibernian,66,1,501,25598,5,6,43,3,3,,1,10
+19428184,2026-03-07 15:00:00,Dundee vs Motherwell,Dundee,284,home,Motherwell,309,2,501,25598,5,3,33,2,1,,4,44
+19428215,2026-03-15 14:00:00,Dundee vs Dundee United,Dundee,284,home,Dundee United,282,1,501,25598,5,4,57,2,0,,1,67
+19428221,2026-03-21 15:00:00,Hearts vs Dundee,Dundee,284,away,Hearts,314,0,501,25598,5,7,43,0,0,0,2,33
+19428225,2026-04-05 15:30:00,Dundee vs Celtic,Dundee,284,home,Celtic,53,0,501,25598,5,1,42,1,0,1,0,38
+19428236,2026-04-11 14:00:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,1,501,25598,5,2,49,2,2,,2,29
+19700228,2026-04-26 13:00:00,Dundee United vs Dundee,Dundee,284,away,Dundee United,282,0,501,25598,5,4,51,0,0,,0,42
+19700223,2026-05-02 14:00:00,Dundee vs St. Mirren,Dundee,284,home,St. Mirren,496,2,501,25598,5,5,39,1,,,1,59
+19700217,2026-05-09 14:00:00,Dundee vs Livingston,Dundee,284,home,Livingston,258,2,501,25598,5,7,43,3,2,,1,54
+19700211,2026-05-12 18:45:00,Kilmarnock vs Dundee,Dundee,284,away,Kilmarnock,180,0,501,25598,5,2,48,1,0,,3,33
+19700204,2026-05-17 13:00:00,Dundee vs Aberdeen,Dundee,284,home,Aberdeen,273,2,501,25598,5,7,56,3,2,,,29

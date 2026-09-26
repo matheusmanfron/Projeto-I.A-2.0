@@ -119,12 +119,14 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
 ## 📋 Backlog inicial
 
 | # | Tarefa                          | Situação  |
-| - | ------------------------------- | Feita
+| - | ------------------------------- |
 | 1 | Escolher o tipo de modelo       | Feita
 | 2 | Baixar a base da dados          | Feita
-| 3 | Definir dados de teste e treino | Não
-| 4 | Aplicar                         | Não
-| 5 | Entrega Final                   | Não
+| 3 | Aumentar a base de dados        | Feita
+| 4 | Tratar a base de dados          | A fazer
+| 5 | Definir dados de teste e treino | A fazer
+| 6 | Aplicar                         | A fazer
+| 7 | Entrega Final                   | A fazer
 
 ---
 
@@ -144,6 +146,6 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
  ---
 ## 👾​ Uso de I.A
 
-O uso da I.A foi feito para pesquisar empresas que já possuem uma ferramenta semelhante á que vou desenvolver, listar limitações no meu projeto e para reformatar o README.MD.
+O uso da I.A foi feito para pesquisar empresas que já possuem uma ferramenta semelhante á que vou desenvolver, listar limitações no meu projeto e para reformatar o README.MD. E também foi utilizado para criar scripts python para auxiliar em tarefas do projeto.
 
 Atualização: Uso da IA para gerar os scripts python sob revisão minha, auxilio na escrita do documento final e na criação dos slide da apresentação.
