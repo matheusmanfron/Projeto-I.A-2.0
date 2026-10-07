@@ -20,6 +20,11 @@ Listarei as alterações que fiz ao decorre das semanas para a entrega da AP1 fi
   *Para ter acesso aos scripts python e ao gráfico comparativo, acesse a pasta ScriptsPython
   *Os slides e o relatório será enviado separado do repositório pela plataforma Aula.
 
+Atualizações dia 02/10/2026 
+  *Aumentei minha base de dados de 2 times com 10 partidas cada, para 12 times com partidas registradas entre 2014 - 2026
+  *Tratei essa nova base mudando os tipos dos dados, padronizando valores e tratando nulos.
+  *Criei um modelo inicial para testar os dados e os métodos do modelo.
+
 ---
 
 ## 🔗 Relação do projeto e uma aplicação de I.A
@@ -38,13 +43,13 @@ O projeto se encaixa mais no conceito de previsão, pois o algoritmo vai consult
 
 **Entrada esperada:**
 
-> Opa chat, qual é a previsão entre Flamengo x Palmeiras?.
+> Celtic x Rangers.
 
 **Saída da I.A:**
 
-> Flamengo: 58%
-Empate: 24%
-Palmeiras: 18%
+> Celtic: 58%
+> Empate: 24%
+> Rangers: 18%
 
 Mais de 2.5 gols: 56%
 Ambas marcam: 59%
@@ -123,9 +128,9 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
 | 1 | Escolher o tipo de modelo       | Feita
 | 2 | Baixar a base da dados          | Feita
 | 3 | Aumentar a base de dados        | Feita
-| 4 | Tratar a base de dados          | A fazer
-| 5 | Definir dados de teste e treino | A fazer
-| 6 | Aplicar                         | A fazer
+| 4 | Tratar a base de dados          | Feita
+| 5 | Definir dados de teste e treino | Feita
+| 6 | Aplicar                         | Feita
 | 7 | Entrega Final                   | A fazer
 
 ---
