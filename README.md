@@ -25,6 +25,10 @@ Atualizações dia 02/10/2026
   *Tratei essa nova base mudando os tipos dos dados, padronizando valores e tratando nulos.
   *Criei um modelo inicial para testar os dados e os métodos do modelo.
 
+Atualizações dia 15/10/2026
+ *Fiz a análise técnica do meu modelo de I.A para encontrar pontos de melhorias e novos testes para fazer antes da AS.
+ *Atualizei o backlog
+
 ---
 
 ## 🔗 Relação do projeto e uma aplicação de I.A
