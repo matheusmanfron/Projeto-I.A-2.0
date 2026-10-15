@@ -135,7 +135,8 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
 | 4 | Tratar a base de dados          | Feita
 | 5 | Definir dados de teste e treino | Feita
 | 6 | Aplicar                         | Feita
-| 7 | Entrega Final                   | A fazer
+| 7 | Análise técnica do modelo       | Feita
+| 8 | Entrega Final                   | A fazer
 
 ---
 
