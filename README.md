@@ -27,6 +27,10 @@ Atualizações dia 02/10/2026
 
 Atualizações dia 29/10/2026
   *Fiz um comparativo entre meu modelo KNN atual e um modelo baseado em redes neurais no meu projeto.
+  
+Atualizações dia 15/10/2026
+ *Fiz a análise técnica do meu modelo de I.A para encontrar pontos de melhorias e novos testes para fazer antes da AS.
+ *Atualizei o backlog
 
 ---
 
@@ -134,7 +138,8 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
 | 4 | Tratar a base de dados          | Feita
 | 5 | Definir dados de teste e treino | Feita
 | 6 | Aplicar                         | Feita
-| 7 | Entrega Final                   | A fazer
+| 7 | Análise técnica do modelo       | Feita
+| 8 | Entrega Final                   | A fazer
 
 ---
 
