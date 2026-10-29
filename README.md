@@ -25,6 +25,9 @@ Atualizações dia 02/10/2026
   *Tratei essa nova base mudando os tipos dos dados, padronizando valores e tratando nulos.
   *Criei um modelo inicial para testar os dados e os métodos do modelo.
 
+Atualizações dia 29/10/2026
+  *Fiz um comparativo entre meu modelo KNN atual e um modelo baseado em redes neurais no meu projeto.
+
 ---
 
 ## 🔗 Relação do projeto e uma aplicação de I.A
