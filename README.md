@@ -27,6 +27,9 @@ Atualizações dia 02/10/2026
 
 Atualizações dia 29/10/2026
   *Fiz um comparativo entre meu modelo KNN atual e um modelo baseado em redes neurais no meu projeto.
+
+Atualizações dia 29/10/2026
+  *Realizei a análise e comparação de um modelo de I.A semelhante ao do meu projeto.
   
 Atualizações dia 15/10/2026
  *Fiz a análise técnica do meu modelo de I.A para encontrar pontos de melhorias e novos testes para fazer antes da AS.
