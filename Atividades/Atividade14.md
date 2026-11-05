@@ -43,5 +43,5 @@
 
     Uma limitação compartilhada é a dependência da qualidade e da quantidade dos dados históricos. Caso as estatísticas estejam incompletas ou não representem adequadamente o desempenho atual das equipes, as previsões podem perder qualidade.
 
-    Um erro que queremos evitar é apresentar uma previsão como se fosse uma certeza. Para isso, pretendemos utilizar probabilidades, comparar diferentes métricas de desempenho e deixar claras as limitações do modelo.
+    Um erro que quero evitar é apresentar uma previsão como se fosse uma certeza. Para isso, pretendo utilizar probabilidades, comparar diferentes métricas de desempenho e deixar claras as limitações do modelo.
 
