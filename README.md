@@ -142,7 +142,8 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
 | 5 | Definir dados de teste e treino | Feita
 | 6 | Aplicar                         | Feita
 | 7 | Análise técnica do modelo       | Feita
-| 8 | Entrega Final                   | A fazer
+| 8 | Relatório final da AS (Atividade 15) | Feita
+| 9 | Entrega Final                   | A fazer
 
 ---
 
@@ -157,9 +158,55 @@ Decidi usar essa fonte de dados pois possui um plano gratuito que retorna dados 
 ---
 
 ## Backlog
- Link do backlog -> <https://github.com/matheusmanfron/Projeto-I.A-2.0/blob/main/Atividades/Atividade7>
+ Backlog consolidado: `Backlog_Fut_Analitics_Atualizado.md` (arquivo atualizado disponibilizado junto deste README).
 
  ---
+
+## 📘 Atividade 15 — Relatório final da AS (18/11/2026)
+
+A Atividade 15 consolidou os resultados, limitações, possíveis vieses, riscos de uso indevido e propostas de melhoria do Fut Analitics. **Não corresponde a um novo treinamento ou a um aumento comprovado de acurácia.**
+
+### Resultados consolidados
+
+O projeto utiliza **aprendizado supervisionado** para classificar o resultado de uma equipe em uma partida: **0 = derrota, 1 = empate e 2 = vitória**. A base da **Scottish Premiership**, obtida pela API SportMonks, continha **3.446 registros iniciais**; após a preparação dos atributos históricos, **3.356 observações** foram utilizadas no experimento principal (**2.686 para treinamento e 670 para teste**). Cada observação representa uma equipe em uma partida.
+
+O modelo principal é o **KNN**, com **35 vizinhos**, distância euclidiana e padronização por `StandardScaler`.
+
+| Modelo | Acurácia no teste | F1 macro |
+|---|---:|---:|
+| Baseline — classe mais frequente | 40,3% | 0,191 |
+| Baseline — mando de campo | 46,7% | 0,353 |
+| **KNN (modelo principal)** | **50,0%** | **0,411** |
+| Rede neural MLP | 47,0% | 0,421 |
+
+O KNN acertou **335 de 670 previsões**, superando o baseline da classe mais frequente em **9,7 pontos percentuais** e o baseline de mando em **3,3 pontos percentuais**. A rede neural MLP, com camadas ocultas `(32, 16)`, apresentou **65% de acurácia no treino** e **47% no teste**, diferença que sugere *overfitting*. Embora a MLP tenha F1 macro ligeiramente superior, o KNN foi mantido por sua maior acurácia de teste.
+
+### Limitações e possíveis vieses
+
+O maior problema é a previsão de **empates**: apenas **9 de 157** empates reais foram reconhecidos (**recall de 5,7%**), contra recall de aproximadamente **62% para derrotas** e **65% para vitórias**. A base representa apenas a liga escocesa masculina, e o desempenho em outras competições não foi demonstrado. O modelo também não incorpora diretamente escalações confirmadas, lesões, suspensões ou condição física dos jogadores.
+
+O relatório identifica possíveis vieses de representatividade e o uso indireto de fatores de força competitiva por meio do mando e do histórico. **Ainda não houve avaliação por clube, temporada ou condição de mando**, de modo que não se pode afirmar desempenho uniforme entre esses grupos.
+
+### Riscos e uso responsável
+
+O relatório considera o risco **baixo no contexto acadêmico**, mas potencialmente **alto em aplicações financeiras**, como apostas. Acurácia de 50% não representa garantia de resultado. Uma interface futura deve comunicar as limitações e a incerteza das previsões. Não foi implementado mecanismo específico de contestação ou explicação individual.
+
+### Melhorias propostas — não concluídas
+
+- Investigar atributos que expressem o equilíbrio entre as equipes e testar outras configurações de vizinhos e pesos do KNN.
+- Incorporar informações disponíveis antes do jogo, como descanso, escalações e desfalques, quando houver dados confiáveis.
+- Comparar regressão logística, Random Forest e outras redes neurais usando avaliação temporal equivalente.
+- Medir acurácia e F1 macro por equipe, temporada e mando.
+- Apresentar probabilidades de vitória, empate e derrota **apenas com avaliação de calibração**, evitando transmitir certeza indevida.
+
+### Apresentação da AS
+
+A Atividade 15 propõe uma exposição de **8 minutos** (introdução, dados, metodologia, resultados, comparação de modelos, limitações e conclusão), seguida de até **4 minutos de perguntas**. O relatório e o roteiro foram elaborados; isso não significa que a apresentação ou a entrega já tenham ocorrido.
+
+**Documento de referência:** [`Atividade15.md`](Atividades/Atividade15.md).
+
+---
+
 ## 👾​ Uso de I.A
 
 O uso da I.A foi feito para pesquisar empresas que já possuem uma ferramenta semelhante á que vou desenvolver, listar limitações no meu projeto e para reformatar o README.MD. E também foi utilizado para criar scripts python para auxiliar em tarefas do projeto.

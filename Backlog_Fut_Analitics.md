@@ -2,7 +2,7 @@
 
 **Projeto:** Fut Analitics — previsão de resultados de partidas de futebol com aprendizado de máquina  
 **Repositório:** https://github.com/matheusmanfron/Projeto-I.A-2.0  
-**Atualização:** 04/11/2026  
+**Atualização:** 18/11/2026  
 **Domínio:** Campeonato Escocês de futebol  
 **Legenda:** `[x]` concluído · `[~]` parcialmente concluído / requer revisão · `[ ]` pendente
 
@@ -45,7 +45,12 @@ Desenvolver um sistema capaz de utilizar estatísticas históricas de partidas p
 | 29 | Apresentar probabilidades e limitações | [ ] | Saída desejada no README e análise do Forebet | Exibir as três probabilidades e alertar sobre incerteza |
 | 30 | Estimar gols, escanteios e mercados adicionais | [ ] | Objetivo futuro apresentado no README | Tratar como modelos separados, com métricas próprias |
 | 31 | Documentar execução e reproduzibilidade | [~] | Notebooks, relatórios e scripts estão versionados | Criar instruções de instalação, dependências, execução e origem dos dados |
-| 32 | Consolidar relatório e apresentação final | [~] | Slides e relatórios AP2 existentes | Atualizar conclusões, limitações, resultados e demonstração para entrega final |
+| 32 | Consolidar relatório e apresentação final | [~] | `Atividade15.md` reúne resultados, limitações, vieses, riscos, melhorias e roteiro da apresentação de 8 minutos | Finalizar apresentação e confirmar a entrega |
+| 33 | Elaborar relatório final da AS (Atividade 15) | [x] | `Atividade15.md`: síntese de métricas, comparação de modelos e conclusões | Manter coerência com os experimentos documentados |
+| 34 | Identificar limitações e possíveis vieses | [x] | Atividade 15: empates, cobertura da liga escocesa, proxies e desempenho desigual por classe | Avaliar futuramente por clube, temporada e mando |
+| 35 | Analisar riscos de uso indevido e custo de erros | [x] | Atividade 15: risco baixo no uso acadêmico e potencialmente alto em decisões financeiras/apostas | Exibir advertências e limitações em eventual interface |
+| 36 | Planejar melhorias fundamentadas | [x] | Atividade 15 propõe novas features, algoritmos, métricas por subgrupo e calibração | Implementar e testar propostas; não confundir planejamento com execução |
+| 37 | Definir roteiro de apresentação AS | [x] | Atividade 15: roteiro planejado de 8 minutos e até 4 minutos para perguntas | Ensaiar e validar tempo real |
 
 ## 3. Resultados técnicos registrados
 
@@ -64,7 +69,19 @@ Desenvolver um sistema capaz de utilizar estatísticas históricas de partidas p
 - **Limitação principal:** reconhecimento insuficiente de empates; na avaliação AP2, 9 dos 157 empates reais foram corretamente classificados pelo KNN.
 - **Nota de rastreabilidade:** a `Atividade11_AnaliseTecnica.md` registra um experimento anterior com 3.274 observações e métricas diferentes. Não misturar seus números com os do relatório AP2, que utiliza 3.356 observações após preparação.
 
-## 4. Próximas prioridades sugeridas
+## 4. Síntese da Atividade 15 — relatório final da AS
+
+A `Atividade15.md` consolida os resultados do projeto sem registrar um novo treinamento ou uma melhoria de acurácia. Mantém o **KNN como modelo principal**, com **335 acertos em 670 observações de teste (50,0%)**, F1 macro **0,411** e recall de empate **5,7% (9/157)**. O experimento com MLP obteve **47,0%** de acurácia no teste e **0,421** de F1 macro.
+
+**Limitações e vieses documentados:** baixa identificação de empates; generalização não demonstrada fora da liga escocesa masculina; ausência de informações sobre escalações, lesões e suspensões; possibilidade de proxies de força competitiva; desempenho desigual entre classes. Ainda não foram realizadas avaliações separadas por clube, temporada ou mando.
+
+**Risco e uso responsável:** a atividade classifica o risco como baixo no contexto educacional, mas potencialmente alto em uso financeiro. As previsões não devem ser apresentadas como garantias nem recomendações de apostas. Não há mecanismo específico de contestação ou explicação individual de previsões.
+
+**Melhorias propostas, ainda não implementadas:** atributos de equilíbrio entre equipes e contexto pré-jogo; ajustes do KNN; comparação com regressão logística e Random Forest; avaliação por equipe/temporada/mando; apresentação de probabilidades acompanhada de validação de calibração.
+
+**Apresentação:** a Atividade 15 estabelece um roteiro de aproximadamente **8 minutos**, seguido de até **4 minutos para perguntas**. A elaboração do roteiro está concluída; a realização e a entrega não são atestadas pelo relatório.
+
+## 5. Próximas prioridades sugeridas
 
 | Prioridade | Item | Critério de conclusão |
 |---|---|---|
@@ -76,7 +93,7 @@ Desenvolver um sistema capaz de utilizar estatísticas históricas de partidas p
 | Média | Criar consulta de partidas futuras | Seleção de equipes gera uma previsão usando apenas dados anteriores ao jogo |
 | Baixa / expansão | Criar interface e previsões adicionais | Interface utilizável e modelos específicos para gols/escanteios, se houver tempo |
 
-## 5. Critérios para considerar o projeto finalizado
+## 6. Critérios para considerar o projeto finalizado
 
 - [ ] Pipeline de dados reproduzível e sem vazamento identificado.
 - [ ] Modelo final escolhido por comparação justa com baseline e alternativas.
@@ -85,7 +102,7 @@ Desenvolver um sistema capaz de utilizar estatísticas históricas de partidas p
 - [ ] Demonstração funcional de previsão para uma partida ainda não ocorrida, se isso estiver no escopo da entrega.
 - [ ] README, relatório final e apresentação atualizados.
 
-## 6. Referências internas
+## 7. Referências internas
 
 - [README do Fut Analitics](https://github.com/matheusmanfron/Projeto-I.A-2.0/blob/main/README.md)
 - [Atividade 7 — Pipeline](https://github.com/matheusmanfron/Projeto-I.A-2.0/blob/main/Atividades/Atividade7.md)
@@ -93,6 +110,7 @@ Desenvolver um sistema capaz de utilizar estatísticas históricas de partidas p
 - [Atividade 12 — Análise de erros](https://github.com/matheusmanfron/Projeto-I.A-2.0/blob/main/Atividades/Atividade12.md)
 - [Atividade 13 — KNN vs. MLP](https://github.com/matheusmanfron/Projeto-I.A-2.0/blob/main/Atividades/Atividade13.md)
 - [Atividade 14 — Forebet](https://github.com/matheusmanfron/Projeto-I.A-2.0/blob/main/Atividades/Atividade14.md)
+- [Atividade 15 — Relatório final da AS](https://github.com/matheusmanfron/Projeto-I.A-2.0/blob/main/Atividades/Atividade15.md)
 - [Relatório de avaliação AP2](https://github.com/matheusmanfron/Projeto-I.A-2.0/blob/main/Atividades/relatorio_avaliacao_ap2.md)
 
-> **Observação:** os status refletem o que está documentado no repositório em 04/11/2026. Um item marcado como pendente pode ter sido desenvolvido localmente sem ainda estar registrado no GitHub.
+> **Observação:** os status refletem os documentos examinados até 18/11/2026, incluindo a Atividade 15 fornecida para esta atualização. Um item marcado como pendente pode ter sido desenvolvido localmente sem ainda estar registrado no GitHub.
